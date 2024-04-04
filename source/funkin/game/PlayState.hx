@@ -1,6 +1,7 @@
 package funkin.game;
 
 import flixel.FlxState;
+import funkin.editors.charter.CharterSelection;
 import funkin.menus.StoryMenuState.WeekData;
 import funkin.editors.SaveWarning;
 import funkin.backend.chart.EventsData;
