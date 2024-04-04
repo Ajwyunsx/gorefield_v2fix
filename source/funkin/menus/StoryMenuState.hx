@@ -43,9 +43,6 @@ var camBG:FlxCamera = null;
 var bgSprite:FlxBackdrop;
 var camText:FlxCamera = null;
 
-var bloomShader:CustomShader = null;
-var warpShader:CustomShader = null;
-
 var weekText:FlxText;
 var flavourText:FlxText;
 var textBG:FlxSprite;
@@ -54,7 +51,6 @@ var vigentte:FunkinSprite;
 var scoreText:FlxText;
 var textInfoBG:FlxSprite;
 var black:FlxSprite;
-var bgShader:CustomShader;
 
 var weeks:Array = [
 	{name: "Principal Week...", songs: ["The Great Punishment", "Curious Cat", "Metamorphosis", "Hi Jon", "Terror in the Heights", "BIGotes"]},
@@ -96,10 +92,6 @@ var weekDescs:Array<String> = [
 	"Extra stuff..."
 ];
 
-//cool shader
-public var chromatic:CustomShader;
-public var chromatic2:CustomShader;
-
 // SPANISH - Jloor 
 // hi jloor -lunar
 // Buenos dias -EstoyAburridow
@@ -124,7 +116,6 @@ var curSubMenuSelected:Int = 0;
 var subOptions:Array<FlxText> = [];
 var subOptionsData:Array<Dynamic> = [];
 var subMenuSelector:FlxSprite;
-var selectorBloom:CustomShader;
 var selectorCam:FlxCamera = null;
 
 // FREE PLAY
@@ -275,18 +266,6 @@ var tabSprite:FlxSprite;
 	CoolUtil.playMenuSong();
 	camBG.bgColor = FlxColor.fromRGB(17,5,33);
 
-	warpShader = new CustomShader("warp");
-	warpShader.distortion = 0;
-	if (FlxG.save.data.warp) FlxG.camera.addShader(warpShader);
-
-	chromatic = new CustomShader("chromaticWarp");
-    chromatic.distortion = 0; 
-    if (FlxG.save.data.warp && (weeksUnlocked[5] && !weeksFinished[5])) {camText.addShader(chromatic);}
-
-	chromatic2 = new CustomShader("chromaticWarp");
-    chromatic2.distortion = 0; 
-    if (FlxG.save.data.warp && (weeksUnlocked[5] && !weeksFinished[5])) {FlxG.camera.addShader(chromatic2); camBG.addShader(chromatic2);}
-
 	bgSprite = new FlxBackdrop(Paths.image("menus/WEA_ATRAS"), 0x11, 0, 0);
 	bgSprite.cameras = [camBG]; bgSprite.colorTransform.color = 0xFFFFFFFF;
 	bgSprite.velocity.set(100, 100);
@@ -295,15 +274,6 @@ var tabSprite:FlxSprite;
 	colowTwn = FlxTween.color(null, 5.4, 0xFF90D141, 0xFFF09431, {ease: FlxEase.qaudInOut, type: 4 /*PINGPONG*/, onUpdate: function () {
 		bgSprite.colorTransform.color = colowTwn.color;
 	}});
-
-	bgShader = new CustomShader("warp");
-	bgShader.distortion = 2;
-	if (FlxG.save.data.warp) camBG.addShader(bgShader);
-
-	bloomShader = new CustomShader("glow");
-	bloomShader.size = 18.0;// trailBloom.quality = 8.0;
-    bloomShader.dim = 1;// trailBloom.directions = 16.0;
-	if (FlxG.save.data.bloom) bgSprite.shader = bloomShader;
 
 	for (i in 0...9) {
 		var sprite:FlxSprite = new FlxSprite();
