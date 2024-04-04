@@ -52,7 +52,7 @@ var scoreText:FlxText;
 var textInfoBG:FlxSprite;
 var black:FlxSprite;
 
-var weeks:Array = [
+var weeks = [
 	{name: "Principal Week...", songs: ["The Great Punishment", "Curious Cat", "Metamorphosis", "Hi Jon", "Terror in the Heights", "BIGotes"]},
 	{name: "Lasagna Boy Week...", songs: ["Fast Delivery", "Health Inspection"]},
 	{name: "Sansfield Week...", songs: ["Cat Patella", "Mondaylovania", "ULTRA FIELD"]},
