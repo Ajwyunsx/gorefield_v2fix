@@ -38,8 +38,8 @@ var camBG:FlxCamera = null;
 var bgSprite:FlxBackdrop;
 var camText:FlxCamera = null;
 
-var bloomShader:CustomShader = null;
-var warpShader:CustomShader = null;
+//var bloomShader:CustomShader = null;
+//var warpShader:CustomShader = null;
 
 var weekText:FlxText;
 var flavourText:FlxText;
@@ -49,9 +49,9 @@ var vigentte:FunkinSprite;
 var scoreText:FlxText;
 var textInfoBG:FlxSprite;
 var black:FlxSprite;
-var bgShader:CustomShader;
+//var bgShader:CustomShader;
 
-var weeks:Array = [
+var weeks = [
 	{name: "Principal Week...", songs: ["The Great Punishment", "Curious Cat", "Metamorphosis", "Hi Jon", "Terror in the Heights", "BIGotes"]},
 	{name: "Lasagna Boy Week...", songs: ["Fast Delivery", "Health Inspection"]},
 	{name: "Sansfield Week...", songs: ["Cat Patella", "Mondaylovania", "ULTRA FIELD"]},
@@ -92,8 +92,8 @@ var weekDescs:Array<String> = [
 ];
 
 //cool shader
-public var chromatic:CustomShader;
-public var chromatic2:CustomShader;
+//public var chromatic:CustomShader;
+//public var chromatic2:CustomShader;
 
 // SPANISH - Jloor 
 // hi jloor -lunar
