@@ -1017,9 +1017,9 @@ function handleMenu() {
 	}
 }
 
-var pitchTween:Tween;
-var chromaticDistortion1:Tween;
-var chromaticDistortion2:Tween;
+var pitchTween:FlxTween;
+var chromaticDistortion1:FlxTween;
+var chromaticDistortion2:FlxTween;
 function changeWeek(change:Int) {
 	if(selectingWeek) return;
 
