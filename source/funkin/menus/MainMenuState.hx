@@ -24,9 +24,9 @@ import flixel.system.FlxAssets.FlxShader;
 import openfl.filters.ShaderFilter;
 import funkin.backend.system.Conductor;
 import funkin.backend.utils.DiscordUtil;
-import funkin.backend.shaders.glowShader;
-import funkin.backend.shaders.heatWaveShader;
-import funkin.backend.shaders.glitchShader;
+import funkin.backend.shaders.GlowShader;
+import funkin.backend.shaders.HeatWaveShader;
+import funkin.backend.shaders.GlitchShader;
 using StringTools;
 
 class MainMenuState extends MusicBeatState
@@ -68,9 +68,9 @@ var vigentte:FlxSprite;
 
 //PROMPT
 var boxSprite:FlxSprite;
-var glow:glowShader;
-var glitch:glitchShader;
-var heatWave:heatWaveShader;
+var glow:GlowShader;
+var glitch:GlitchShader;
+var heatWave:HeatWaveShader;
 var isInProgPrompt:Bool = false;
 var yesText:Alphabet;
 var noText:Alphabet;
@@ -191,7 +191,7 @@ var onYes:Bool = true;
 	vigentte.alpha = 0.2; vigentte.scrollFactor.set(0,0);
 	add(vigentte);
 
-	glow = new glowShader();
+	glow = new GlowShader();
 	glow.Quality.value = [8.0];
 	glow.Directions.value = [16.0];
 	glow.setGlow(2.2, 0.0);
@@ -346,9 +346,9 @@ function goToItem() {
 
 			FlxTween.tween(vigentte, {alpha: .4}, 3.2);
 
-	        heatWave = new heatWaveShader();
+	        heatWave = new HeatWaveShader();
 
-	        glitch = new glitchShader();
+	        glitch = new GlitchShader();
 	        glow.setGlow(1.0, 8.0);
 			FlxG.camera.setFilters([new ShaderFilter(glow), new ShaderFilter(heatWave), new ShaderFilter(glitch)]);
 
