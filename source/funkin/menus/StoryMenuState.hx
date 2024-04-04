@@ -1853,9 +1853,10 @@ var codes:Map<String, Void -> Void> = [
 	"MAGO" => function() CodesFunctions.meme("Pepe_el_Magin_Video"),
 	"SOY NOCHE" => function() CodesFunctions.meme("IM_NIGHT_Video"),
 	"DASITO" => function() CodesFunctions.meme("Dasito_Code"),
-	"PEDAZO" => function() CodesFunctions.meme("pedazo gato tremendo")
+	"PEDAZO" => function() CodesFunctions.meme("pedazo gato tremendo"),
 
 	// Youtubers english codes
+	"PENKARU" => CodesFunctions.penk,
 	"TAEYAI" => function() CodesFunctions.meme("t"),
 	"NIFFIRG" => function() CodesFunctions.meme("niffirgflumbo"),
 
