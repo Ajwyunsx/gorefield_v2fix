@@ -9,7 +9,7 @@ const float amount = 2.0;
 uniform float dim;
 const float Directions = 14.0;
 const float Quality = 4.0;
-uniform float Size; 
+uniform float size; 
 void main(void)
 { 
 
@@ -29,8 +29,8 @@ float Pi = 6.28318530718; // Pi*2
 		for(float i=1.0/Quality; i<=1.0; i+=1.0/Quality){
 			
 
-float ex = (cos(d)*Size*i)/openfl_TextureSize.x;
-float why = (sin(d)*Size*i)/openfl_TextureSize.y;
+float ex = (cos(d)*size*i)/openfl_TextureSize.x;
+float why = (sin(d)*size*i)/openfl_TextureSize.y;
 
 Color += flixel_texture2D( bitmap, uv+vec2(ex,why));	
 
