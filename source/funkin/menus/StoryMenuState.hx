@@ -2,6 +2,7 @@ package funkin.menus;
 
 import funkin.savedata.FunkinSave;
 import haxe.io.Path;
+import funkin.backend.scripting.ScriptPack;
 import funkin.backend.scripting.events.*;
 import funkin.backend.scripting.Script;
 import flixel.util.FlxTimer;
@@ -43,6 +44,7 @@ class StoryMenuState extends MusicBeatState {
 
 	public override function create() {
 		super.create();
+		ScriptPack.importScript("data/scripts/StoryMenuScreen");
 		qqqenScript = Script.create(Paths.script(script));
 		qqqenScript.setParent(this);
 		qqqenScript.load();
