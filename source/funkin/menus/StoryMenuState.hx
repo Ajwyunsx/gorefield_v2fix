@@ -1584,7 +1584,7 @@ function onKeyDown(keyCode:Int, modifier:Int) {
 			codesPosition = FlxMath.bound(codesPosition+1, 0, codesText.text.length); carcetTime = 0;
 		case backspace:
 			if (codesPosition > 0) {
-				codesText.text = codesText.text.substr(0, codesPosition-1) + codesText.text.substr(codesPosition);
+				codesText.text = codesText.text.substr(0, Math.floor(codesPosition)-1) + codesText.text.substr(Math.floor(codesPosition));
 				codesPosition = FlxMath.bound(codesPosition-1, 0, codesText.text.length); carcetTime = 0;
 			}
 		case home:
