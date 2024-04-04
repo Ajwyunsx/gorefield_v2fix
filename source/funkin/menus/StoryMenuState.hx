@@ -10,6 +10,7 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import funkin.backend.FunkinText;
 import haxe.xml.Access;
+import flixel.tweens.FlxTween;
 import flixel.FlxObject;
 import funkin.savedata.FunkinSave;
 import funkin.backend.assets.AssetsLibraryList.AssetSource;
