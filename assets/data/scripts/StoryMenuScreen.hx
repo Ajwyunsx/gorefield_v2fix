@@ -244,7 +244,6 @@ var codeListOpenHitbox:FlxObject;
 var tabSprite:FlxSprite;
 
 function create() {
-	StoryMenuState.script = 'data/scripts/StoryMenuScreen';
 	FlxG.mouse.visible = FlxG.mouse.useSystemCursor = true;
 	FlxG.cameras.remove(FlxG.camera, false);
 	DiscordUtil.changePresence('Scrolling Through Menus...', "Story Menu");
