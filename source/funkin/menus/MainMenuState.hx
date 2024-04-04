@@ -413,7 +413,7 @@ override function update(elapsed:Float) {
 	super.update(elapsed);
 	tottalTime += elapsed;
 
-	pauseScript.call("update", [elapsed])
+	pauseScript.call("update", [elapsed]);
 	
 	fire.y = -50 + (FlxMath.fastSin(tottalTime) * 10);
 	if (gorefield.animation.name == "jeje") {
