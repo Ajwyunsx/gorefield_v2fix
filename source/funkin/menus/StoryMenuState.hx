@@ -35,6 +35,7 @@ using StringTools;
 
 class StoryMenuState extends MusicBeatState {
 
+static var curStoryMenuSelected:Int = 0;
 var canMove:Bool = true;
 
 var menuOptions:Array<FlxSprite> = [];
