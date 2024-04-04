@@ -80,6 +80,8 @@ var onYes:Bool = true;
 	pauseScript.setParent(this);
 	pauseScript.load();
 	
+	pauseScript.call('create');
+		
 	PlayState.deathCounter = 0;
 	DiscordUtil.changePresence('Scrolling Through Menus...', "Main Menu");
 	CoolUtil.playMenuSong();
