@@ -13,7 +13,7 @@ function create()
 	staticShader = new CustomShader("tvstatic");
 	staticShader.time = 0; staticShader.strength = 0.2;
 	staticShader.speed = 20;
-	if (FlxG.save.data.static) FlxG.camera.addShader(staticShader);
+	if (FlxG.save.data.static1) FlxG.camera.addShader(staticShader);
 
 	saturationShader = new CustomShader("saturation");
 	saturationShader.sat = 1;
