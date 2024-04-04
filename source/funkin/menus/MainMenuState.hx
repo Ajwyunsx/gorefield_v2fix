@@ -65,6 +65,9 @@ var vigentte:FlxSprite;
 
 //PROMPT
 var boxSprite:FlxSprite;
+var glowShader:CustomShader;
+var glitchShader:CustomShader;
+var heatWaveShader:CustomShader;
 var isInProgPrompt:Bool = false;
 var yesText:Alphabet;
 var noText:Alphabet;
@@ -185,6 +188,12 @@ var onYes:Bool = true;
 	vigentte = new FlxSprite().loadGraphic(Paths.image("menus/black_vignette"));
 	vigentte.alpha = 0.2; vigentte.scrollFactor.set(0,0);
 	add(vigentte);
+
+	glowShader = new CustomShader("glow");
+	
+	heatWaveShader = new CustomShader("heatwave");
+
+	glitchShader = new CustomShader("glitch");
 
 	boxSprite = new FlxSprite(0,730).loadGraphic(Paths.image("menus/storymenu/TEXT_BOX"));
 	boxSprite.scale.set(1.1,1.1);
@@ -345,6 +354,10 @@ function goToItem() {
 			fire.animation.play('fire');
 
 			FlxTween.tween(vigentte, {alpha: .4}, 3.2);
+
+	                if (FlxG.save.data.glitch) gorefield.shader = glitchShader;
+			if (FlxG.save.data.heatwave) fire.shader = heatWaveShader;
+			if (FlxG.save.data.bloom) FlxG.camera.addShader(glowShader);
 
 			for (member in members)
 				if (Std.isOfType(member, FlxBasic)) member.visible = member == fire || member == gorefield || member == vigentte;
