@@ -200,6 +200,7 @@ var videos:Array<FlxVideoSprite> = [];
 var videosChannel:Array<String> = ["CH1","CH2","CH3","CH4", "CH5"];
 static var curVideo:Int = 0;
 var isTVOn:Bool = false;
+public static var fromMovieCredits:Bool = false;
 var television:FlxSprite;
 var channelBar:FlxSprite;
 var fastForwardIcon:FlxSprite;
@@ -249,7 +250,7 @@ public var acceptedCallback:Void->Void;
 //CODES LIST
 var codesList:FlxSprite;
 var gottenCodes:Array<String> = [];
-var gottenCodeText:FlxTypedGroup<FunkinText> = [];
+var gottenCodeText:flixel.group.FlxTypedGroup<funkin.backend.FunkinText> = [];
 var codeListOpenHitbox:FlxObject;
 var tabSprite:FlxSprite;
 
@@ -1449,7 +1450,7 @@ function goToSong() {
     PlayState.loadSong(freeplaySongLists[freePlayMenuID].songs[freeplaySelected[freePlayMenuID]], "hard", false, false);
 	PlayState.isStoryMode = PlayState.chartingMode = false; // Just incase cause people see cutscenes for some reason
 
-    FlxG.switchState(new ModState("gorefield/LoadingScreen"));
+    FlxG.switchState(new LoadingScreen());
 
 	/*if(freePlayMenuID == 8){ //is codes menu
 		PlayState.isStoryMode = true;
@@ -1647,7 +1648,7 @@ var CodesFunctions:{} = {
 
 				new FlxTimer().start(2, function(_) {
 					MusicBeatState.skipTransIn = MusicBeatState.skipTransOut = true;
-					FlxG.switchState(new ModState("gorefield/easteregg/Penkaru"));
+					FlxG.switchState(new Penkaru());
 				});
 			});
 		}, 4);
