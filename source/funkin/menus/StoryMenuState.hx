@@ -1856,7 +1856,7 @@ var codes:Map<String, Void -> Void> = [
 	"PEDAZO" => function() CodesFunctions.meme("pedazo gato tremendo")
 
 	// Youtubers english codes
-	"PENKARU" => CodesFunctions.penk,
+	"PENKARU" => CodesFunctions.penk;
 	"TAEYAI" => function() CodesFunctions.meme("t"),
 	"NIFFIRG" => function() CodesFunctions.meme("niffirgflumbo"),
 
@@ -1880,7 +1880,7 @@ var codes:Map<String, Void -> Void> = [
 
 	// Extras codes
 	"SPIDERS" => function() CodesFunctions.meme("cry")
-	"MOUSTACHE" => function(){FlxG.switchState(new ModState("gorefield/CreditsScreen")); moustacheMode = true;}
+	"MOUSTACHE" => function(){FlxG.switchState(new CreditsScreen()); moustacheMode = true;}
 	"SANS" => function() CodesFunctions.meme("SANS")
 	"JLOOR" => function() CodesFunctions.meme("JLOOR")
 	"FNF" => function() CodesFunctions.meme("FNF")
