@@ -236,6 +236,7 @@ var isInProgPrompt:Bool = false;
 var yesText:FlxText;
 var noText:FlxText;
 var okText:FlxText;
+var video:FlxVideoSprite;
 var progInfoText:FlxText;
 var onYes:Bool = true;
 
