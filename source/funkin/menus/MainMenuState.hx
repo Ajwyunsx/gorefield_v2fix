@@ -73,7 +73,8 @@ var onYes:Bool = true;
 
 	override function create()
 	{
-		super.create();
+	importScript("data/scripts/qqqeb0");
+	super.create();
 
 	pauseScript = Script.create(Paths.script(script));
 	pauseScript.setParent(this);
@@ -206,6 +207,17 @@ var onYes:Bool = true;
 	pauseScript.call("postCreate");
 	}
 
+public function importScript(path:String):Script {
+		var script = Script.create(Paths.script(path));
+		if (script is DummyScript) {
+			throw 'Script at ${path} does not exist.';
+			return null;
+		}
+		add(script);
+		script.load();
+		return script;
+}
+	
 function checkWeekProgress() {
 	if(Data.weekProgress != null){
 		if (Data.weekProgress.exists("Principal Week...")){
