@@ -7,9 +7,9 @@ const float amount = 2.0;
 
     // GAUSSIAN BLUR SETTINGS
 uniform float dim;
-uniform float directions;
-uniform float quality; 
-uniform float size; 
+const float Directions = 14.0;
+const float Quality = 4.0;
+uniform float Size; 
 void main(void)
 { 
 
