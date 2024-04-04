@@ -7,6 +7,7 @@ import flixel.FlxState;
 import flixel.effects.FlxFlicker;
 import flixel.util.FlxTimer;
 import flixel.sound.FlxSound;
+import funkin.backend.scripting.Script;
 import funkin.game.Data;
 import funkin.menus.TitleState;
 import flixel.text.FlxText;
@@ -58,6 +59,8 @@ var menuInfomation:FlxText;
 var logoBl:FlxSprite;
 var fire:FlxSprite;
 var gorefield:FlxSprite;
+public static var script:String = "";
+public var pauseScript:Script;
 var vigentte:FlxSprite;
 
 //PROMPT
@@ -72,7 +75,11 @@ var onYes:Bool = true;
 	{
 		super.create();
 
-		PlayState.deathCounter = 0;
+	pauseScript = Script.create(Paths.script(script));
+	pauseScript.setParent(this);
+	pauseScript.load();
+	
+	PlayState.deathCounter = 0;
 	DiscordUtil.changePresence('Scrolling Through Menus...', "Main Menu");
 	CoolUtil.playMenuSong();
 	FlxG.camera.bgColor = FlxColor.fromRGB(17,5,33);
@@ -195,7 +202,9 @@ var onYes:Bool = true;
 	progInfoText.scrollFactor.set();
 	progInfoText.screenCenter(FlxAxes.X);
 	insert(99999,progInfoText);
-}
+
+	pauseScript.call("postCreate");
+	}
 
 function checkWeekProgress() {
 	if(Data.weekProgress != null){
@@ -390,6 +399,8 @@ override function update(elapsed:Float) {
 	super.update(elapsed);
 	tottalTime += elapsed;
 
+	pauseScript.call("update", [elapsed])
+	
 	fire.y = -50 + (FlxMath.fastSin(tottalTime) * 10);
 	if (gorefield.animation.name == "jeje") {
 		gorefield.offset.y = 15 + FlxG.random.float(-6,6); gorefield.offset.x = -25 + FlxG.random.float(-2,2);
