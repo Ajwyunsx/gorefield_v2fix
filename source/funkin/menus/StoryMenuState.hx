@@ -267,7 +267,7 @@ var tabSprite:FlxSprite;
 	CoolUtil.playMenuSong();
 	camBG.bgColor = FlxColor.fromRGB(17,5,33);
 
-	bgSprite = new FlxBackdrop(Paths.image("menus/WEA_ATRAS"), 0x11, 0, 0);
+	bgSprite = new FlxBackdrop(Paths.image("menus/WEA_ATRAS"), 0x11, X);
 	bgSprite.cameras = [camBG]; bgSprite.colorTransform.color = 0xFFFFFFFF;
 	bgSprite.velocity.set(100, 100);
 	add(bgSprite);
