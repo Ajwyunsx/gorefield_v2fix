@@ -4,8 +4,6 @@ import flixel.FlxObject;
 import funkin.savedata.FunkinSave;
 import funkin.backend.assets.AssetsLibraryList.AssetSource;
 import flixel.addons.display.FlxBackdrop;
-import flixel.text.FlxTextFormat;
-import flixel.text.FlxTextFormatMarkerPair;
 import funkin.backend.system.framerate.Framerate;
 import funkin.backend.utils.FlxInterpolateColor;
 import Xml;
