@@ -30,7 +30,7 @@ function create(){
     staticShader = new CustomShader("tvstatic");
 	staticShader.time = 0; staticShader.strength = 0.1;
 	staticShader.speed = 20;
-	if (FlxG.save.data.static) FlxG.camera.addShader(staticShader);
+	if (FlxG.save.data.static1) FlxG.camera.addShader(staticShader);
 
     stage.stageSprites["black"].visible = stage.stageSprites["black"].active = true;
     camHUD.alpha = 0;
