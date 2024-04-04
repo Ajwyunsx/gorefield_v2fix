@@ -243,7 +243,8 @@ var gottenCodeText:FlxTypedGroup<FunkinText> = [];
 var codeListOpenHitbox:FlxObject;
 var tabSprite:FlxSprite;
 
-function create() {
+override function create() {
+	super.create();
 	FlxG.mouse.visible = FlxG.mouse.useSystemCursor = true;
 	FlxG.cameras.remove(FlxG.camera, false);
 	DiscordUtil.changePresence('Scrolling Through Menus...', "Story Menu");
@@ -654,7 +655,8 @@ var cacheRect:Rectangle = new Rectangle();
 var cachePoint:FlxPoint = FlxPoint.get(0,0);
 var cachePoint2:FlxPoint = FlxPoint.get(0,0);
 var carcetTime:Float = 0;
-function update(elapsed:Float) {
+override function update(elapsed:Float) {
+	super.update(elapsed);
 	__totalTime += elapsed;
 
 	if (canMove && FlxG.keys.justPressed.TAB && !codesOpened && FlxG.save.data.canVisitArlene){
@@ -1902,7 +1904,7 @@ function incorrectCode():Void {
 	FlxG.sound.play(Paths.sound("menu/story/locked"));
 }
 
-function destroy() {
+override function destroy() {
 	FlxG.camera.bgColor = FlxColor.fromRGB(0,0,0); 
 	FlxG.sound.music.pitch = 1;
 	FlxG.sound.music.volume = 1;
@@ -1917,6 +1919,7 @@ function destroy() {
 
 	FlxG.stage.window.onKeyDown.remove(onKeyDown);
 	FlxG.stage.window.onTextInput.remove(onTextInput);
+        super.destroy();
 }
 
 var secretCode:String = "";
