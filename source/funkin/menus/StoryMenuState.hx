@@ -53,7 +53,7 @@ var camText:FlxCamera = null;
 var weekText:FlxText;
 var flavourText:FlxText;
 var textBG:FlxSprite;
-var vigentte:FunkinSprite;
+var vigentte:FlxSprite;
 
 var scoreText:FlxText;
 var textInfoBG:FlxSprite;
@@ -443,7 +443,7 @@ override function create() {
 	black = new FlxSprite().makeSolid(FlxG.width, FlxG.height, 0xFF000000);
     add(black); black.alpha = 0;
 
-	vigentte = new FunkinSprite().loadGraphic(Paths.image("menus/black_vignette"));
+	vigentte = new FlxSprite().loadGraphic(Paths.image("menus/black_vignette"));
 	vigentte.scrollFactor.set();
 	vigentte.zoomFactor = 0;
 
