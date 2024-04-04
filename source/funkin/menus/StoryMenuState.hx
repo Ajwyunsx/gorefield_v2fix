@@ -1879,13 +1879,13 @@ var codes:Map<String, Void -> Void> = [
 	"CATBOT" => CodesFunctions.catbot,
 
 	// Extras codes
-	"SPIDERS" => function() CodesFunctions.meme("cry")
+	"SPIDERS" => function() CodesFunctions.meme("cry"),
 	"MOUSTACHE" => function(){FlxG.switchState(new CreditsScreen()); moustacheMode = true;}
-	"SANS" => function() CodesFunctions.meme("SANS")
-	"JLOOR" => function() CodesFunctions.meme("JLOOR")
-	"FNF" => function() CodesFunctions.meme("FNF")
-	"TOP 5" => function() CodesFunctions.meme("top 5")
-	"PUEBLO MARRON" => function() CodesFunctions.meme("Pueblo_Marron")
+	"SANS" => function() CodesFunctions.meme("SANS"),
+	"JLOOR" => function() CodesFunctions.meme("JLOOR"),
+	"FNF" => function() CodesFunctions.meme("FNF"),
+	"TOP 5" => function() CodesFunctions.meme("top 5"),
+	"PUEBLO MARRON" => function() CodesFunctions.meme("Pueblo_Marron"),
 	"PERUFIELD" => function() CodesFunctions.image("cuy"),
 ];
 
