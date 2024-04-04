@@ -1,10 +1,11 @@
 package funkin.backend.scripting.events;
+import funkin.menus.StoryMenuState.WeekData;
 
 final class WeekSelectEvent extends CancellableEvent {
 	/**
 	 * Week that is going to be selected
 	 */
-
+         public var week:WeekData;
 	/**
 	 * The difficulty that has been selected
 	 */
