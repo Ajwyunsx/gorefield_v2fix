@@ -123,7 +123,7 @@ var curSubMenuSelected:Int = 0;
 var subOptions:Array<FlxText> = [];
 var subOptionsData:Array<Dynamic> = [];
 var subMenuSelector:FlxSprite;
-var selectorBloom:CustomShader;
+//var selectorBloom:CustomShader;
 var selectorCam:FlxCamera = null;
 
 // FREE PLAY
