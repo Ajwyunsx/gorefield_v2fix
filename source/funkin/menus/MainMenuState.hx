@@ -13,7 +13,6 @@ import funkin.menus.TitleState;
 import flixel.text.FlxText;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
-import funkin.backend.shaders.CustomShader;
 import lime.app.Application;
 import funkin.backend.scripting.events.*;
 import funkin.options.OptionsMenu;
@@ -21,9 +20,13 @@ import funkin.menus.ModSwitchMenu;
 import funkin.editors.EditorPicker;
 import flixel.util.FlxAxes;
 import flixel.util.FlxColor;
+import flixel.system.FlxAssets.FlxShader;
+import openfl.filters.ShaderFilter;
 import funkin.backend.system.Conductor;
 import funkin.backend.utils.DiscordUtil;
-
+import funkin.backend.shaders.glowShader;
+import funkin.backend.shaders.heatWaveShader;
+import funkin.backend.shaders.glitchShader;
 using StringTools;
 
 class MainMenuState extends MusicBeatState
@@ -65,9 +68,9 @@ var vigentte:FlxSprite;
 
 //PROMPT
 var boxSprite:FlxSprite;
-var glowShader:CustomShader;
-var glitchShader:CustomShader;
-var heatWaveShader:CustomShader;
+var glow:glowShader;
+var glitch:glitchShader;
+var heatWave:heatWaveShader;
 var isInProgPrompt:Bool = false;
 var yesText:Alphabet;
 var noText:Alphabet;
@@ -188,11 +191,11 @@ var onYes:Bool = true;
 	vigentte.alpha = 0.2; vigentte.scrollFactor.set(0,0);
 	add(vigentte);
 
-	glowShader = new CustomShader("glow");
+	glow = new glowShader();
+	glow.Quality.value = [8.0];
+	glow.Directions.value = [16.0];
+	glow.setGlow(2.2, 0.0);
 	
-	heatWaveShader = new CustomShader("heatwave");
-
-	glitchShader = new CustomShader("glitch");
 
 	boxSprite = new FlxSprite(0,730).loadGraphic(Paths.image("menus/storymenu/TEXT_BOX"));
 	boxSprite.scale.set(1.1,1.1);
@@ -343,9 +346,11 @@ function goToItem() {
 
 			FlxTween.tween(vigentte, {alpha: .4}, 3.2);
 
-	                if (FlxG.save.data.glitch) gorefield.shader = glitchShader;
-			if (FlxG.save.data.heatwave) fire.shader = heatWaveShader;
-			if (FlxG.save.data.bloom) FlxG.camera.addShader(glowShader);
+	        heatWave = new heatWaveShader();
+
+	        glitch = new glitchShader();
+	        glow.setGlow(1.0, 8.0);
+			FlxG.camera.setFilters([new ShaderFilter(glow), new ShaderFilter(heatWave), new ShaderFilter(glitch)]);
 
 			for (member in members)
 				if (Std.isOfType(member, FlxBasic)) member.visible = member == fire || member == gorefield || member == vigentte;
