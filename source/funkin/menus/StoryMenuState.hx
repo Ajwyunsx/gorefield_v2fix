@@ -1372,7 +1372,7 @@ function preloadFreeplayMenus() {
 				icon.animation.play("idle");
 			} else {
 				icon.loadGraphic(Paths.image(path)); // load once to get the width and stuff
-				icon.loadGraphic(icon.graphic, true, icon.graphic.width/2, icon.graphic.height);
+				icon.loadGraphic(icon.graphic, true, Math.floor(icon.graphic.width/2), Math.floor(icon.graphic.height));
 				icon.animation.add("non-animated", [0,1], 0, false);
 				icon.animation.play("non-animated");
 			}
