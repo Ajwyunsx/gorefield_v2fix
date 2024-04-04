@@ -191,10 +191,6 @@ var onYes:Bool = true;
 	vigentte.alpha = 0.2; vigentte.scrollFactor.set(0,0);
 	add(vigentte);
 
-	glow = new GlowShader();
-	glow.Quality.value = [8.0];
-	glow.Directions.value = [16.0];
-	glow.setGlow(2.2, 0.0);
 	
 
 	boxSprite = new FlxSprite(0,730).loadGraphic(Paths.image("menus/storymenu/TEXT_BOX"));
@@ -349,7 +345,9 @@ function goToItem() {
 	        heatWave = new HeatWaveShader();
 
 	        glitch = new GlitchShader();
-	        glow.setGlow(1.0, 8.0);
+	        glow = new GlowShader();
+	        glow.Quality.value = [8.0];
+	        glow.Directions.value = [16.0];
 			FlxG.camera.setFilters([new ShaderFilter(glow), new ShaderFilter(heatWave), new ShaderFilter(glitch)]);
 
 			for (member in members)
