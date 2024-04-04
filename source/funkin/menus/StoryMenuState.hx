@@ -22,6 +22,7 @@ import hxvlc.flixel.FlxVideoSprite;
 import funkin.backend.MusicBeatState;
 import funkin.backend.scripting.GlobalScript;
 import Type;
+import flixel.tweens.FlxTween;
 import flixel.text.FlxText;
 import Date;
 
