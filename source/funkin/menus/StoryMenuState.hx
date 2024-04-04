@@ -1577,24 +1577,24 @@ function onKeyDown(keyCode:Float, modifier:Float) {
 	if (!codesFocused || !canMove) return;
 
 	switch(keyCode) {
-		case LEFT:
+		case left:
 			codesPosition = FlxMath.bound(codesPosition-1, 0, codesText.text.length); carcetTime = 0;
-		case RIGHT:
+		case right:
 			codesPosition = FlxMath.bound(codesPosition+1, 0, codesText.text.length); carcetTime = 0;
-		case BACKSPACE:
+		case backspace:
 			if (codesPosition > 0) {
 				codesText.text = codesText.text.substr(0, codesPosition-1) + codesText.text.substr(codesPosition);
 				codesPosition = FlxMath.bound(codesPosition-1, 0, codesText.text.length); carcetTime = 0;
 			}
-		case HOME:
+		case home:
 			codesPosition = 0;
-		case END:
+		case end:
 			codesPosition = codesText.text.length;
-		case V:
+		case v:
 			// paste
 			if (modifier == LEFT_CTRL || modifier == RIGHT_CTRL) // Esto a mi no me funciona :sob: -EstoyAburridow
 			{
-				var data:String = Clipboard.generalClipboard.getData(2/**TEXTFORMAT**/);
+				var data:String = Clipboard.generalClipboard.getData(2.0/**TEXTFORMAT**/);
 				if (data != null) onTextInput(data);
 			}
 		default: // nothing
