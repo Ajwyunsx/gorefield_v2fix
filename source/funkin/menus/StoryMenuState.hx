@@ -49,14 +49,14 @@ class StoryMenuState extends MusicBeatState {
 
 		DiscordUtil.changePresence("In the Menus", null);
 		CoolUtil.playMenuSong();
-	    pauseScript.call("postCreate");
+	    qqqenScript.call("postCreate");
 	}
 
 	var __lastDifficultyTween:FlxTween;
 	public override function update(elapsed:Float) {
 		super.update(elapsed);
 
-	    pauseScript.call("update", [elapsed]);
+	    qqqenScript.call("update", [elapsed]);
 	}
 
 	public override function destroy() {
