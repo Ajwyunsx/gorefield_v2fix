@@ -2,6 +2,7 @@ package funkin.game;
 
 import funkin.editors.charter.CharterSelection;
 import flixel.FlxState;
+import funkin.menus.StoryMenuState.WeekData;
 import funkin.editors.SaveWarning;
 import funkin.backend.chart.EventsData;
 import funkin.backend.system.RotatingSpriteGroup;
@@ -54,7 +55,8 @@ class PlayState extends MusicBeatState
 	 * The week data of the current week
 	 */
 	/**
-	 * The remaining songs in the Story Mode playlist.
+	public static var storyWeek:WeekData = null;
+         * The remaining songs in the Story Mode playlist.
 	 */
 	public static var storyPlaylist:Array<String> = [];
 	/**
@@ -1860,7 +1862,9 @@ class PlayState extends MusicBeatState
 	 * @param weekData Week Data
 	 * @param difficulty Week Difficulty
 	 */
-	public static function loadWeek(difficulty:String = "normal") {
+	public static function loadWeek(weekData:WeekData, difficulty:String = "normal") {
+		storyWeek = weekData;
+		storyPlaylist = [for(e in weekData.songs) e.name];
 		isStoryMode = true;
 		campaignScore = 0;
 		campaignMisses = 0;
@@ -1868,6 +1872,7 @@ class PlayState extends MusicBeatState
 		campaignAccuracyCount = 0;
 		chartingMode = false;
 		opponentMode = coopMode = false;
+		__loadSong(storyPlaylist[0], difficulty);
 	}
 
 	/**
