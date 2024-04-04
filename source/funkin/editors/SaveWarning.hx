@@ -5,7 +5,6 @@ class SaveWarning {
 	public static function set_showWarning(warning:Bool):Bool
 		return WindowUtils.preventClosing = showWarning = warning;
 
-	public static var selectionClass:Class<EditorTreeMenu> = null;
 	public static var saveFunc:Void->Void = null;
 
 	public static function init() {
