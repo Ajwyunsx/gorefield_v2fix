@@ -1881,7 +1881,7 @@ var codes:Map<String, Void -> Void> = [
 
 	// Extras codes
 	"SPIDERS" => function() CodesFunctions.meme("cry"),
-	"MOUSTACHE" => function(){FlxG.switchState(new CreditsScreen()), moustacheMode = true,}
+	"MOUSTACHE" => function(){FlxG.switchState(new CreditsScreen()); moustacheMode = true,}
 	"SANS" => function() CodesFunctions.meme("SANS"),
 	"JLOOR" => function() CodesFunctions.meme("JLOOR"),
 	"FNF" => function() CodesFunctions.meme("FNF"),
