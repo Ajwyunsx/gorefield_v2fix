@@ -1856,7 +1856,6 @@ var codes:Map<String, Void -> Void> = [
 	"PEDAZO" => function() CodesFunctions.meme("pedazo gato tremendo")
 
 	// Youtubers english codes
-	"PENKARU" => CodesFunctions.penk;
 	"TAEYAI" => function() CodesFunctions.meme("t"),
 	"NIFFIRG" => function() CodesFunctions.meme("niffirgflumbo"),
 
