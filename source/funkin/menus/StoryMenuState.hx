@@ -17,7 +17,7 @@ class StoryMenuState extends MusicBeatState {
 	public var characters:Map<String, MenuCharacter> = [];
 	public var weeks:Array<WeekData> = [];
 
-	public static var script:String = "";
+	public static var script:String = "data/scripts/StoryMenuScreen";
 	public var scoreText:FlxText;
 	public var tracklist:FlxText;
 	public var weekTitle:FlxText;
@@ -44,7 +44,6 @@ class StoryMenuState extends MusicBeatState {
 
 	public override function create() {
 		super.create();
-		ScriptPack.importScript1("data/scripts/StoryMenuScreen");
 		qqqenScript = Script.create(Paths.script(script));
 		qqqenScript.setParent(this);
 		qqqenScript.load();
