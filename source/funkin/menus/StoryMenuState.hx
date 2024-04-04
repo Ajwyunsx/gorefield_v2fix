@@ -31,6 +31,7 @@ import Type;
 import Date;
 import flixel.text.FlxText;
 
+using StringTools;
 class StoryMenuState extends MusicBeatState {
 	var canMove:Bool = true;
 
