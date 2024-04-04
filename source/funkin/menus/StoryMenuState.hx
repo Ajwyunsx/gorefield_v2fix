@@ -1938,3 +1938,17 @@ function generateSECRET() {
 	#end
 }
 }
+
+typedef WeekData = {
+	var name:String;
+	var id:String;
+	var sprite:String;
+	var chars:Array<String>;
+	var songs:Array<WeekSong>;
+	var difficulties:Array<String>;
+}
+
+typedef WeekSong = {
+	var name:String;
+	var hide:Bool;
+}
