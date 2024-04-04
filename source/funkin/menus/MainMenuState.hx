@@ -220,7 +220,7 @@ var onYes:Bool = true;
 
 public function importScript(path:String):Script {
 		var script = Script.create(Paths.script(path));
-		add(script);
+		Script.add(script);
 		script.load();
 		return script;
 }
