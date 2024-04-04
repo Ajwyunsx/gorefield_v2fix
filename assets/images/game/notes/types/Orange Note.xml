@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ORANGE ARROWS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="orange arrow DOWN0000" x="0" y="0" width="169" height="159"/>
+	<SubTexture name="orange arrow left0000" x="169" y="0" width="159" height="169"/>
+	<SubTexture name="orange arrow right0000" x="328" y="0" width="159" height="169"/>
+	<SubTexture name="orange arrow up0000" x="0" y="169" width="169" height="159"/>
+</TextureAtlas>

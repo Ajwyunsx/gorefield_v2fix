@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="John_icons.png">
+<SubTexture name="idle0000" x="0" y="0" width="157" height="147" frameX="-21" frameY="-1" frameWidth="190" frameHeight="150" />
+<SubTexture name="idle0001" x="157" y="0" width="156" height="145" frameX="-21" frameY="-2" frameWidth="190" frameHeight="150" />
+<SubTexture name="losing0000" x="0" y="147" width="100" height="132" frameX="-45" frameY="-16" frameWidth="190" frameHeight="150" />
+<SubTexture name="losing0001" x="100" y="147" width="100" height="130" frameX="-45" frameY="-17" frameWidth="190" frameHeight="150" />
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pause.png">
+<SubTexture name="Pause Animation0000" x="0" y="0" width="435" height="160" frameX="0" frameY="0" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0001" x="0" y="0" width="435" height="160" frameX="0" frameY="0" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0002" x="0" y="0" width="435" height="160" frameX="0" frameY="0" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0003" x="0" y="0" width="435" height="160" frameX="0" frameY="0" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0004" x="0" y="0" width="435" height="160" frameX="0" frameY="0" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0005" x="0" y="160" width="245" height="65" frameX="-190" frameY="-50" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0006" x="0" y="160" width="245" height="65" frameX="-190" frameY="-50" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0007" x="0" y="160" width="245" height="65" frameX="-190" frameY="-50" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0008" x="0" y="160" width="245" height="65" frameX="-190" frameY="-50" frameWidth="435" frameHeight="160" />
+<SubTexture name="Pause Animation0009" x="0" y="160" width="245" height="65" frameX="-190" frameY="-50" frameWidth="435" frameHeight="160" />
+</TextureAtlas>

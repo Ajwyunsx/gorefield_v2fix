@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nermal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="109" height="114"/>
+	<SubTexture name="idle0001" x="0" y="0" width="109" height="114"/>
+	<SubTexture name="idle0002" x="0" y="0" width="109" height="114"/>
+	<SubTexture name="idle0003" x="109" y="0" width="107" height="114" frameX="0" frameY="0" frameWidth="109" frameHeight="114"/>
+	<SubTexture name="idle0004" x="109" y="0" width="107" height="114" frameX="0" frameY="0" frameWidth="109" frameHeight="114"/>
+	<SubTexture name="idle0005" x="109" y="0" width="107" height="114" frameX="0" frameY="0" frameWidth="109" frameHeight="114"/>
+	<SubTexture name="losing0000" x="216" y="0" width="132" height="124" frameX="-1" frameY="0" frameWidth="136" frameHeight="124"/>
+	<SubTexture name="losing0001" x="216" y="0" width="132" height="124" frameX="-1" frameY="0" frameWidth="136" frameHeight="124"/>
+	<SubTexture name="losing0002" x="348" y="0" width="136" height="124"/>
+	<SubTexture name="losing0003" x="348" y="0" width="136" height="124"/>
+</TextureAtlas>

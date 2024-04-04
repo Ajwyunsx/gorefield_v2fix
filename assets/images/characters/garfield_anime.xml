@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garfield anime.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down garfield anime0000" x="0" y="0" width="622" height="750" frameX="-5" frameY="-34" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0001" x="0" y="0" width="622" height="750" frameX="-5" frameY="-34" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0002" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0003" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0004" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0005" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0006" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0007" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0008" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0009" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime0010" x="622" y="0" width="624" height="785" frameX="0" frameY="0" frameWidth="627" frameHeight="785"/>
+	<SubTexture name="down garfield anime miss0000" x="1246" y="0" width="647" height="820" frameX="0" frameY="-23" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0001" x="1246" y="0" width="647" height="820" frameX="0" frameY="-23" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0002" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0003" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0004" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0005" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0006" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0007" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0008" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="down garfield anime miss0009" x="1893" y="0" width="624" height="843" frameX="-12" frameY="0" frameWidth="647" frameHeight="843"/>
+	<SubTexture name="idle garfield anime0000" x="2517" y="0" width="651" height="796" frameX="0" frameY="0" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0001" x="2517" y="0" width="651" height="796" frameX="0" frameY="0" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0002" x="2517" y="0" width="651" height="796" frameX="0" frameY="0" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0003" x="3168" y="0" width="652" height="793" frameX="0" frameY="-1" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0004" x="3168" y="0" width="652" height="793" frameX="0" frameY="-1" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0005" x="3168" y="0" width="652" height="793" frameX="0" frameY="-1" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0006" x="0" y="843" width="648" height="794" frameX="-2" frameY="-1" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0007" x="0" y="843" width="648" height="794" frameX="-2" frameY="-1" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="idle garfield anime0008" x="0" y="843" width="648" height="794" frameX="-2" frameY="-1" frameWidth="652" frameHeight="796"/>
+	<SubTexture name="left garfield anime0000" x="648" y="843" width="721" height="771" frameX="0" frameY="-13" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0001" x="648" y="843" width="721" height="771" frameX="0" frameY="-13" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0002" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0003" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0004" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0005" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0006" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0007" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0008" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0009" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime0010" x="1369" y="843" width="700" height="781" frameX="-10" frameY="0" frameWidth="721" frameHeight="784"/>
+	<SubTexture name="left garfield anime miss0000" x="2069" y="843" width="729" height="813" frameX="0" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0001" x="2069" y="843" width="729" height="813" frameX="0" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0002" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0003" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0004" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0005" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0006" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0007" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0008" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="left garfield anime miss0009" x="2798" y="843" width="721" height="813" frameX="-15" frameY="0" frameWidth="736" frameHeight="813"/>
+	<SubTexture name="right garfield anime0000" x="3519" y="843" width="521" height="788" frameX="0" frameY="-3" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0001" x="3519" y="843" width="521" height="788" frameX="0" frameY="-3" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0002" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0003" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0004" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0005" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0006" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0007" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0008" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0009" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime0010" x="0" y="1656" width="476" height="792" frameX="-8" frameY="0" frameWidth="521" frameHeight="792"/>
+	<SubTexture name="right garfield anime miss0000" x="476" y="1656" width="521" height="852" frameX="-9" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0001" x="476" y="1656" width="521" height="852" frameX="-9" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0002" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0003" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0004" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0005" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0006" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0007" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0008" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="right garfield anime miss0009" x="997" y="1656" width="521" height="852" frameX="0" frameY="0" frameWidth="530" frameHeight="852"/>
+	<SubTexture name="up garfield anime0000" x="1518" y="1656" width="581" height="837" frameX="-2" frameY="0" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0001" x="1518" y="1656" width="581" height="837" frameX="-2" frameY="0" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0002" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0003" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0004" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0005" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0006" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0007" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0008" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0009" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime0010" x="2099" y="1656" width="574" height="822" frameX="0" frameY="-14" frameWidth="583" frameHeight="837"/>
+	<SubTexture name="up garfield anime miss0000" x="2673" y="1656" width="565" height="897" frameX="-7" frameY="0" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0001" x="2673" y="1656" width="565" height="897" frameX="-7" frameY="0" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0002" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0003" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0004" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0005" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0006" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0007" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0008" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+	<SubTexture name="up garfield anime miss0009" x="3238" y="1656" width="581" height="881" frameX="0" frameY="-16" frameWidth="581" frameHeight="897"/>
+</TextureAtlas>

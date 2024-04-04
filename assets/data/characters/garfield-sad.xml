@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-400" icon="icon-garsad" camx="200" y="0" isGF="false" scale="0.8" camy="170" color="#D44D29" flipX="true" isPlayer="true" gameOverChar="face" holdTime="1.5" sprite="gatito">
+	<anim x="0" loop="true" y="0" fps="24" anim="garfield depresivo idle" name="idle"/>
+	<anim x="135" loop="false" y="-24" fps="24" anim="garfield depresivo left0" name="singLEFT"/>
+	<anim x="70" loop="false" y="-244" fps="24" anim="garfield depresivo down0" name="singDOWN"/>
+	<anim x="-18" loop="false" y="15" fps="24" anim="garfield depresivo up0" name="singUP"/>
+	<anim x="-100" loop="false" y="4" fps="24" anim="garfield depresivo right0" name="singRIGHT"/>
+	<anim x="220" loop="false" y="-1" fps="24" anim="garfield depresivo left miss" name="singLEFTmiss"/>
+	<anim x="80" loop="false" y="-129" fps="24" anim="garfield depresivo down miss" name="singDOWNmiss"/>
+	<anim x="-18" loop="false" y="120" fps="24" anim="garfield depresivo up miss" name="singUPmiss"/>
+	<anim x="-115" loop="false" y="44" fps="24" anim="garfield depresivo right miss" name="singRIGHTmiss"/>
+</character>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ULTRA G CARGA 02.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ULTRA G CARGA 020000" x="5" y="5" width="918" height="1128"/>
+	<SubTexture name="ULTRA G CARGA 020001" x="5" y="5" width="918" height="1128"/>
+	<SubTexture name="ULTRA G CARGA 020002" x="928" y="5" width="918" height="1128"/>
+	<SubTexture name="ULTRA G CARGA 020003" x="928" y="5" width="918" height="1128"/>
+	<SubTexture name="ULTRA G CARGA 020004" x="1851" y="5" width="918" height="1128"/>
+	<SubTexture name="ULTRA G CARGA 020005" x="1851" y="5" width="918" height="1128"/>
+</TextureAtlas>

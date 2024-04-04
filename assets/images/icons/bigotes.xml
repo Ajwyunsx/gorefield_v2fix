@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bigotes.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="113" height="139" frameX="-3" frameY="0" frameWidth="116" frameHeight="139"/>
+	<SubTexture name="idle0001" x="0" y="0" width="113" height="139" frameX="-3" frameY="0" frameWidth="116" frameHeight="139"/>
+	<SubTexture name="idle0002" x="113" y="0" width="116" height="138" frameX="0" frameY="0" frameWidth="116" frameHeight="139"/>
+	<SubTexture name="idle0003" x="113" y="0" width="116" height="138" frameX="0" frameY="0" frameWidth="116" frameHeight="139"/>
+	<SubTexture name="idle0004" x="229" y="0" width="111" height="137" frameX="-2" frameY="-1" frameWidth="116" frameHeight="139"/>
+	<SubTexture name="idle0005" x="229" y="0" width="111" height="137" frameX="-2" frameY="-1" frameWidth="116" frameHeight="139"/>
+	<SubTexture name="losing0000" x="340" y="0" width="126" height="120" frameX="0" frameY="0" frameWidth="128" frameHeight="120"/>
+	<SubTexture name="losing0001" x="340" y="0" width="126" height="120" frameX="0" frameY="0" frameWidth="128" frameHeight="120"/>
+	<SubTexture name="losing0002" x="466" y="0" width="125" height="119" frameX="-1" frameY="0" frameWidth="128" frameHeight="120"/>
+	<SubTexture name="losing0003" x="466" y="0" width="125" height="119" frameX="-1" frameY="0" frameWidth="128" frameHeight="120"/>
+	<SubTexture name="losing0004" x="591" y="0" width="125" height="118" frameX="-3" frameY="-2" frameWidth="128" frameHeight="120"/>
+	<SubTexture name="losing0005" x="591" y="0" width="125" height="118" frameX="-3" frameY="-2" frameWidth="128" frameHeight="120"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOOB CARGA.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NOOB CARGA0000" x="5" y="5" width="514" height="949"/>
+	<SubTexture name="NOOB CARGA0001" x="5" y="5" width="514" height="949"/>
+	<SubTexture name="NOOB CARGA0002" x="524" y="5" width="512" height="949" frameX="0" frameY="0" frameWidth="514" frameHeight="949"/>
+	<SubTexture name="NOOB CARGA0003" x="524" y="5" width="512" height="949" frameX="0" frameY="0" frameWidth="514" frameHeight="949"/>
+	<SubTexture name="NOOB CARGA0004" x="1041" y="5" width="510" height="946" frameX="-2" frameY="0" frameWidth="514" frameHeight="949"/>
+	<SubTexture name="NOOB CARGA0005" x="1041" y="5" width="510" height="946" frameX="-2" frameY="0" frameWidth="514" frameHeight="949"/>
+</TextureAtlas>

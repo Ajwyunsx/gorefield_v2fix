@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jhon negocia.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jhon negocia down0000" x="0" y="0" width="313" height="714" frameX="-6" frameY="-6" frameWidth="319" frameHeight="720"/>
+	<SubTexture name="jhon negocia down0001" x="0" y="0" width="313" height="714" frameX="-6" frameY="-6" frameWidth="319" frameHeight="720"/>
+	<SubTexture name="jhon negocia down0002" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0003" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0004" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0005" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0006" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0007" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0008" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0009" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia down0010" x="313" y="0" width="319" height="720"/>
+	<SubTexture name="jhon negocia idle0000" x="632" y="0" width="256" height="733" frameX="0" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0001" x="632" y="0" width="256" height="733" frameX="0" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0002" x="632" y="0" width="256" height="733" frameX="0" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0003" x="888" y="0" width="254" height="734" frameX="-2" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0004" x="888" y="0" width="254" height="734" frameX="-2" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0005" x="888" y="0" width="254" height="734" frameX="-2" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0006" x="1142" y="0" width="254" height="733" frameX="-2" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0007" x="1142" y="0" width="254" height="733" frameX="-2" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia idle0008" x="1142" y="0" width="254" height="733" frameX="-2" frameY="0" frameWidth="256" frameHeight="734"/>
+	<SubTexture name="jhon negocia left0000" x="1396" y="0" width="282" height="725"/>
+	<SubTexture name="jhon negocia left0001" x="1396" y="0" width="282" height="725"/>
+	<SubTexture name="jhon negocia left0002" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0003" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0004" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0005" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0006" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0007" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0008" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0009" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia left0010" x="1678" y="0" width="274" height="723" frameX="-7" frameY="-2" frameWidth="282" frameHeight="725"/>
+	<SubTexture name="jhon negocia right0000" x="0" y="734" width="323" height="729" frameX="0" frameY="-5" frameWidth="323" frameHeight="734"/>
+	<SubTexture name="jhon negocia right0001" x="0" y="734" width="323" height="729" frameX="0" frameY="-5" frameWidth="323" frameHeight="734"/>
+	<SubTexture name="jhon negocia right0002" x="323" y="734" width="304" height="734" frameX="-2" frameY="0" frameWidth="323" frameHeight="734"/>
+	<SubTexture name="jhon negocia up0000" x="627" y="734" width="249" height="760" frameX="-3" frameY="0" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0001" x="627" y="734" width="249" height="760" frameX="-3" frameY="0" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0002" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0003" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0004" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0005" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0006" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0007" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0008" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0009" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+	<SubTexture name="jhon negocia up0010" x="876" y="734" width="243" height="756" frameX="0" frameY="-4" frameWidth="252" frameHeight="760"/>
+</TextureAtlas>

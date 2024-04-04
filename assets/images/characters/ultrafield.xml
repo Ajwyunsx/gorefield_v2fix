@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ULTRA SANSFIELD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ULTRA SANSFIELD DOWN0000" x="5" y="5" width="1025" height="710" frameX="0" frameY="-8" frameWidth="1025" frameHeight="726"/>
+	<SubTexture name="ULTRA SANSFIELD DOWN0001" x="5" y="5" width="1025" height="710" frameX="0" frameY="-8" frameWidth="1025" frameHeight="726"/>
+	<SubTexture name="ULTRA SANSFIELD DOWN0002" x="1035" y="5" width="1014" height="726" frameX="0" frameY="0" frameWidth="1025" frameHeight="726"/>
+	<SubTexture name="ULTRA SANSFIELD DOWN0003" x="1035" y="5" width="1014" height="726" frameX="0" frameY="0" frameWidth="1025" frameHeight="726"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0000" x="2054" y="5" width="993" height="720" frameX="-24" frameY="0" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0001" x="2054" y="5" width="993" height="720" frameX="-24" frameY="0" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0002" x="3052" y="5" width="984" height="722" frameX="-29" frameY="-4" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0003" x="3052" y="5" width="984" height="722" frameX="-29" frameY="-4" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0004" x="4041" y="5" width="1014" height="731" frameX="-14" frameY="-16" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0005" x="4041" y="5" width="1014" height="731" frameX="-14" frameY="-16" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0006" x="5060" y="5" width="1025" height="732" frameX="-8" frameY="-21" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0007" x="5060" y="5" width="1025" height="732" frameX="-8" frameY="-21" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0008" x="6090" y="5" width="1037" height="731" frameX="-2" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0009" x="6090" y="5" width="1037" height="731" frameX="-2" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0010" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0011" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0012" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0013" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0014" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0015" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0016" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0017" x="7132" y="5" width="1042" height="732" frameX="0" frameY="-23" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0018" x="5" y="742" width="1039" height="735" frameX="-1" frameY="-19" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0019" x="5" y="742" width="1039" height="735" frameX="-1" frameY="-19" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0020" x="1049" y="742" width="1032" height="732" frameX="-5" frameY="-7" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0021" x="1049" y="742" width="1032" height="732" frameX="-5" frameY="-7" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0022" x="2086" y="742" width="1016" height="721" frameX="-13" frameY="-4" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0023" x="2086" y="742" width="1016" height="721" frameX="-13" frameY="-4" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0024" x="3107" y="742" width="1008" height="717" frameX="-17" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0025" x="3107" y="742" width="1008" height="717" frameX="-17" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0026" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0027" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0028" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0029" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0030" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0031" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0032" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD IDLE0033" x="4120" y="742" width="999" height="715" frameX="-21" frameY="-1" frameWidth="1042" frameHeight="755"/>
+	<SubTexture name="ULTRA SANSFIELD LEFT0000" x="5124" y="742" width="1029" height="737" frameX="-23" frameY="-1" frameWidth="1060" frameHeight="742"/>
+	<SubTexture name="ULTRA SANSFIELD LEFT0001" x="5124" y="742" width="1029" height="737" frameX="-23" frameY="-1" frameWidth="1060" frameHeight="742"/>
+	<SubTexture name="ULTRA SANSFIELD LEFT0002" x="6158" y="742" width="1060" height="742"/>
+	<SubTexture name="ULTRA SANSFIELD LEFT0003" x="6158" y="742" width="1060" height="742"/>
+	<SubTexture name="ULTRA SANSFIELD RIGHT0000" x="5" y="1489" width="1061" height="766" frameX="0" frameY="0" frameWidth="1066" frameHeight="766"/>
+	<SubTexture name="ULTRA SANSFIELD RIGHT0001" x="5" y="1489" width="1061" height="766" frameX="0" frameY="0" frameWidth="1066" frameHeight="766"/>
+	<SubTexture name="ULTRA SANSFIELD RIGHT0002" x="1071" y="1489" width="1062" height="765" frameX="-4" frameY="0" frameWidth="1066" frameHeight="766"/>
+	<SubTexture name="ULTRA SANSFIELD RIGHT0003" x="1071" y="1489" width="1062" height="765" frameX="-4" frameY="0" frameWidth="1066" frameHeight="766"/>
+	<SubTexture name="ULTRASANSFIELD UP0000" x="2138" y="1489" width="963" height="832" frameX="-21" frameY="0" frameWidth="1004" frameHeight="834"/>
+	<SubTexture name="ULTRASANSFIELD UP0001" x="2138" y="1489" width="963" height="832" frameX="-21" frameY="0" frameWidth="1004" frameHeight="834"/>
+	<SubTexture name="ULTRASANSFIELD UP0002" x="3106" y="1489" width="1004" height="807" frameX="0" frameY="-27" frameWidth="1004" frameHeight="834"/>
+	<SubTexture name="ULTRASANSFIELD UP0003" x="3106" y="1489" width="1004" height="807" frameX="0" frameY="-27" frameWidth="1004" frameHeight="834"/>
+</TextureAtlas>

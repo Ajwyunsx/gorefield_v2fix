@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JESSEE_RUN.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RUN BITCH0000" x="5" y="5" width="703" height="470"/>
+	<SubTexture name="RUN BITCH0001" x="5" y="5" width="703" height="470"/>
+	<SubTexture name="RUN BITCH0002" x="713" y="5" width="639" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0003" x="713" y="5" width="639" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0004" x="1357" y="5" width="646" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0005" x="1357" y="5" width="646" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0006" x="2008" y="5" width="652" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0007" x="2008" y="5" width="652" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0008" x="2665" y="5" width="679" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0009" x="2665" y="5" width="679" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0010" x="3349" y="5" width="670" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN BITCH0011" x="4024" y="5" width="670" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN JESSE IDLE0000" x="4699" y="5" width="670" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN JESSE IDLE0001" x="5374" y="5" width="703" height="470"/>
+	<SubTexture name="RUN JESSE IDLE0002" x="6082" y="5" width="703" height="470"/>
+	<SubTexture name="RUN JESSE IDLE0003" x="6082" y="5" width="703" height="470"/>
+	<SubTexture name="RUN JESSE IDLE0004" x="6790" y="5" width="703" height="470"/>
+	<SubTexture name="RUN JESSE IDLE0005" x="5" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE IDLE0006" x="713" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE IDLE0007" x="713" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE IDLE0008" x="1421" y="480" width="682" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN JESSE IDLE0009" x="1421" y="480" width="682" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN JESSE IDLE0010" x="2108" y="480" width="690" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN JESSE IDLE0011" x="2108" y="480" width="690" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN JESSE IDLE0012" x="2803" y="480" width="688" height="470" frameX="0" frameY="0" frameWidth="703" frameHeight="470"/>
+	<SubTexture name="RUN JESSE LEFT0000" x="3496" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE LEFT0001" x="3496" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE LEFT0002" x="4204" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE LEFT0003" x="4204" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE LEFT0004" x="4912" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSE LEFT0005" x="4912" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE DOWN0000" x="5620" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE DOWN0001" x="5620" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE DOWN0002" x="6328" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE DOWN0003" x="6328" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE DOWN0004" x="7036" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE DOWN0005" x="7036" y="480" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE RIGHT0000" x="5" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE RIGHT0001" x="5" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE RIGHT0002" x="713" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE RIGHT0003" x="713" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE RIGHT0004" x="1421" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE RIGHT0005" x="1421" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE UP0000" x="2129" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE UP0001" x="2129" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE UP0002" x="2837" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE UP0003" x="2837" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE UP0004" x="3545" y="955" width="703" height="470"/>
+	<SubTexture name="RUN JESSEE UP0005" x="3545" y="955" width="703" height="470"/>
+	<SubTexture name="RUN MISS DOWN0000" x="4253" y="955" width="681" height="469" frameX="-4" frameY="0" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS DOWN0001" x="4939" y="955" width="699" height="469" frameX="0" frameY="0" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS DOWN0002" x="4939" y="955" width="699" height="469" frameX="0" frameY="0" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS DOWN0003" x="5643" y="955" width="702" height="466" frameX="0" frameY="-3" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS DOWN0004" x="5643" y="955" width="702" height="466" frameX="0" frameY="-3" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS LEFT0000" x="6350" y="955" width="701" height="469" frameX="0" frameY="0" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS LEFT0001" x="7056" y="955" width="702" height="458" frameX="0" frameY="-11" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS LEFT0002" x="7056" y="955" width="702" height="458" frameX="0" frameY="-11" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS LEFT0003" x="5" y="1430" width="702" height="466" frameX="0" frameY="-3" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS LEFT0004" x="5" y="1430" width="702" height="466" frameX="0" frameY="-3" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS RIGHT0000" x="712" y="1430" width="702" height="469"/>
+	<SubTexture name="RUN MISS RIGHT0001" x="1419" y="1430" width="702" height="458" frameX="0" frameY="-11" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS RIGHT0002" x="2126" y="1430" width="702" height="458" frameX="0" frameY="-11" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS RIGHT0003" x="2833" y="1430" width="702" height="466" frameX="0" frameY="-3" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS RIGHT0004" x="3540" y="1430" width="702" height="466" frameX="0" frameY="-3" frameWidth="702" frameHeight="469"/>
+	<SubTexture name="RUN MISS UP0000" x="4247" y="1430" width="702" height="516"/>
+	<SubTexture name="RUN MISS UP0001" x="4954" y="1430" width="702" height="482" frameX="0" frameY="-34" frameWidth="702" frameHeight="516"/>
+	<SubTexture name="RUN MISS UP0002" x="4954" y="1430" width="702" height="482" frameX="0" frameY="-34" frameWidth="702" frameHeight="516"/>
+	<SubTexture name="RUN MISS UP0003" x="5661" y="1430" width="702" height="473" frameX="0" frameY="-43" frameWidth="702" frameHeight="516"/>
+	<SubTexture name="RUN MISS UP0004" x="5661" y="1430" width="702" height="473" frameX="0" frameY="-43" frameWidth="702" frameHeight="516"/>
+</TextureAtlas>

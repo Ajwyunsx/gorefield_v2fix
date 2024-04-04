@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="gorefield-phase-4" camx="-50" y="0" iconoffsetx="-10" iconoffsety="-17.5" animatedIcon="true" isGF="false" camy="20" color="#201035" isPlayer="false" holdTime="2" sprite="gorefield-phase-4">
+	<anim x="0" loop="false" y="0" fps="24" anim="GOREFIELD F4 IDLE" name="idle"/>
+	<anim x="19" loop="false" y="-33" fps="24" anim="GOREFIELD F4 LEFT" name="singLEFT"/>
+	<anim x="-103" loop="false" y="88" fps="24" anim="GOREFIELD F4 DOWN" name="singDOWN"/>
+	<anim x="49" loop="false" y="-53" fps="24" anim="GOREFIELD F4 UP" name="singUP"/>
+	<anim x="-37" loop="false" y="79" fps="24" anim="GOREFIELD F4 RIGHT" name="singRIGHT"/>
+</character>

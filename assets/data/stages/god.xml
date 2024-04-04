@@ -1,0 +1,65 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.33" name="stage" folder="stages/god/" noteSkin="god" splashSkin="gorefield_god" healthBarColor="gray">
+	<sprite name="BG" x="-1950" y="-1600" sprite="BG_GOD" antialiasing="true" scrollx="1" scrolly="0.8" scale="1"/>
+	<sprite name="BG2" x="-970" y="-1500" sprite="ANGEL_BG" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+
+	<sprite name="viento" x="-750" y="-900" sprite="viento" antialiasing="true" scrollx="1" scrolly="1" scale="2">
+		<anim name="idle" anim="vientitoo" loop="true"/>
+		<property name="alpha" type="float" value="0.0000001"/>
+	</sprite>
+
+	<sprite name="BONES_SANS" x="30" y="-950" sprite="BONES_GOD" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<anim name="idle" anim="bones" loop="true"/>
+		<property name="alpha" type="float" value="0.0000001"/>
+	</sprite>
+
+	<sprite name="PUNISH_BG1" x="-200" y="100" sprite="BG_GOD_GOREFIELD" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<property name="alpha" type="float" value="0.0000001"/>
+	</sprite>
+
+	<sprite name="LASAGNA_BG" x="-1200" y="-600" sprite="BG_LASAGNA_GOD" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<property name="alpha" type="float" value="0.0000001"/>
+	</sprite>
+
+
+	<gf x="755" y="285" camxoffset="210" camyoffset="100" scroll="1"/>
+	<opponent x="0" y="320"  camxoffset="240" camyoffset="-300"/>
+
+	<sprite name="PUNISH_TV" x="-100" y="570" sprite="tv_GOD" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<property name="alpha" type="float" value="0.0000001"/>
+	</sprite>
+
+	<player x="0" y="420" camxoffset="30" camyoffset="-670"/>
+	<sprite name="MARCO_BG" x="0" y="0" sprite="marco_UNDERTALE_GOD" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<property name="alpha" type="float" value="0.0000001"/>
+	</sprite>
+	<sprite name="ALO" x="1160" y="-440" sprite="ALO" antialiasing="true" scrollx="1" scrolly="1.4" scale="1.2">
+		<anim name="aro" anim="aro" loop="true"/>
+	</sprite>
+	<sprite name="ALO2" x="-2160" y="-440" sprite="ALO" antialiasing="true" scrollx="1" scrolly="1.4" scale="1.2">
+		<anim name="aro" anim="aro" loop="true"/>
+		<property name="flipX" type="bool" value="true" />
+	</sprite>
+	<sprite name="RAYO_DIVISOR" x="-696" y="-365" sprite="RAYO_DIVISOR" antialiasing="true" scrollx="1" scrolly="1" scale="1.8">
+		<anim name="idle" anim="rayo divisorio" loop="true"/>
+		<property name="alpha" type="float" value="0.0000001"/>
+	</sprite>
+	<!--
+	<sprite name="BG1" x="0" y="0" sprite="BG_GOD_GOREFIELD" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+	<opponent x="275" y="180" camxoffset="-120" camyoffset="40"/>
+	<sprite name="TV" x="0" y="320" sprite="tv_GOD" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+	<player x="100" y="220" camxoffset="220" camyoffset="-80"/>
+	-->
+
+
+	<sprite name="black_overlay" x="0" y="0" sprite="black_vignette" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+		<property name="alpha" type="float" value="0.8"/>
+	</sprite>
+
+	<solid name="black" x="-1600" y="-600" width="7560" height="7440" color="0x000000">
+		<property name="scrollFactor.x" type="float" value="0"/>
+		<property name="scrollFactor.y" type="float" value="0"/>
+		<property name="alpha" type="float" value="1"/>
+	</solid>
+</stage>

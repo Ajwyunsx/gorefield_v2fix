@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="0" icon="icon-gf" flipX="false" isPlayer="null" camx="-270" camy="210" holdTime="3.5" scale="1" color="#A5004D">
+	<anim name="idle" anim="GF IDLE" fps="24" loop="false" x="0" y="22"/>
+	<anim name="singLEFT" anim="LEFT" fps="24" loop="false" x="68" y="6"/>
+	<anim name="singDOWN" anim="DOWN" fps="24" loop="false" x="-6" y="-18"/>
+	<anim name="singUP" anim="UP" fps="24" loop="false" x="-10" y="35"/>
+	<anim name="singRIGHT" anim="right" fps="24" loop="false" x="-5" y="23"/>
+	<anim name="appear" anim="GF APARITION" fps="24" loop="false" x="0" y="0"/>
+</character>

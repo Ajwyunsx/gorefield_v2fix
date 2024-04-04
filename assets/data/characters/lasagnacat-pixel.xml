@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="-710" y="-400" icon="icon-lasagnacat-pixel" flipX="false" isPlayer="null" camx="100" camy="280" holdTime="6.1" scale="0.4" color="#346756" antialiasing="false">
+	<anim name="idle" anim="LASAGNA CAT IDLE" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT" anim="LASAGNA CAT LEFT" fps="24" loop="false" x="125" y="0"/>
+	<anim name="singDOWN" anim="LASAGNA CAT DOWN" fps="24" loop="false" x="50" y="-152.5"/>
+	<anim name="singUP" anim="LASAGNA CAT UP" fps="24" loop="false" x="-300" y="325"/>
+	<anim name="singRIGHT" anim="LASAGNA CAT RIGHT" fps="24" loop="false" x="-150" y="0"/>
+</character>

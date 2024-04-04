@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="1_FORM_GODFIELD" noLosingIcon="true" iconoffsetx="-30" iconoffsety="-10" animatedIcon="true" camx="-390" y="-350" isGF="false" camy="120" color="#D44D29" isPlayer="false" holdTime="2.3" scale="1.5" sprite="JIPPI">
+	<anim x="0" loop="false" y="0" fps="24" anim="GARFIELD JIPI0" name="idle"/>
+	<anim x="97" loop="false" y="-7" fps="24" anim="GARFIELD JIPI LEFT" name="singLEFT"/>
+	<anim x="-8" loop="false" y="-124" fps="24" anim="GARFIELD JIPI DOWN" name="singDOWN"/>
+	<anim x="0" loop="false" y="69" fps="24" anim="GARFIELD JIPI UP" name="singUP"/>
+	<anim x="-59" loop="false" y="-2" fps="24" anim="GARFIELD JIPI RIGHT" name="singRIGHT"/>
+</character>

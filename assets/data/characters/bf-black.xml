@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="350" icon="BF_sansfield" iconoffsety="-10" animatedIcon="true" iconScale="0.9" flipX="true" isPlayer="true" camx="-170" camy="-60" holdTime="4" scale="1" color="#5A50D3" gameOverChar="bf-black">
+	<anim name="idle" anim="BF IDLE" fps="24" loop="false" x="-5" y="0"/>
+	<anim name="singLEFT" anim="BF LEFT" fps="24" loop="false" x="9" y="11"/>
+	<anim name="singDOWN" anim="BF DOWN" fps="24" loop="false" x="-20" y="-21"/>
+	<anim name="singUP" anim="BF UP" fps="24" loop="false" x="-46" y="17"/>
+	<anim name="singRIGHT" anim="BF RIGHT" fps="24" loop="false" x="-48" y="3"/>
+	<anim name="idle-alt" anim="BF GUITAR IDLE" fps="24" loop="false" x="-40" y="0"/>
+	<anim name="singLEFT-alt" anim="BF GUITAR LEFT" fps="24" loop="false" x="0" y="-2"/>
+	<anim name="singDOWN-alt" anim="BF Guitar down" fps="24" loop="false" x="20" y="-49"/>
+	<anim name="singUP-alt" anim="BF GUITAR UP" fps="24" loop="false" x="26" y="40"/>
+	<anim name="singRIGHT-alt" anim="BF GUITAR RIGHT" fps="24" loop="false" x="-30" y="-3"/>
+	<anim name="pipe" anim="BF PIPE" fps="24" loop="false" x="61" y="67"/>
+	<anim name="firstDeath" anim="BF DEATH0" fps="24" loop="false" x="81" y="80"/>
+	<anim name="deathLoop" anim="BF DEATH LOOP" fps="24" loop="false" x="81" y="79"/>
+	<anim name="deathConfirm" anim="BF DEATH CONFIRM" fps="24" loop="false" x="80" y="80"/>
+</character>

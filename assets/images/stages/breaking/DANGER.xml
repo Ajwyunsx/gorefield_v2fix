@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DANGER.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DANGER0000" x="5" y="5" width="495" height="69"/>
+	<SubTexture name="DANGER0001" x="505" y="5" width="495" height="69"/>
+	<SubTexture name="DANGER0002" x="5" y="79" width="495" height="69"/>
+	<SubTexture name="DANGER0003" x="505" y="79" width="495" height="69"/>
+	<SubTexture name="DANGER0004" x="5" y="153" width="495" height="69"/>
+	<SubTexture name="DANGER0005" x="505" y="153" width="495" height="69"/>
+	<SubTexture name="DANGER0006" x="5" y="227" width="495" height="69"/>
+	<SubTexture name="DANGER0007" x="505" y="227" width="495" height="69"/>
+	<SubTexture name="DANGER0008" x="5" y="301" width="495" height="69"/>
+	<SubTexture name="DANGER0009" x="505" y="301" width="495" height="69"/>
+	<SubTexture name="DANGER0010" x="5" y="375" width="495" height="69"/>
+	<SubTexture name="DANGER0011" x="505" y="375" width="495" height="69"/>
+	<SubTexture name="DANGER0012" x="5" y="449" width="495" height="69"/>
+	<SubTexture name="DANGER0013" x="505" y="449" width="495" height="69"/>
+	<SubTexture name="DANGER0014" x="5" y="523" width="495" height="69"/>
+	<SubTexture name="DANGER0015" x="505" y="523" width="495" height="69"/>
+	<SubTexture name="DANGER0016" x="5" y="597" width="495" height="69"/>
+	<SubTexture name="DANGER0017" x="505" y="597" width="495" height="69"/>
+	<SubTexture name="DANGER0018" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0019" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0020" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0021" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0022" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0023" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0024" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0025" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0026" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0027" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0028" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0029" x="5" y="671" width="495" height="69"/>
+	<SubTexture name="DANGER0030" x="5" y="671" width="495" height="69"/>
+</TextureAtlas>

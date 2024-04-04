@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 178,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Breaking Cat",
+	"icon": "face",
+	"name": "Breaking Cat",
+	"color": "#FFFFFF"
+}

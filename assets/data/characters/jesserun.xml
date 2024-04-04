@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character color="#5A50D3" sprite="JESSEE_RUN" x="-200" isGF="false" y="400" camx="230" icon="bf-house" camy="-280" isPlayer="true" flipX="true" holdTime="1.5" gameOverChar="jesse-death">
+	<anim x="0" loop="true" y="0" fps="24" anim="RUN JESSE IDLE" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RUN JESSE LEFT0" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RUN JESSEE DOWN0" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RUN JESSEE UP0" name="singUP"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RUN JESSEE RIGHT0" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-2" fps="24" anim="RUN MISS LEFT0" name="singLEFTmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RUN MISS DOWN" name="singDOWNmiss"/>
+	<anim x="0" loop="false" y="45" fps="24" anim="RUN MISS UP" name="singUPmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RUN MISS RIGHT" name="singRIGHTmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="RUN BITCH" name="bitch"/>
+</character>

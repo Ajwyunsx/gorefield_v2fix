@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NERMALL GOD ASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NERMALL DOWN0000" x="5" y="5" width="1004" height="570" frameX="0" frameY="-32" frameWidth="1004" frameHeight="602"/>
+	<SubTexture name="NERMALL DOWN0001" x="5" y="5" width="1004" height="570" frameX="0" frameY="-32" frameWidth="1004" frameHeight="602"/>
+	<SubTexture name="NERMALL DOWN0002" x="1014" y="5" width="979" height="602" frameX="-11" frameY="0" frameWidth="1004" frameHeight="602"/>
+	<SubTexture name="NERMALL DOWN0003" x="1014" y="5" width="979" height="602" frameX="-11" frameY="0" frameWidth="1004" frameHeight="602"/>
+	<SubTexture name="NERMALL IDLE0000" x="1998" y="5" width="759" height="646" frameX="0" frameY="-37" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0001" x="1998" y="5" width="759" height="646" frameX="0" frameY="-37" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0002" x="2762" y="5" width="749" height="667" frameX="-5" frameY="-16" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0003" x="2762" y="5" width="749" height="667" frameX="-5" frameY="-16" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0004" x="3516" y="5" width="818" height="738" frameX="-9" frameY="-4" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0005" x="3516" y="5" width="818" height="738" frameX="-9" frameY="-4" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0006" x="4339" y="5" width="751" height="745" frameX="-5" frameY="-2" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0007" x="4339" y="5" width="751" height="745" frameX="-5" frameY="-2" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0008" x="5095" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0009" x="5095" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0010" x="5853" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0011" x="5853" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0012" x="6611" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0013" x="6611" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0014" x="6611" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL IDLE0015" x="6611" y="5" width="753" height="737" frameX="-4" frameY="0" frameWidth="827" frameHeight="747"/>
+	<SubTexture name="NERMALL LEFT0000" x="5" y="755" width="905" height="631"/>
+	<SubTexture name="NERMALL LEFT0001" x="5" y="755" width="905" height="631"/>
+	<SubTexture name="NERMALL LEFT0002" x="915" y="755" width="845" height="625" frameX="-7" frameY="-6" frameWidth="905" frameHeight="631"/>
+	<SubTexture name="NERMALL LEFT0003" x="915" y="755" width="845" height="625" frameX="-7" frameY="-6" frameWidth="905" frameHeight="631"/>
+	<SubTexture name="NERMALL MISS DOWN0000" x="1765" y="755" width="1142" height="486" frameX="0" frameY="-103" frameWidth="1142" frameHeight="589"/>
+	<SubTexture name="NERMALL MISS DOWN0001" x="2912" y="755" width="973" height="589" frameX="-85" frameY="0" frameWidth="1142" frameHeight="589"/>
+	<SubTexture name="NERMALL MISS DOWN0002" x="2912" y="755" width="973" height="589" frameX="-85" frameY="0" frameWidth="1142" frameHeight="589"/>
+	<SubTexture name="NERMALL MISS DOWN0003" x="3890" y="755" width="1004" height="570" frameX="-69" frameY="-19" frameWidth="1142" frameHeight="589"/>
+	<SubTexture name="NERMALL MISS DOWN0004" x="3890" y="755" width="1004" height="570" frameX="-69" frameY="-19" frameWidth="1142" frameHeight="589"/>
+	<SubTexture name="NERMALL MISS LEFT0000" x="4899" y="755" width="845" height="679" frameX="0" frameY="0" frameWidth="966" frameHeight="679"/>
+	<SubTexture name="NERMALL MISS LEFT0001" x="5749" y="755" width="921" height="619" frameX="-45" frameY="-60" frameWidth="966" frameHeight="679"/>
+	<SubTexture name="NERMALL MISS LEFT0002" x="5749" y="755" width="921" height="619" frameX="-45" frameY="-60" frameWidth="966" frameHeight="679"/>
+	<SubTexture name="NERMALL MISS LEFT0003" x="6675" y="755" width="904" height="630" frameX="-36" frameY="-49" frameWidth="966" frameHeight="679"/>
+	<SubTexture name="NERMALL MISS LEFT0004" x="6675" y="755" width="904" height="630" frameX="-36" frameY="-49" frameWidth="966" frameHeight="679"/>
+	<SubTexture name="NERMALL MISS RIGHT0000" x="5" y="1439" width="877" height="835" frameX="-105" frameY="0" frameWidth="982" frameHeight="835"/>
+	<SubTexture name="NERMALL MISS RIGHT0001" x="887" y="1439" width="966" height="762" frameX="0" frameY="-73" frameWidth="982" frameHeight="835"/>
+	<SubTexture name="NERMALL MISS RIGHT0002" x="887" y="1439" width="966" height="762" frameX="0" frameY="-73" frameWidth="982" frameHeight="835"/>
+	<SubTexture name="NERMALL MISS RIGHT0003" x="1858" y="1439" width="948" height="774" frameX="-24" frameY="-61" frameWidth="982" frameHeight="835"/>
+	<SubTexture name="NERMALL MISS RIGHT0004" x="1858" y="1439" width="948" height="774" frameX="-24" frameY="-61" frameWidth="982" frameHeight="835"/>
+	<SubTexture name="NERMALL MISS UP0000" x="2811" y="1439" width="601" height="1025" frameX="-77" frameY="0" frameWidth="749" frameHeight="1030"/>
+	<SubTexture name="NERMALL MISS UP0001" x="3417" y="1439" width="749" height="901" frameX="0" frameY="-129" frameWidth="749" frameHeight="1030"/>
+	<SubTexture name="NERMALL MISS UP0002" x="3417" y="1439" width="749" height="901" frameX="0" frameY="-129" frameWidth="749" frameHeight="1030"/>
+	<SubTexture name="NERMALL MISS UP0003" x="4171" y="1439" width="719" height="927" frameX="-16" frameY="-102" frameWidth="749" frameHeight="1030"/>
+	<SubTexture name="NERMALL MISS UP0004" x="4171" y="1439" width="719" height="927" frameX="-16" frameY="-102" frameWidth="749" frameHeight="1030"/>
+	<SubTexture name="NERMALL RIGHT0000" x="4895" y="1439" width="949" height="775" frameX="-19" frameY="-27" frameWidth="968" frameHeight="802"/>
+	<SubTexture name="NERMALL RIGHT0001" x="4895" y="1439" width="949" height="775" frameX="-19" frameY="-27" frameWidth="968" frameHeight="802"/>
+	<SubTexture name="NERMALL RIGHT0002" x="5849" y="1439" width="927" height="778" frameX="0" frameY="0" frameWidth="968" frameHeight="802"/>
+	<SubTexture name="NERMALL RIGHT0003" x="5849" y="1439" width="927" height="778" frameX="0" frameY="0" frameWidth="968" frameHeight="802"/>
+	<SubTexture name="NERMALL UP0000" x="6781" y="1439" width="682" height="955" frameX="-11" frameY="0" frameWidth="715" frameHeight="955"/>
+	<SubTexture name="NERMALL UP0001" x="6781" y="1439" width="682" height="955" frameX="-11" frameY="0" frameWidth="715" frameHeight="955"/>
+	<SubTexture name="NERMALL UP0002" x="7468" y="1439" width="715" height="902" frameX="0" frameY="-23" frameWidth="715" frameHeight="955"/>
+	<SubTexture name="NERMALL UP0003" x="7468" y="1439" width="715" height="902" frameX="0" frameY="-23" frameWidth="715" frameHeight="955"/>
+</TextureAtlas>

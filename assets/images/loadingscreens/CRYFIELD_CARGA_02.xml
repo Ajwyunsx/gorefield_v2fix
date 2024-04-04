@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CRYFIELD CARGA 02.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CRYFIELD CARGA 020000" x="5" y="5" width="727" height="1105"/>
+	<SubTexture name="CRYFIELD CARGA 020001" x="5" y="5" width="727" height="1105"/>
+	<SubTexture name="CRYFIELD CARGA 020002" x="737" y="5" width="725" height="1101" frameX="-2" frameY="-1" frameWidth="727" frameHeight="1105"/>
+	<SubTexture name="CRYFIELD CARGA 020003" x="737" y="5" width="725" height="1101" frameX="-2" frameY="-1" frameWidth="727" frameHeight="1105"/>
+	<SubTexture name="CRYFIELD CARGA 020004" x="1467" y="5" width="726" height="1101" frameX="-1" frameY="-1" frameWidth="727" frameHeight="1105"/>
+	<SubTexture name="CRYFIELD CARGA 020005" x="1467" y="5" width="726" height="1101" frameX="-1" frameY="-1" frameWidth="727" frameHeight="1105"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CARTOON_CARGA.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CARTOON CARGA0000" x="5" y="5" width="961" height="907"/>
+	<SubTexture name="CARTOON CARGA0001" x="5" y="5" width="961" height="907"/>
+	<SubTexture name="CARTOON CARGA0002" x="971" y="5" width="961" height="907"/>
+	<SubTexture name="CARTOON CARGA0003" x="971" y="5" width="961" height="907"/>
+	<SubTexture name="CARTOON CARGA0004" x="5" y="917" width="961" height="907"/>
+	<SubTexture name="CARTOON CARGA0005" x="5" y="917" width="961" height="907"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+{
+    "loadingbg": "pantalla_de_carga_cartoon",
+    "loadingimage": "CARTOON_CARGA",
+    "loadinganim": "CARTOON",
+    "loadingpos": [631, 120],
+    "bgOffset": [0, 40]
+}

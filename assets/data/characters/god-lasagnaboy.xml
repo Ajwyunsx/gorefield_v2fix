@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="600" icon="LB_JON_GODFIELD" iconoffsetx="30" iconoffsety="-10" animatedIcon="true" camx="-70" y="-240" isGF="false" camy="680" color="#346756" isPlayer="true" holdTime="4" gameOverChar="godnermaldeath" flipX="true" sprite="GOD_LASAGNA">
+	<anim x="0" loop="false" y="0" fps="24" anim="LASAGNA GOD IDLE" name="idle"/>
+	<anim x="87.5" loop="false" y="15" fps="24" anim="LASAGNA GOD LEFT" name="singLEFT"/>
+	<anim x="67.5" loop="false" y="-102.5" fps="24" anim="LASAGNA GOD DOWN" name="singDOWN"/>
+	<anim x="-27.5" loop="false" y="70" fps="24" anim="LASAGNA GOD UP" name="singUP"/>
+	<anim x="-80" loop="false" y="30" fps="24" anim="LASAGNA GOD RIGHT" name="singRIGHT"/>
+	<anim x="132" loop="false" y="15" fps="24" anim="MISS LEFT" name="singLEFTmiss"/>
+	<anim x="-90" loop="false" y="31" fps="24" anim="MISS RIGHT" name="singRIGHTmiss"/>
+	<anim x="-27" loop="false" y="97" fps="24" anim="MISS UP" name="singUPmiss"/>
+	<anim x="76" loop="false" y="-101" fps="24" anim="MISS DOWN" name="singDOWNmiss"/>
+</character>

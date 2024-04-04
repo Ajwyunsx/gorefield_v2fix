@@ -1,0 +1,10 @@
+{
+	"name": "Balls of Yarn",
+	"needsVoices": true,
+	"bpm": 164,
+	"difficulties": [
+		"hard"
+	],
+	"color": "#cc8323",
+	"icon": "garfield"
+}

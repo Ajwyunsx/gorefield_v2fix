@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ULTRAGOREFIELDD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ULTRA GOREFIELD  LEFT0000" x="0" y="0" width="1364" height="1169" frameX="0" frameY="-12" frameWidth="1364" frameHeight="1181"/>
+	<SubTexture name="ULTRA GOREFIELD  LEFT0001" x="0" y="0" width="1364" height="1169" frameX="0" frameY="-12" frameWidth="1364" frameHeight="1181"/>
+	<SubTexture name="ULTRA GOREFIELD  LEFT0002" x="1364" y="0" width="1347" height="1181" frameX="-16" frameY="0" frameWidth="1364" frameHeight="1181"/>
+	<SubTexture name="ULTRA GOREFIELD  LEFT0003" x="1364" y="0" width="1347" height="1181" frameX="-16" frameY="0" frameWidth="1364" frameHeight="1181"/>
+	<SubTexture name="ULTRA GOREFIELD  LEFT0004" x="2711" y="0" width="1337" height="1172" frameX="-25" frameY="-9" frameWidth="1364" frameHeight="1181"/>
+	<SubTexture name="ULTRA GOREFIELD  LEFT0005" x="2711" y="0" width="1337" height="1172" frameX="-25" frameY="-9" frameWidth="1364" frameHeight="1181"/>
+	<SubTexture name="ULTRA GOREFIELD  LEFT0006" x="4048" y="0" width="1335" height="1128" frameX="-25" frameY="-53" frameWidth="1364" frameHeight="1181"/>
+	<SubTexture name="ULTRA GOREFIELD DOWN0000" x="5383" y="0" width="1356" height="1157" frameX="-2" frameY="-7" frameWidth="1361" frameHeight="1164"/>
+	<SubTexture name="ULTRA GOREFIELD DOWN0001" x="5383" y="0" width="1356" height="1157" frameX="-2" frameY="-7" frameWidth="1361" frameHeight="1164"/>
+	<SubTexture name="ULTRA GOREFIELD DOWN0002" x="6739" y="0" width="1358" height="1164" frameX="0" frameY="0" frameWidth="1361" frameHeight="1164"/>
+	<SubTexture name="ULTRA GOREFIELD DOWN0003" x="0" y="1181" width="1361" height="1164"/>
+	<SubTexture name="ULTRA GOREFIELD DOWN0004" x="1361" y="1181" width="1326" height="1147" frameX="-35" frameY="-17" frameWidth="1361" frameHeight="1164"/>
+	<SubTexture name="ULTRA GOREFIELD DOWN0005" x="2687" y="1181" width="1325" height="1147" frameX="-35" frameY="-17" frameWidth="1361" frameHeight="1164"/>
+	<SubTexture name="ULTRA GOREFIELD DOWN0006" x="4012" y="1181" width="1325" height="1106" frameX="-35" frameY="-58" frameWidth="1361" frameHeight="1164"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0000" x="5337" y="1181" width="1333" height="1035" frameX="-5" frameY="0" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0001" x="5337" y="1181" width="1333" height="1035" frameX="-5" frameY="0" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0002" x="6670" y="1181" width="1334" height="1031" frameX="-3" frameY="-4" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0003" x="6670" y="1181" width="1334" height="1031" frameX="-3" frameY="-4" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0004" x="0" y="2345" width="1334" height="1027" frameX="-2" frameY="-8" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0005" x="0" y="2345" width="1334" height="1027" frameX="-2" frameY="-8" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0006" x="1334" y="2345" width="1335" height="1021" frameX="0" frameY="-14" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0007" x="1334" y="2345" width="1335" height="1021" frameX="0" frameY="-14" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0008" x="2669" y="2345" width="1334" height="1017" frameX="-1" frameY="-18" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0009" x="2669" y="2345" width="1334" height="1017" frameX="-1" frameY="-18" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0010" x="4003" y="2345" width="1332" height="1019" frameX="-3" frameY="-16" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0011" x="4003" y="2345" width="1332" height="1019" frameX="-3" frameY="-16" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0012" x="5335" y="2345" width="1328" height="1022" frameX="-7" frameY="-13" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0013" x="5335" y="2345" width="1328" height="1022" frameX="-7" frameY="-13" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0014" x="6663" y="2345" width="1324" height="1024" frameX="-11" frameY="-11" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0015" x="6663" y="2345" width="1324" height="1024" frameX="-11" frameY="-11" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0016" x="0" y="3372" width="1324" height="1027" frameX="-11" frameY="-8" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0017" x="0" y="3372" width="1324" height="1027" frameX="-11" frameY="-8" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0018" x="1324" y="3372" width="1327" height="1031" frameX="-8" frameY="-4" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0019" x="1324" y="3372" width="1327" height="1031" frameX="-8" frameY="-4" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0020" x="2651" y="3372" width="1328" height="1031" frameX="-7" frameY="-4" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD IDLE0021" x="2651" y="3372" width="1328" height="1031" frameX="-7" frameY="-4" frameWidth="1338" frameHeight="1035"/>
+	<SubTexture name="ULTRA GOREFIELD RIGHT0000" x="3979" y="3372" width="1437" height="1075" frameX="0" frameY="-46" frameWidth="1456" frameHeight="1121"/>
+	<SubTexture name="ULTRA GOREFIELD RIGHT0001" x="5416" y="3372" width="1437" height="1075" frameX="0" frameY="-46" frameWidth="1456" frameHeight="1121"/>
+	<SubTexture name="ULTRA GOREFIELD RIGHT0002" x="0" y="4447" width="1456" height="1121"/>
+	<SubTexture name="ULTRA GOREFIELD RIGHT0003" x="1456" y="4447" width="1456" height="1121"/>
+	<SubTexture name="ULTRA GOREFIELD RIGHT0004" x="2912" y="4447" width="1392" height="1004" frameX="0" frameY="-117" frameWidth="1456" frameHeight="1121"/>
+	<SubTexture name="ULTRA GOREFIELD RIGHT0005" x="4304" y="4447" width="1392" height="1004" frameX="0" frameY="-117" frameWidth="1456" frameHeight="1121"/>
+	<SubTexture name="ULTRA GOREFIELD RIGHT0006" x="5696" y="4447" width="1391" height="1032" frameX="0" frameY="-89" frameWidth="1456" frameHeight="1121"/>
+	<SubTexture name="ULTRA GOREFIELD UP0000" x="0" y="5568" width="1229" height="1039" frameX="-33" frameY="0" frameWidth="1264" frameHeight="1061"/>
+	<SubTexture name="ULTRA GOREFIELD UP0001" x="1229" y="5568" width="1229" height="1039" frameX="-33" frameY="0" frameWidth="1264" frameHeight="1061"/>
+	<SubTexture name="ULTRA GOREFIELD UP0002" x="2458" y="5568" width="1246" height="1029" frameX="-16" frameY="-17" frameWidth="1264" frameHeight="1061"/>
+	<SubTexture name="ULTRA GOREFIELD UP0003" x="3704" y="5568" width="1248" height="1029" frameX="-16" frameY="-17" frameWidth="1264" frameHeight="1061"/>
+	<SubTexture name="ULTRA GOREFIELD UP0004" x="4952" y="5568" width="1264" height="1028" frameX="0" frameY="-33" frameWidth="1264" frameHeight="1061"/>
+	<SubTexture name="ULTRA GOREFIELD UP0005" x="6216" y="5568" width="1264" height="1028" frameX="0" frameY="-33" frameWidth="1264" frameHeight="1061"/>
+	<SubTexture name="ULTRA GOREFIELD UP0006" x="0" y="6607" width="1264" height="1017" frameX="0" frameY="-44" frameWidth="1264" frameHeight="1061"/>
+</TextureAtlas>

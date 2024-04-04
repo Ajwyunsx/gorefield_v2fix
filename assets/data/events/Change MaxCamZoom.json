@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Amount",
+            "type": "Int(0, 9999999, 0)",
+            "defaultValue": "1"
+        }
+    ]
+}

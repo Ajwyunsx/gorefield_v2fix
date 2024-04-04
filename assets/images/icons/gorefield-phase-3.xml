@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GOREFIELD 2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="118" height="131" frameX="-1" frameY="0" frameWidth="119" frameHeight="131"/>
+	<SubTexture name="idle0001" x="0" y="0" width="118" height="131" frameX="-1" frameY="0" frameWidth="119" frameHeight="131"/>
+	<SubTexture name="idle0002" x="0" y="0" width="118" height="131" frameX="-1" frameY="0" frameWidth="119" frameHeight="131"/>
+	<SubTexture name="idle0003" x="118" y="0" width="118" height="130" frameX="0" frameY="0" frameWidth="119" frameHeight="131"/>
+	<SubTexture name="idle0004" x="118" y="0" width="118" height="130" frameX="0" frameY="0" frameWidth="119" frameHeight="131"/>
+	<SubTexture name="idle0005" x="118" y="0" width="118" height="130" frameX="0" frameY="0" frameWidth="119" frameHeight="131"/>
+	<SubTexture name="losing0000" x="236" y="0" width="113" height="158" frameX="-3" frameY="-1" frameWidth="136" frameHeight="168"/>
+	<SubTexture name="losing0001" x="236" y="0" width="113" height="158" frameX="-3" frameY="-1" frameWidth="136" frameHeight="168"/>
+	<SubTexture name="losing0002" x="349" y="0" width="136" height="162" frameX="0" frameY="0" frameWidth="136" frameHeight="168"/>
+	<SubTexture name="losing0003" x="349" y="0" width="136" height="162" frameX="0" frameY="0" frameWidth="136" frameHeight="168"/>
+	<SubTexture name="losing0004" x="485" y="0" width="114" height="167" frameX="-2" frameY="-1" frameWidth="136" frameHeight="168"/>
+	<SubTexture name="losing0005" x="485" y="0" width="114" height="167" frameX="-2" frameY="-1" frameWidth="136" frameHeight="168"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" icon="icon-sansfield" camx="20" y="-40" isGF="false" camy="10" color="#D3E1FF" isPlayer="false" holdTime="4.00000000000001" sprite="jon-black">
+	<anim x="0" loop="false" y="0" fps="24" anim="JON0" name="idle"/>
+	<anim x="62" loop="false" y="-5" fps="24" anim="JON LEFT" name="singLEFT"/>
+	<anim x="-11" loop="false" y="-37" fps="24" anim="JON DOWN" name="singDOWN"/>
+	<anim x="40" loop="false" y="19" fps="24" anim="JON UP" name="singUP"/>
+	<anim x="-20" loop="false" y="-11" fps="24" anim="JON RIGHT" name="singRIGHT"/>
+	<anim x="104" loop="false" y="10" fps="24" anim="JON PIPE" name="pipe"/>
+	<anim x="190" loop="false" y="88" fps="24" anim="JON DEATH SANSFIELD" name="death"/>
+</character>

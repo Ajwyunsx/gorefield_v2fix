@@ -1,0 +1,1 @@
+public static var fromMovieCredits:Bool = false;

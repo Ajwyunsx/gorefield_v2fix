@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="icon-lasagnaboy-pixel" camx="30" y="0" isGF="false" scale="0.4" camy="240" color="#346756" isPlayer="false" antialiasing="false" holdTime="6.1" sprite="lasagnaboy-pixel">
+	<anim x="1300.5" loop="false" y="-75" fps="24" anim="LASAGNA BOY SCARED TRANSITION" name="intro"/>
+	<anim x="1232.5" loop="false" y="-75" fps="24" anim="LASAGNA BOY END TRANSITION" name="outro"/>
+	<anim x="-20" loop="false" y="-170" fps="24" anim="LASAGNA BOY SCARED IDLE" name="idle"/>
+	<anim x="-65" loop="false" y="-102.5" fps="24" anim="LASAGNA BOY SCARED LEFT" name="singLEFT"/>
+	<anim x="-52.5" loop="false" y="-232.5" fps="24" anim="LASAGNA BOY SCARED DOWN" name="singDOWN"/>
+	<anim x="-112.5" loop="false" y="-50" fps="24" anim="LASAGNA BOY SCARED UP" name="singUP"/>
+	<anim x="-110" loop="false" y="-112.5" fps="24" anim="LASAGNA BOY SCARED RIGHT" name="singRIGHT"/>
+</character>

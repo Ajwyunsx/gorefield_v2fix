@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="0" icon="bigotes" animatedIcon="true" iconoffsety="-28" iconoffsetx="-30" flipX="false" isPlayer="null" camx="0" camy="0" holdTime="4.00000000000001" scale="1" color="#201035">
+	<anim name="singRIGHT" anim="SR BIGotes RIGHT" fps="8" loop="false" x="-61" y="-110"/>
+	<anim name="singUP" anim="SR BIGotes UP" fps="8" loop="false" x="-11" y="80"/>
+	<anim name="singDOWN" anim="SR BIGotes DOWN" fps="8" loop="false" x="59" y="-280"/>
+	<anim name="singLEFT" anim="SR BIGotes LEFT" fps="8" loop="false" x="339" y="-60"/>
+	<anim name="idle" anim="SR BIGotes IDLE" fps="8" loop="false" x="0" y="0"/>
+	<anim name="idle-loop" anim="SR BIGotes IDLE" fps="8" loop="true" x="0" y="0" indices="[11,8,13,14]"/>
+</character>

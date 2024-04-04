@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garfield negocia.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garfield negocia down0000" x="0" y="0" width="585" height="868" frameX="0" frameY="-12" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0001" x="0" y="0" width="585" height="868" frameX="0" frameY="-12" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0002" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0003" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0004" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0005" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0006" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0007" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0008" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0009" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down0010" x="585" y="0" width="582" height="911" frameX="-13" frameY="0" frameWidth="595" frameHeight="911"/>
+	<SubTexture name="garfield negocia down miss0000" x="1167" y="0" width="589" height="934" frameX="0" frameY="-12" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0001" x="1167" y="0" width="589" height="934" frameX="0" frameY="-12" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0002" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0003" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0004" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0005" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0006" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0007" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0008" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia down miss0009" x="1756" y="0" width="585" height="946" frameX="-3" frameY="0" frameWidth="589" frameHeight="946"/>
+	<SubTexture name="garfield negocia idle0000" x="2341" y="0" width="586" height="904" frameX="0" frameY="0" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0001" x="2341" y="0" width="586" height="904" frameX="0" frameY="0" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0002" x="2341" y="0" width="586" height="904" frameX="0" frameY="0" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0003" x="2927" y="0" width="586" height="916" frameX="-1" frameY="0" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0004" x="2927" y="0" width="586" height="916" frameX="-1" frameY="0" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0005" x="2927" y="0" width="586" height="916" frameX="-1" frameY="0" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0006" x="3513" y="0" width="582" height="907" frameX="-4" frameY="-1" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0007" x="3513" y="0" width="582" height="907" frameX="-4" frameY="-1" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia idle0008" x="3513" y="0" width="582" height="907" frameX="-4" frameY="-1" frameWidth="587" frameHeight="916"/>
+	<SubTexture name="garfield negocia left0000" x="0" y="946" width="652" height="889" frameX="0" frameY="0" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0001" x="0" y="946" width="652" height="889" frameX="0" frameY="0" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0002" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0003" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0004" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0005" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0006" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0007" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0008" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0009" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left0010" x="652" y="946" width="597" height="888" frameX="-39" frameY="-20" frameWidth="652" frameHeight="908"/>
+	<SubTexture name="garfield negocia left miss0000" x="1249" y="946" width="663" height="985"/>
+	<SubTexture name="garfield negocia left miss0001" x="1249" y="946" width="663" height="985"/>
+	<SubTexture name="garfield negocia left miss0002" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia left miss0003" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia left miss0004" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia left miss0005" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia left miss0006" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia left miss0007" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia left miss0008" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia left miss0009" x="1912" y="946" width="652" height="985" frameX="-11" frameY="0" frameWidth="663" frameHeight="985"/>
+	<SubTexture name="garfield negocia right0000" x="2564" y="946" width="599" height="909" frameX="-36" frameY="-17" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0001" x="2564" y="946" width="599" height="909" frameX="-36" frameY="-17" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0002" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0003" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0004" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0005" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0006" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0007" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0008" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0009" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right0010" x="3163" y="946" width="586" height="922" frameX="0" frameY="0" frameWidth="635" frameHeight="926"/>
+	<SubTexture name="garfield negocia right miss0000" x="0" y="1931" width="603" height="909" frameX="-12" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0001" x="0" y="1931" width="603" height="909" frameX="-12" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0002" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0003" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0004" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0005" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0006" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0007" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0008" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia right miss0009" x="603" y="1931" width="599" height="909" frameX="0" frameY="0" frameWidth="615" frameHeight="909"/>
+	<SubTexture name="garfield negocia up0000" x="1202" y="1931" width="584" height="953" frameX="-29" frameY="0" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0001" x="1202" y="1931" width="584" height="953" frameX="-29" frameY="0" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0002" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0003" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0004" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0005" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0006" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0007" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0008" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0009" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up0010" x="1786" y="1931" width="598" height="947" frameX="0" frameY="-1" frameWidth="613" frameHeight="953"/>
+	<SubTexture name="garfield negocia up miss0000" x="2384" y="1931" width="580" height="1055" frameX="-2" frameY="0" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0001" x="2384" y="1931" width="580" height="1055" frameX="-2" frameY="0" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0002" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0003" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0004" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0005" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0006" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0007" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0008" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+	<SubTexture name="garfield negocia up miss0009" x="2964" y="1931" width="584" height="1034" frameX="0" frameY="-21" frameWidth="584" frameHeight="1055"/>
+</TextureAtlas>

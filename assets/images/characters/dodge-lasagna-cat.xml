@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LASAGNA CAT 0 ASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LASAGNA CAT 0 IDLE0000" x="5" y="5" width="946" height="1149" frameX="-47" frameY="-266" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0001" x="5" y="5" width="946" height="1149" frameX="-47" frameY="-266" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0002" x="956" y="5" width="805" height="1283" frameX="-45" frameY="-140" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0003" x="956" y="5" width="805" height="1283" frameX="-45" frameY="-140" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0004" x="1766" y="5" width="775" height="1344" frameX="-30" frameY="-49" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0005" x="1766" y="5" width="775" height="1344" frameX="-30" frameY="-49" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0006" x="2546" y="5" width="729" height="1393" frameX="-45" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0007" x="2546" y="5" width="729" height="1393" frameX="-45" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0008" x="3280" y="5" width="707" height="1378" frameX="-37" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0009" x="3280" y="5" width="707" height="1378" frameX="-37" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0010" x="3992" y="5" width="843" height="1363" frameX="-22" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0011" x="3992" y="5" width="843" height="1363" frameX="-22" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0012" x="4840" y="5" width="851" height="1378" frameX="-45" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0013" x="4840" y="5" width="851" height="1378" frameX="-45" frameY="0" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0014" x="5696" y="5" width="881" height="1215" frameX="-22" frameY="-140" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0015" x="5696" y="5" width="881" height="1215" frameX="-22" frameY="-140" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0016" x="6582" y="5" width="873" height="1306" frameX="-15" frameY="-72" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0017" x="6582" y="5" width="873" height="1306" frameX="-15" frameY="-72" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0018" x="5" y="1403" width="850" height="1305" frameX="0" frameY="-65" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0019" x="5" y="1403" width="850" height="1305" frameX="0" frameY="-65" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0020" x="5" y="1403" width="850" height="1305" frameX="0" frameY="-65" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT 0 IDLE0021" x="5" y="1403" width="850" height="1305" frameX="0" frameY="-65" frameWidth="993" frameHeight="1423"/>
+	<SubTexture name="LASAGNA CAT ATACK0000" x="860" y="1403" width="1440" height="1516" frameX="0" frameY="-184" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0001" x="2305" y="1403" width="1487" height="1662" frameX="-30" frameY="-214" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0002" x="3797" y="1403" width="1311" height="1501" frameX="-23" frameY="-230" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0003" x="3797" y="1403" width="1311" height="1501" frameX="-23" frameY="-230" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0004" x="5113" y="1403" width="1265" height="1258" frameX="-15" frameY="-237" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0005" x="5113" y="1403" width="1265" height="1258" frameX="-15" frameY="-237" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0006" x="6383" y="1403" width="1151" height="1090" frameX="-23" frameY="-245" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0007" x="6383" y="1403" width="1151" height="1090" frameX="-23" frameY="-245" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0008" x="5" y="3070" width="953" height="1112" frameX="-38" frameY="-230" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0009" x="5" y="3070" width="953" height="1112" frameX="-38" frameY="-230" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0010" x="963" y="3070" width="762" height="1120" frameX="-8" frameY="-230" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0011" x="963" y="3070" width="762" height="1120" frameX="-8" frameY="-230" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0012" x="1730" y="3070" width="770" height="1128" frameX="0" frameY="-207" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0013" x="1730" y="3070" width="770" height="1128" frameX="0" frameY="-207" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0014" x="2505" y="3070" width="763" height="1220" frameX="-30" frameY="-115" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0015" x="2505" y="3070" width="763" height="1220" frameX="-30" frameY="-115" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0016" x="3273" y="3070" width="801" height="1288" frameX="-30" frameY="-62" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0017" x="3273" y="3070" width="801" height="1288" frameX="-30" frameY="-62" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0018" x="4079" y="3070" width="839" height="1342" frameX="-30" frameY="0" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT ATACK0019" x="4079" y="3070" width="839" height="1342" frameX="-30" frameY="0" frameWidth="1517" frameHeight="1876"/>
+	<SubTexture name="LASAGNA CAT SCAPE0000" x="4923" y="3070" width="861" height="1295" frameX="0" frameY="0" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0001" x="4923" y="3070" width="861" height="1295" frameX="0" frameY="0" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0002" x="4923" y="3070" width="861" height="1295" frameX="0" frameY="0" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0003" x="5789" y="3070" width="830" height="1151" frameX="-76" frameY="-152" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0004" x="5789" y="3070" width="830" height="1151" frameX="-76" frameY="-152" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0005" x="5789" y="3070" width="830" height="1151" frameX="-76" frameY="-152" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0006" x="6624" y="3070" width="686" height="915" frameX="-68" frameY="-251" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0007" x="6624" y="3070" width="686" height="915" frameX="-68" frameY="-251" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0008" x="7315" y="3070" width="351" height="900" frameX="-68" frameY="-266" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0009" x="7315" y="3070" width="351" height="900" frameX="-68" frameY="-266" frameWidth="906" frameHeight="1303"/>
+	<SubTexture name="LASAGNA CAT SCAPE0010" x="7671" y="3070" width="1" height="1" frameX="-154" frameY="-661" frameWidth="906" frameHeight="1303"/>
+</TextureAtlas>

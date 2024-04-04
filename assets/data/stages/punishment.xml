@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.35" name="punishment" folder="stages/punishment/" opponentZoom="1" playerZoom="1.35" noteSkin="gorefield_green" splashSkin="gorefield_green" healthBarColor="green" middleScroll="true">
+	<sprite name="BG1" x="0" y="0" sprite="BG_PHASE_0" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+	<opponent x="275" y="180" camxoffset="-120" camyoffset="40"/>
+	<sprite name="TV" x="0" y="320" sprite="tv" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+	<player x="100" y="220" camxoffset="220" camyoffset="-80"/>
+	<solid name="black" x="-700" y="-500" width="3000" height="2000" color="0x000000">
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+	</solid>
+	<sprite name="red_overlay" x="0" y="0" sprite="red_vignette" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+		<property name="alpha" type="float" value="0"/>
+	</sprite>
+	<sprite name="black_overlay" x="0" y="0" sprite="black_vignette" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+		<property name="alpha" type="float" value="0.75"/>
+	</sprite>
+</stage>

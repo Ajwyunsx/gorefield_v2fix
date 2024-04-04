@@ -1,0 +1,5 @@
+<!DOCTYPE codename-titlestate >
+<titlestate>
+	<sprites folder="titlescreen"/>
+	<intro length="-1"/>
+</titlestate>

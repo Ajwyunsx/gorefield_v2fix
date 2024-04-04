@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JESSEE_DEATH.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JESSEE DEATH0000" x="5" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0001" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0002" x="720" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0003" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0004" x="725" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0005" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0006" x="730" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0007" x="730" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0008" x="735" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0009" x="735" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0010" x="1445" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0011" x="1445" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0012" x="735" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0013" x="735" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0014" x="1450" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0015" x="1450" y="5" width="1" height="1" frameX="-8" frameY="-8" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH0016" x="735" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH0017" x="735" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0000" x="5" y="129" width="705" height="119" frameX="-228" frameY="-54" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0001" x="5" y="129" width="705" height="119" frameX="-228" frameY="-54" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0002" x="715" y="129" width="733" height="104" frameX="-214" frameY="-61" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0003" x="715" y="129" width="733" height="104" frameX="-214" frameY="-61" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0004" x="5" y="253" width="634" height="226" frameX="-263" frameY="0" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0005" x="644" y="253" width="912" height="48" frameX="-124" frameY="-89" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0006" x="5" y="484" width="1124" height="50" frameX="0" frameY="-81" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0007" x="5" y="539" width="1124" height="50" frameX="0" frameY="-81" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH CONFIRM0008" x="1134" y="539" width="1" height="1" frameX="-236" frameY="-62" frameWidth="1124" frameHeight="226"/>
+	<SubTexture name="JESSEE DEATH LOOP0000" x="1139" y="539" width="602" height="104" frameX="-51" frameY="-7" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0001" x="5" y="648" width="674" height="115" frameX="-15" frameY="-2" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0002" x="5" y="648" width="674" height="115" frameX="-15" frameY="-2" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0003" x="684" y="648" width="701" height="119" frameX="-2" frameY="0" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0004" x="684" y="648" width="701" height="119" frameX="-2" frameY="0" frameWidth="705" frameHeight="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0005" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0006" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0007" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0008" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0009" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0010" x="10" y="5" width="705" height="119"/>
+	<SubTexture name="JESSEE DEATH LOOP0011" x="10" y="5" width="705" height="119"/>
+</TextureAtlas>

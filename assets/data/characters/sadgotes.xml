@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" icon="Bigotes_sad" iconoffsety="-18" iconoffsetx="-30" camx="40" y="690" isGF="false" scale="3" camy="40" color="#201035" isPlayer="false" antialiasing="false" sprite="sadgotes">
+	<anim x="-7.33333333333333" loop="false" y="0" fps="24" anim="SAD LYMAN RIGHT" name="singRIGHT"/>
+	<anim x="-3.66666666666667" loop="false" y="0" fps="24" anim="SAD LYMAN UP" name="singUP"/>
+	<anim x="-6" loop="false" y="0" fps="24" anim="SAD LYMAN DOWN" name="singDOWN"/>
+	<anim x="-3.66666666666667" loop="false" y="0" fps="24" anim="SAD LYMAN LEFT" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="SAD LYMAN IDLE" name="idle"/>
+</character>

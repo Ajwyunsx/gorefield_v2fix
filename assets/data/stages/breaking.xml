@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="breaking" folder="stages/breaking/" noteSkin="breaking" splashSkin="gorefield_green">
+	<sprite name="walterBG" x="80" y="140" sprite="BG_WALTER" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<anim name="idle" anim="BG" loop="true" fps="24"/>
+	</sprite>
+	<sprite name="walterLegs" x="70" y="160" sprite="PATAS_WALTER" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<anim name="idle" anim="WALTER" loop="true" fps="24"/>
+	</sprite>
+	<sprite name="jesseBG" x="520" y="50" sprite="BG_JESSEE" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<anim name="idle" anim="casas" loop="true" fps="24"/>
+	</sprite>
+	<sprite name="jesseBG2" x="520" y="180" sprite="BG_JESSEE_2" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<anim name="idle" anim="BG" loop="true" fps="24"/>
+		<property name="alpha" type="float" value="0.00001"/>
+	</sprite>
+	<gf x="755" y="285" camxoffset="210" camyoffset="100" scroll="1"/>
+	<player x="730" y="-240" camxoffset="0" camyoffset="0"/>
+	<opponent x="230" y="220"  camxoffset="0" camyoffset="0"/>
+	<sprite name="breakingHUD" x="1" y="0" sprite="MENU_BREAKING" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+			<property name="zoomFactor" type="float" value="0"/>
+	</sprite>
+	<sprite name="danger" x="316" y="80" sprite="DANGER" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<anim name="idle" anim="DANGER" loop="true" fps="24"/>
+		<property name="zoomFactor" type="float" value="0"/>
+	</sprite>
+	<solid name="black" x="-700" y="-500" width="3000" height="2000" scrollx="0" scrolly="0" color="0x000000">
+		<property name="active" type="bool" value="false" />
+	</solid>
+</stage>

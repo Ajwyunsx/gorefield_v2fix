@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garfield menú.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GARFIELD0000" x="0" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0001" x="0" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0002" x="0" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0003" x="660" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0004" x="660" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0005" x="660" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0006" x="1320" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0007" x="1320" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0008" x="1320" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0009" x="1980" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0010" x="1980" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0011" x="1980" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0012" x="2640" y="0" width="659" height="683" frameX="-621" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0013" x="2640" y="0" width="659" height="683" frameX="-621" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0014" x="2640" y="0" width="659" height="683" frameX="-621" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0015" x="3299" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0016" x="3299" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0017" x="3299" y="0" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0018" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0019" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0020" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0021" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0022" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0023" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0024" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0025" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0026" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0027" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0028" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0029" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0030" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0031" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0032" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0033" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0034" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0035" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0036" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0037" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0038" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0039" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0040" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0041" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0042" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0043" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0044" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0045" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0046" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0047" x="660" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0048" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0049" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0050" x="1320" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0051" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0052" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0053" x="1980" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0054" x="0" y="683" width="660" height="683" frameX="-620" frameY="-37" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="GARFIELD0055" x="2640" y="683" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0056" x="2640" y="683" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0057" x="2640" y="683" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0058" x="2640" y="683" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0059" x="0" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0060" x="0" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0061" x="0" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0062" x="0" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0063" x="0" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0064" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0065" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0066" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0067" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0068" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0069" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0070" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0071" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0072" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0073" x="1280" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0074" x="2560" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0075" x="2560" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0076" x="2560" y="1403" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0077" x="0" y="2123" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0078" x="0" y="2123" width="1280" height="720"/>
+	<SubTexture name="GARFIELD0079" x="0" y="2123" width="1280" height="720"/>
+</TextureAtlas>

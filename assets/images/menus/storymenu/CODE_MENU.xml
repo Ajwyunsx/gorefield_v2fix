@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CODE MENU.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MENU CODE0000" x="5" y="5" width="486" height="551"/>
+	<SubTexture name="MENU CODE INTRO0000" x="496" y="5" width="72" height="551" frameX="0" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0001" x="496" y="5" width="72" height="551" frameX="0" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0002" x="573" y="5" width="126" height="551" frameX="0" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0003" x="573" y="5" width="126" height="551" frameX="0" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0004" x="704" y="5" width="420" height="551" frameX="0" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0005" x="1129" y="5" width="486" height="551" frameX="-8" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0006" x="1129" y="5" width="486" height="551" frameX="-8" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0007" x="1129" y="5" width="486" height="551" frameX="-1" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0008" x="1129" y="5" width="486" height="551" frameX="-1" frameY="0" frameWidth="494" frameHeight="551"/>
+	<SubTexture name="MENU CODE INTRO0009" x="5" y="5" width="486" height="551"/>
+	<SubTexture name="MENU CODE INTRO0010" x="5" y="5" width="486" height="551"/>
+	<SubTexture name="MENU NO CODE0000" x="1620" y="5" width="109" height="124"/>
+</TextureAtlas>

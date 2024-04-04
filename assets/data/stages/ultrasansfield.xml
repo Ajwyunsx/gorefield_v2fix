@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="ultrasansfield" folder="stages/patella/" noteSkin="sans" splashSkin="default" healthBarColor="gray">
+	<countdown>
+		<three sound="sansfield/3"/>
+		<two sprite="game/ready's/patella/Ready" sound="sansfield/2"/>
+		<one sprite="game/ready's/patella/Set" sound="sansfield/1"/>
+		<go sprite="game/ready's/patella/Monday" sound="sansfield/Blast"/>
+	</countdown>
+	<sprite name="overlay" x="0" y="0" sprite="pure_vignette" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+	</sprite>
+	<opponent x="-72" y="-520" camxoffset="0" camyoffset="100"/>
+	<solid name="blackBox" x="40" y="60" width="820" height="350" color="0x000000"/>
+	<player x="370" y="-170" camxoffset="-50" camyoffset="-200"/>
+	<sprite name="sansFieldHUD" x="0" y="0" sprite="cuadro_ULTRA" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+	<solid name="black" x="-640" y="-360" width="2560" height="1440" color="0x000000">
+		<property name="scrollFactor.x" type="float" value="0"/>
+		<property name="scrollFactor.y" type="float" value="0"/>
+	</solid>
+</stage>

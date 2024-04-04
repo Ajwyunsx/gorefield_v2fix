@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-650" icon="icon-lasagnacat-pixel" camx="19.5" y="-570" isGF="false" scale="0.45" camy="233" color="#346756" isPlayer="false" antialiasing="false" holdTime="6.1" sprite="LASAGNA_CAT">
+	<anim x="0" loop="true" y="-70" fps="15" anim="LASAGNA_CAT _RUN" name="outro"/>
+</character>

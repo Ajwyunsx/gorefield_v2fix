@@ -1,0 +1,39 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.55" name="patella" folder="stages/patella/" noteSkin="sans" splashSkin="default" healthBarColor="gray">
+	<countdown>
+		<three sound="sansfield/3"/>
+		<two sprite="game/ready's/patella/Ready" sound="sansfield/2"/>
+		<one sprite="game/ready's/patella/Set" sound="sansfield/1"/>
+		<go sprite="game/ready's/patella/Monday" sound="sansfield/Blast"/>
+	</countdown>
+	<sprite name="patellaBG1" x="0" y="0" sprite="sansfield_cave" antialiasing="true" scrollx="0.6" scrolly="0.6" scale="1.5"/>
+	<sprite name="ice" x="-900" y="400" sprite="sansfield_ice" antialiasing="true" scrollx="0.8" scrolly="1" scale="1.5"/>
+	<sprite name="patellaBG2" x="0" y="0" sprite="sansfield_bg" antialiasing="true" scrollx="1" scrolly="1" scale="1.5"/>
+	<opponent x="300" y="420" camxoffset="210" camyoffset="0"/>
+	<player x="1170" y="220" camxoffset="-170" camyoffset="-60"/>
+	<girlfriend x="100" y="140" camxoffset="0" camyoffset="0" scroll="1"/>
+	<sprite name="snowStorm" x="0" y="0" sprite="Snow-Storm" antialiasing="true" scrollx="0" scrolly="0">
+		<anim name="idle" anim="tormenta" loop="true"/>
+	</sprite>
+	<sprite name="sansFieldHUD" x="0" y="0" sprite="marco_UNDERTALE_1" antialiasing="true" scrollx="1" scrolly="1" scale="1">
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+	</sprite>
+	<sprite name="sansFieldBones" x="50" y="-900" sprite="bones" antialiasing="true" scrollx="1" scrolly="1">
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+	</sprite>
+	<solid name="black" x="-640" y="-360" width="2560" height="1440" color="0x000000">
+		<property name="scrollFactor.x" type="float" value="0"/>
+		<property name="scrollFactor.y" type="float" value="0"/>
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+	</solid>
+	<!-- <sprite name="heart" x="0" y="0" sprite="heart" antialiasing="true" scrollx="1" scrolly="1">
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+	</sprite> -->
+	<sprite name="overlay" x="0" y="0" sprite="v" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+	</sprite>
+</stage>

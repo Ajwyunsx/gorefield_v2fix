@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="-1045" y="390" icon="bf-final" iconoffsetx="15" iconoffsety="-10" animatedIcon="true" flipX="true" isPlayer="true" camx="270" camy="130" holdTime="4" scale="0.4" color="#999999" gameOverChar="bf-dead-bw">
+	<anim name="idle" anim="BF Idle" fps="24" loop="false" x="-5" y="0"/>
+	<anim name="singLEFT" anim="BF L" fps="24" loop="false" x="-2" y="5"/>
+	<anim name="singDOWN" anim="BF Down" fps="24" loop="false" x="-14" y="-8"/>
+	<anim name="singUP" anim="BF Up" fps="24" loop="false" x="-19" y="10"/>
+	<anim name="singRIGHT" anim="BF R" fps="24" loop="false" x="-19" y="7"/>
+	<anim name="singLEFTmiss" anim="MISS LEFT" fps="24" loop="false" x="-2" y="5"/>
+	<anim name="singDOWNmiss" anim="MISS DOWN" fps="24" loop="false" x="-14" y="-7"/>
+	<anim name="singUPmiss" anim="MISS UP" fps="24" loop="false" x="-19" y="10"/>
+	<anim name="singRIGHTmiss" anim="MISS RIGHT" fps="24" loop="false" x="-18" y="6"/>
+</character>

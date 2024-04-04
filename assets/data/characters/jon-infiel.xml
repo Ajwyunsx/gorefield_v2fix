@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="650" icon="icon-pololos" camx="-70" y="-230" isGF="false" scale="0.9" color="#D44D29" isPlayer="false" holdTime="1.5" sprite="jhon_infidelidad">
+	<anim x="0" loop="true" y="0" fps="24" anim="jon infidelidad idle0" name="idle"/>
+	<anim x="57" loop="false" y="18" fps="24" anim="jon infidelidad left" name="singLEFT"/>
+	<anim x="127" loop="false" y="-59" fps="24" anim="jon infidelidad down" name="singDOWN"/>
+	<anim x="-8" loop="false" y="35" fps="24" anim="jon infidelidad up" name="singUP"/>
+	<anim x="-51" loop="false" y="2" fps="24" anim="jon infidelidad right" name="singRIGHT"/>
+</character>

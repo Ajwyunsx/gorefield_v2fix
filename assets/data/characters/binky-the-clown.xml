@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Binky_icon" y="350" isGF="false" scale="0.6" color="#5A50D3" isPlayer="true" antialiasing="false" sprite="Binky">
+	<anim x="0" loop="false" y="0" fps="12" anim="Binky idle" name="idle"/>
+	<anim x="-77" loop="false" y="20" fps="12" anim="Binky left" name="singLEFT"/>
+	<anim x="-110" loop="false" y="1" fps="12" anim="Binky down" name="singDOWN"/>
+	<anim x="9" loop="false" y="14" fps="12" anim="Binky up" name="singUP"/>
+	<anim x="-14" loop="false" y="0" fps="12" anim="Binky right" name="singRIGHT"/>
+</character>

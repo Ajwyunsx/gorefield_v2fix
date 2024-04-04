@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CURA NOTE.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cura note0000" x="5" y="5" width="137" height="147" frameX="0" frameY="0" frameWidth="138" frameHeight="147"/>
+	<SubTexture name="cura note0001" x="5" y="5" width="137" height="147" frameX="0" frameY="0" frameWidth="138" frameHeight="147"/>
+	<SubTexture name="cura note0002" x="147" y="5" width="138" height="147"/>
+	<SubTexture name="cura note0003" x="147" y="5" width="138" height="147"/>
+</TextureAtlas>

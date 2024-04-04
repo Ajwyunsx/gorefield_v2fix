@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garfield infidelidad.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garfield infidelidoso down0000" x="0" y="0" width="338" height="334" frameX="-3" frameY="-7" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0001" x="0" y="0" width="338" height="334" frameX="-3" frameY="-7" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0002" x="338" y="0" width="330" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0003" x="338" y="0" width="330" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0004" x="668" y="0" width="347" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0005" x="668" y="0" width="347" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0006" x="668" y="0" width="347" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0007" x="668" y="0" width="347" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0008" x="668" y="0" width="347" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0009" x="668" y="0" width="347" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down0010" x="668" y="0" width="347" height="340" frameX="0" frameY="0" frameWidth="347" frameHeight="341"/>
+	<SubTexture name="garfield infidelidoso down miss0000" x="1015" y="0" width="345" height="364" frameX="0" frameY="-5" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0001" x="1015" y="0" width="345" height="364" frameX="0" frameY="-5" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0002" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0003" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0004" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0005" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0006" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0007" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0008" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso down miss0009" x="1360" y="0" width="338" height="370" frameX="-4" frameY="0" frameWidth="345" frameHeight="370"/>
+	<SubTexture name="garfield infidelidoso idle0000" x="1698" y="0" width="343" height="365" frameX="0" frameY="0" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0001" x="1698" y="0" width="343" height="365" frameX="0" frameY="0" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0002" x="1698" y="0" width="343" height="365" frameX="0" frameY="0" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0003" x="0" y="370" width="339" height="365" frameX="-2" frameY="-1" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0004" x="0" y="370" width="339" height="365" frameX="-2" frameY="-1" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0005" x="0" y="370" width="339" height="365" frameX="-2" frameY="-1" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0006" x="339" y="370" width="338" height="365" frameX="-2" frameY="-1" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0007" x="339" y="370" width="338" height="365" frameX="-2" frameY="-1" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso idle0008" x="339" y="370" width="338" height="365" frameX="-2" frameY="-1" frameWidth="343" frameHeight="366"/>
+	<SubTexture name="garfield infidelidoso left0000" x="677" y="370" width="423" height="360" frameX="0" frameY="-7" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0001" x="677" y="370" width="423" height="360" frameX="0" frameY="-7" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0002" x="1100" y="370" width="409" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0003" x="1100" y="370" width="409" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0004" x="1509" y="370" width="420" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0005" x="1509" y="370" width="420" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0006" x="1509" y="370" width="420" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0007" x="1509" y="370" width="420" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0008" x="1509" y="370" width="420" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0009" x="1509" y="370" width="420" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left0010" x="1509" y="370" width="420" height="367" frameX="-1" frameY="0" frameWidth="423" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso left miss0000" x="0" y="737" width="423" height="388" frameX="0" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0001" x="0" y="737" width="423" height="388" frameX="0" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0002" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0003" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0004" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0005" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0006" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0007" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0008" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso left miss0009" x="423" y="737" width="423" height="388" frameX="-2" frameY="0" frameWidth="425" frameHeight="388"/>
+	<SubTexture name="garfield infidelidoso right0000" x="846" y="737" width="321" height="364" frameX="-6" frameY="-3" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0001" x="846" y="737" width="321" height="364" frameX="-6" frameY="-3" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0002" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0003" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0004" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0005" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0006" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0007" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0008" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0009" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right0010" x="1167" y="737" width="323" height="367" frameX="0" frameY="0" frameWidth="327" frameHeight="367"/>
+	<SubTexture name="garfield infidelidoso right miss0000" x="1490" y="737" width="323" height="417" frameX="-1" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0001" x="1490" y="737" width="323" height="417" frameX="-1" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0002" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0003" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0004" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0005" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0006" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0007" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0008" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso right miss0009" x="0" y="1154" width="321" height="417" frameX="0" frameY="0" frameWidth="324" frameHeight="417"/>
+	<SubTexture name="garfield infidelidoso up0000" x="321" y="1154" width="346" height="473" frameX="0" frameY="0" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0001" x="321" y="1154" width="346" height="473" frameX="0" frameY="0" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0002" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0003" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0004" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0005" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0006" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0007" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0008" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0009" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up0010" x="667" y="1154" width="351" height="456" frameX="-4" frameY="-13" frameWidth="355" frameHeight="473"/>
+	<SubTexture name="garfield infidelidoso up miss0000" x="1018" y="1154" width="337" height="482" frameX="-4" frameY="0" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0001" x="1018" y="1154" width="337" height="482" frameX="-4" frameY="0" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0002" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0003" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0004" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0005" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0006" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0007" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0008" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+	<SubTexture name="garfield infidelidoso up miss0009" x="1355" y="1154" width="346" height="473" frameX="0" frameY="-9" frameWidth="346" frameHeight="482"/>
+</TextureAtlas>

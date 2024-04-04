@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="cryfield" camx="-230" y="25" isGF="false" camy="100" scale="0.45" color="#D3E1FF" iconoffsetx="-30" iconoffsety="0" animatedIcon="true" isPlayer="false" holdTime="3.1" sprite="cryfield">
+	<anim x="0" loop="false" y="0" fps="24" anim="CRYFIELD IDLE" name="idle"/>
+	<anim x="32" loop="false" y="15" fps="24" anim="CRYFIELD LEFT" name="singLEFT"/>
+	<anim x="-20" loop="false" y="25" fps="24" anim="CRYFIELD DOWN" name="singDOWN"/>
+	<anim x="10" loop="false" y="18" fps="24" anim="CRYFIELD UP" name="singUP"/>
+	<anim x="0" loop="false" y="-22" fps="24" anim="CRYFIELD RIGHT" name="singRIGHT"/>
+</character>

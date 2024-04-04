@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vidas.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LIVE 1 LOSE0000" x="5" y="5" width="214" height="89"/>
+	<SubTexture name="LIVE 1 LOSE0001" x="5" y="5" width="214" height="89"/>
+	<SubTexture name="LIVE 1 LOSE0002" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0003" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0004" x="5" y="5" width="214" height="89"/>
+	<SubTexture name="LIVE 1 LOSE0005" x="5" y="5" width="214" height="89"/>
+	<SubTexture name="LIVE 1 LOSE0006" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0007" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0008" x="5" y="5" width="214" height="89"/>
+	<SubTexture name="LIVE 1 LOSE0009" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0010" x="5" y="5" width="214" height="89"/>
+	<SubTexture name="LIVE 1 LOSE0011" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0012" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0013" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0014" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0015" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0016" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0017" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0018" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0019" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0020" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 LOSE0021" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 1 MAIN0000" x="224" y="5" width="166" height="89" frameX="0" frameY="0" frameWidth="214" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0000" x="5" y="99" width="264" height="89"/>
+	<SubTexture name="LIVE 2 LOSE0001" x="5" y="99" width="264" height="89"/>
+	<SubTexture name="LIVE 2 LOSE0002" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0003" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0004" x="5" y="99" width="264" height="89"/>
+	<SubTexture name="LIVE 2 LOSE0005" x="5" y="99" width="264" height="89"/>
+	<SubTexture name="LIVE 2 LOSE0006" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0007" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0008" x="5" y="99" width="264" height="89"/>
+	<SubTexture name="LIVE 2 LOSE0009" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0010" x="5" y="99" width="264" height="89"/>
+	<SubTexture name="LIVE 2 LOSE0011" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0012" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0013" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0014" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0015" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0016" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0017" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0018" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0019" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 LOSE0020" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 2 MAIN0000" x="274" y="99" width="215" height="89" frameX="0" frameY="0" frameWidth="264" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0000" x="5" y="193" width="315" height="89"/>
+	<SubTexture name="LIVE 3 loose0001" x="5" y="193" width="315" height="89"/>
+	<SubTexture name="LIVE 3 loose0002" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0003" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0004" x="5" y="193" width="315" height="89"/>
+	<SubTexture name="LIVE 3 loose0005" x="5" y="193" width="315" height="89"/>
+	<SubTexture name="LIVE 3 loose0006" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0007" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0008" x="5" y="193" width="315" height="89"/>
+	<SubTexture name="LIVE 3 loose0009" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0010" x="5" y="193" width="315" height="89"/>
+	<SubTexture name="LIVE 3 loose0011" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0012" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0013" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0014" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0015" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0016" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0017" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0018" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0019" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0020" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 3 loose0021" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+	<SubTexture name="LIVE 4 MAIN0000" x="5" y="381" width="315" height="89"/>
+	<SubTexture name="Live 3 main0000" x="5" y="287" width="265" height="89" frameX="0" frameY="0" frameWidth="315" frameHeight="89"/>
+</TextureAtlas>

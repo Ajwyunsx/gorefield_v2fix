@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF ICON.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="138" height="81"/>
+	<SubTexture name="idle0001" x="0" y="0" width="138" height="81"/>
+	<SubTexture name="idle0002" x="138" y="0" width="138" height="81"/>
+	<SubTexture name="idle0003" x="138" y="0" width="138" height="81"/>
+	<SubTexture name="idle0004" x="276" y="0" width="138" height="81"/>
+	<SubTexture name="idle0005" x="276" y="0" width="138" height="81"/>
+	<SubTexture name="losing0000" x="0" y="81" width="129" height="109"/>
+	<SubTexture name="losing0001" x="0" y="81" width="129" height="109"/>
+	<SubTexture name="losing0002" x="129" y="81" width="129" height="109"/>
+	<SubTexture name="losing0003" x="129" y="81" width="129" height="109"/>
+	<SubTexture name="losing0004" x="258" y="81" width="129" height="109"/>
+	<SubTexture name="losing0005" x="258" y="81" width="129" height="109"/>
+</TextureAtlas>

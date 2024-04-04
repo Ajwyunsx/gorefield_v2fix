@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SANSFIELD CARGA 02.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SANSFIELD CARGA 020000" x="5" y="5" width="928" height="932" frameX="0" frameY="-2" frameWidth="928" frameHeight="934"/>
+	<SubTexture name="SANSFIELD CARGA 020001" x="5" y="5" width="928" height="932" frameX="0" frameY="-2" frameWidth="928" frameHeight="934"/>
+	<SubTexture name="SANSFIELD CARGA 020002" x="938" y="5" width="926" height="933" frameX="-1" frameY="-1" frameWidth="928" frameHeight="934"/>
+	<SubTexture name="SANSFIELD CARGA 020003" x="938" y="5" width="926" height="933" frameX="-1" frameY="-1" frameWidth="928" frameHeight="934"/>
+	<SubTexture name="SANSFIELD CARGA 020004" x="5" y="943" width="926" height="934" frameX="-1" frameY="0" frameWidth="928" frameHeight="934"/>
+	<SubTexture name="SANSFIELD CARGA 020005" x="5" y="943" width="926" height="934" frameX="-1" frameY="0" frameWidth="928" frameHeight="934"/>
+</TextureAtlas>

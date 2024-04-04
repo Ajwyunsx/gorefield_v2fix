@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STORY MENU ASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SELECT0000" x="5" y="5" width="153" height="191"/>
+	<SubTexture name="SELECT0001" x="5" y="5" width="153" height="191"/>
+	<SubTexture name="SELECT0002" x="163" y="5" width="153" height="191"/>
+	<SubTexture name="SELECT0003" x="163" y="5" width="153" height="191"/>
+	<SubTexture name="STORY MENU 010000" x="321" y="5" width="636" height="294"/>
+	<SubTexture name="STORY MENU 020000" x="962" y="5" width="636" height="294"/>
+	<SubTexture name="STORY MENU 030000" x="5" y="304" width="636" height="294"/>
+	<SubTexture name="STORY MENU 040000" x="646" y="304" width="636" height="294"/>
+	<SubTexture name="STORY MENU 050000" x="1287" y="304" width="635" height="294"/>
+	<SubTexture name="STORY MENU 060000" x="5" y="603" width="637" height="294"/>
+	<SubTexture name="STORY MENU 070000" x="647" y="603" width="636" height="296"/>
+	<SubTexture name="STORY MENU 080000" x="1288" y="603" width="637" height="294"/>
+	<SubTexture name="STORY MENU 090000" x="5" y="904" width="636" height="294"/>
+</TextureAtlas>

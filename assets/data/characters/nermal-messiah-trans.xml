@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-415" icon="NERMAL_GODFIELD" iconoffsetx="30" iconoffsety="-10" camx="190" y="-1400" scale="1" isGF="false" camy="100" color="#999999" flipX="true" isPlayer="true" gameOverChar="godnermaldeath" holdTime="3.1" sprite="NERMALL_CRUCIFICCION">
+	<anim x="0" loop="false" y="0" fps="24" anim="NERMALL CRUCIFICCION" name="transition"/>
+</character>

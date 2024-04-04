@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Arlene.png">
+<SubTexture name="Arlene Idle0000" x="1569" y="504" width="309" height="495" frameX="-33" frameY="-129" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Idle0001" x="318" y="1047" width="303" height="504" frameX="-33" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Idle0002" x="0" y="1047" width="318" height="510" frameX="-36" frameY="-114" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Idle0003" x="0" y="531" width="363" height="516" frameX="-33" frameY="-108" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Idle0004" x="363" y="531" width="303" height="516" frameX="-33" frameY="-108" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Idle0005" x="666" y="531" width="312" height="516" frameX="-33" frameY="-108" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Idle0006" x="1254" y="0" width="315" height="516" frameX="-33" frameY="-108" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Idle0007" x="1254" y="516" width="309" height="516" frameX="-33" frameY="-108" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene idle0000" x="630" y="0" width="309" height="519" frameX="-33" frameY="-105" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Left0000" x="621" y="1047" width="324" height="504" frameX="0" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Left0001" x="945" y="1047" width="324" height="504" frameX="-3" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Left0002" x="945" y="1047" width="324" height="504" frameX="-3" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Left0003" x="945" y="1047" width="324" height="504" frameX="-3" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Right0000" x="1893" y="0" width="396" height="492" frameX="-48" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Right0001" x="1893" y="492" width="384" height="492" frameX="-39" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Right0002" x="1893" y="492" width="384" height="492" frameX="-39" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Right0003" x="1893" y="492" width="384" height="492" frameX="-39" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Down0000" x="357" y="1557" width="366" height="417" frameX="-36" frameY="-201" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Down0001" x="0" y="1557" width="357" height="429" frameX="-42" frameY="-189" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Down0002" x="0" y="1557" width="357" height="429" frameX="-42" frameY="-189" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Down0003" x="0" y="1557" width="357" height="429" frameX="-42" frameY="-189" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Up0000" x="0" y="0" width="315" height="531" frameX="-39" frameY="-93" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Up0001" x="939" y="0" width="315" height="519" frameX="-39" frameY="-105" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Up0002" x="939" y="0" width="315" height="519" frameX="-39" frameY="-105" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Up0003" x="939" y="0" width="315" height="519" frameX="-39" frameY="-105" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Miss_left0000" x="1569" y="0" width="324" height="504" frameX="0" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Miss_rigth0000" x="1893" y="984" width="396" height="492" frameX="-48" frameY="-120" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Miss_down0000" x="723" y="1557" width="366" height="417" frameX="-36" frameY="-201" frameWidth="477" frameHeight="657" />
+<SubTexture name="Arlene Miss_up0000" x="315" y="0" width="315" height="531" frameX="-39" frameY="-93" frameWidth="477" frameHeight="657" />
+</TextureAtlas>

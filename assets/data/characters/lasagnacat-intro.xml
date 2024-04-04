@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="-780" y="-520" icon="icon-lasagnacat-pixel" flipX="false" isPlayer="null" camx="560" camy="540" holdTime="6.1" scale="0.4" color="#346756" antialiasing="false">
+	<anim name="intro" anim="lasagna cat intro" fps="24" loop="false" x="0" y="0"/>
+</character>

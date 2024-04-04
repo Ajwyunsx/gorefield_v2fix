@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="face" camx="-230" y="25" isGF="false" scale="1.2" camy="100" color="#D3E1FF" isPlayer="false" iconoffsetx="-30" holdTime="3.1" iconoffsety="0" sprite="jon_loco2">
+	<anim x="0" loop="false" y="0" fps="24" anim="jon idle" name="idle"/>
+	<anim x="180" loop="false" y="-26" fps="24" anim="jon left" name="singLEFT"/>
+	<anim x="32" loop="false" y="-112" fps="24" anim="jon down" name="singDOWN"/>
+	<anim x="16" loop="false" y="77" fps="24" anim="jon up" name="singUP"/>
+	<anim x="-4" loop="false" y="-32" fps="24" anim="jon right" name="singRIGHT"/>
+	<anim x="128" loop="false" y="55" fps="24" anim="jon risas" name="haha"/>
+</character>

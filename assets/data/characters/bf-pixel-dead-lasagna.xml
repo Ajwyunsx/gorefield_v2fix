@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="face" y="0" isGF="false" color="#2E5E48" flipX="true" isPlayer="true" antialiasing="false" gameOverChar="bf-dead-pixel-lasagna" sprite="pixel_bf_gameover">
+	<anim x="0" loop="true" y="0" fps="12" anim="pixel_bf_gameover pixel_bf_death_loop" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="pixel_bf_gameover pixel_bf_death_loop" indices="3" name="deathConfirm"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="pixel_bf_gameover pixel_bf_death0" name="firstDeath"/>
+</character>

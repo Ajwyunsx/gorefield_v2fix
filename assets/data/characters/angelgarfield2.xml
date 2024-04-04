@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="140" icon="icon-sansfield_GOD" camx="-440" y="-550" isGF="false" camy="280" color="#D3E1FF" isPlayer="false" iconoffsetx="-12" holdTime="5" iconoffsety="-15" sprite="ANGELFIELD">
+	<anim x="38" loop="false" y="2" fps="24" anim="ANGELFIELD LEFT" name="singLEFT"/>
+	<anim x="9" loop="false" y="-32" fps="24" anim="ANGELFIELD DOWN" name="singDOWN"/>
+	<anim x="0" loop="false" y="20" fps="24" anim="ANGELFIELD UP" name="singUP"/>
+	<anim x="-30" loop="false" y="9" fps="24" anim="ANGELFIELD RIGHT" name="singRIGHT"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="ANGELFIELD IDLE" name="idle"/>
+	<anim x="6" loop="false" y="30" fps="24" anim="ANGELFIELD APARITION" name="appear"/>
+</character>
+

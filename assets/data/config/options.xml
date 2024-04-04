@@ -1,0 +1,37 @@
+<!DOCTYPE codename-mod-options>
+<menu name="Gorefield Options" desc="Modify gorefield mod options here">
+	<menu name="Mechanics" desc="Configure gameplay mechanics.">
+		<checkbox id="baby" name="Baby Mode" desc="Enable/Disable Mechanics. (for pussys/super lowlife/small pp/poo poo eating BOZOS!) 
+		(NEW LOADING SCREEN JUST FOR YOU!!!! (huh i wonder if it has to due with babies or not...))" />
+		<menu name="Hard Mode" desc="Add extra difficulty to mechanics. (FOR CHADS!)">
+			<checkbox id="ps_hard" name="PS HARD MODE!!!" desc="Start with only 2 PS instead of 4 / Take MORE Damage From PS Notes! All PS notes will be half transparency!" />
+			<checkbox id="scare_hard" name="SCREAMER HARD MODE!!!" desc="Jump scares last 3x longer. All SCREAMER notes will be half transparency!" />
+			<checkbox id="blue_hard" name="BLUE NOTE HARD MODE!!!" desc="Bigger early hit window / INSTAKILL. All BLUE notes will be half transparency!" />
+			<checkbox id="orange_hard" name="ORANGE NOTE HARD MODE!!!" desc="Smaller hit windows / INSTAKILL. All ORANGE notes will be half transparency!" />
+		</menu>
+	</menu>
+	<menu name="Graphics" desc="Configure visual effects.">
+		<menu name="Shaders" desc="Enable/Disable Shaders. (for toasters)">
+			<checkbox id="bloom" name="Glow Shaders" desc="Enable/Disable Glow Shaders. (very intensive)" />
+			<checkbox id="glitch" name="Glitch Shaders" desc="Enable/Disable Glitch Shaders. (medium intensive)" />
+			<checkbox id="warp" name="Warp Shaders" desc="Enable/Disable Warp Shaders. (medium intensive)" />
+			<checkbox id="heatwave" name="Heat Shader" desc="Enable/Disable Heatwave Shaders. (medium intensive)" />
+			<checkbox id="wrath" name="Wrath Shader" desc="Enable/Disable Wrath Shaders. (medium intensive)" />
+			<checkbox id="static" name="Static Shaders" desc="Enable/Disable Static Shaders. (low/no intensive)" />
+			<checkbox id="saturation" name="Saturation Shaders" desc="Enable/Disable Saturation Shaders. (low/no intensive)" />
+			<checkbox id="drunk" name="Drunk Shaders" desc="Enable/Disable Drunk Shaders. (low/no intensive)" />
+			<checkbox id="vhs" name="VHS Shader" desc="Enable/Disable VHS Shaders. (low/no intensive)" />
+		</menu>
+		<checkbox id="particles" name="Particle Effects" desc="Enable/Disable Particles (ok i actually get why you want to disable this one its very uhhh 'bright' in the stage (medium intensive))"/>
+		<checkbox id="trails" name="Sprite Trails" desc="Enable/Disable Trails On Sprites. (for even bigger toasters)" />
+		<checkbox id="flashing" name="Camera Flashing" desc="Disable Camera Flashing." />
+	</menu>
+	<checkbox id="spanish" name="Spanish Language" desc="Enable/Disable Spanish. (VAMO MESSI!!!!)" />
+	<checkbox id="dev" name="Developer Mode" desc="Enables debug_tools.hx, allows for speeding up/slowing down the game.
+	PRESS 1 - Skip Song
+	PRESS 2 - Slows Game By 10% (Min Speed: 10%)
+	PRESS 3 - Resets Game Speed To 100%
+	PRESS 4 - Speeds Game By 10% (Max Speed: 200%)
+	PRESS 5 - Hold To Speed Game By 2000%, Uses BOTPLAY
+	PRESS 6 - Toggle For Botplay On Player Strums" />
+</menu>

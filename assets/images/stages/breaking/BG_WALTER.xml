@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG WALTER.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG CASAS0000" x="5" y="5" width="446" height="486"/>
+	<SubTexture name="BG CASAS0001" x="5" y="5" width="446" height="486"/>
+	<SubTexture name="BG CASAS0002" x="456" y="5" width="446" height="486"/>
+	<SubTexture name="BG CASAS0003" x="907" y="5" width="446" height="486"/>
+	<SubTexture name="BG CASAS0004" x="1358" y="5" width="446" height="486"/>
+	<SubTexture name="BG CASAS0005" x="1358" y="5" width="446" height="486"/>
+	<SubTexture name="BG CASAS0006" x="5" y="496" width="446" height="486"/>
+	<SubTexture name="BG CASAS0007" x="5" y="496" width="446" height="486"/>
+	<SubTexture name="BG CASAS0008" x="456" y="496" width="446" height="486"/>
+	<SubTexture name="BG CASAS0009" x="456" y="496" width="446" height="486"/>
+	<SubTexture name="BG CASAS0010" x="907" y="496" width="446" height="486"/>
+	<SubTexture name="BG CASAS0011" x="907" y="496" width="446" height="486"/>
+	<SubTexture name="BG CASAS0012" x="1358" y="496" width="446" height="486"/>
+	<SubTexture name="BG CASAS0013" x="5" y="987" width="446" height="486"/>
+	<SubTexture name="BG CASAS0014" x="456" y="987" width="446" height="486"/>
+	<SubTexture name="BG CASAS0015" x="907" y="987" width="446" height="486"/>
+	<SubTexture name="BG CASAS0016" x="1358" y="987" width="446" height="486"/>
+	<SubTexture name="BG CASAS0017" x="5" y="1478" width="446" height="486"/>
+	<SubTexture name="BG CASAS0018" x="456" y="1478" width="446" height="486"/>
+	<SubTexture name="BG CASAS0019" x="907" y="1478" width="446" height="486"/>
+</TextureAtlas>

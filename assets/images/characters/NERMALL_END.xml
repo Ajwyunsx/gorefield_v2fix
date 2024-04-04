@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NERMALL_END.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NERMALL END0000" x="5" y="5" width="174" height="221" frameX="-37" frameY="-21" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0001" x="184" y="5" width="173" height="221" frameX="-38" frameY="-21" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0002" x="362" y="5" width="173" height="221" frameX="-37" frameY="-21" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0003" x="540" y="5" width="165" height="234" frameX="-42" frameY="-15" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0004" x="710" y="5" width="166" height="234" frameX="-41" frameY="-15" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0005" x="881" y="5" width="173" height="242" frameX="-38" frameY="0" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0006" x="1059" y="5" width="173" height="221" frameX="-37" frameY="-21" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0007" x="1237" y="5" width="173" height="221" frameX="-38" frameY="-21" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0008" x="1415" y="5" width="180" height="225" frameX="-35" frameY="-23" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0009" x="1600" y="5" width="186" height="228" frameX="-33" frameY="-25" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0010" x="1791" y="5" width="193" height="232" frameX="-30" frameY="-27" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0011" x="5" y="252" width="198" height="235" frameX="-28" frameY="-29" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0012" x="208" y="252" width="205" height="238" frameX="-25" frameY="-31" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0013" x="418" y="252" width="211" height="240" frameX="-23" frameY="-33" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0014" x="634" y="252" width="216" height="243" frameX="-21" frameY="-35" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0015" x="855" y="252" width="223" height="245" frameX="-18" frameY="-37" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0016" x="1083" y="252" width="229" height="249" frameX="-16" frameY="-38" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0017" x="1317" y="252" width="233" height="248" frameX="-16" frameY="-45" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0018" x="1555" y="252" width="238" height="248" frameX="-15" frameY="-53" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0019" x="1798" y="252" width="242" height="248" frameX="-15" frameY="-62" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0020" x="5" y="506" width="247" height="247" frameX="-15" frameY="-73" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0021" x="257" y="506" width="254" height="245" frameX="-12" frameY="-85" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0022" x="516" y="506" width="261" height="243" frameX="-9" frameY="-98" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0023" x="782" y="506" width="266" height="241" frameX="-7" frameY="-112" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0024" x="1053" y="506" width="271" height="236" frameX="-4" frameY="-128" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0025" x="1329" y="506" width="274" height="236" frameX="-2" frameY="-140" frameWidth="277" frameHeight="389"/>
+	<SubTexture name="NERMALL END0026" x="1608" y="506" width="277" height="237" frameX="0" frameY="-152" frameWidth="277" frameHeight="389"/>
+</TextureAtlas>

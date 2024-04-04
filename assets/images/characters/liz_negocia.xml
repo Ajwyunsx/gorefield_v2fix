@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liz negocia.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liz negocia down0000" x="0" y="0" width="251" height="706" frameX="-3" frameY="-12" frameWidth="260" frameHeight="725"/>
+	<SubTexture name="liz negocia down0001" x="0" y="0" width="251" height="706" frameX="-3" frameY="-12" frameWidth="260" frameHeight="725"/>
+	<SubTexture name="liz negocia down0002" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0003" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0004" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0005" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0006" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0007" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0008" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0009" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia down0010" x="251" y="0" width="260" height="725"/>
+	<SubTexture name="liz negocia idle0000" x="511" y="0" width="284" height="734" frameX="0" frameY="-2" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0001" x="511" y="0" width="284" height="734" frameX="0" frameY="-2" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0002" x="511" y="0" width="284" height="734" frameX="0" frameY="-2" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0003" x="795" y="0" width="284" height="735" frameX="-2" frameY="-1" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0004" x="795" y="0" width="284" height="735" frameX="-2" frameY="-1" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0005" x="795" y="0" width="284" height="735" frameX="-2" frameY="-1" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0006" x="1079" y="0" width="280" height="737" frameX="-4" frameY="0" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0007" x="1079" y="0" width="280" height="737" frameX="-4" frameY="0" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia idle0008" x="1079" y="0" width="280" height="737" frameX="-4" frameY="0" frameWidth="286" frameHeight="737"/>
+	<SubTexture name="liz negocia left0000" x="1359" y="0" width="295" height="765" frameX="0" frameY="-2" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0001" x="1359" y="0" width="295" height="765" frameX="0" frameY="-2" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0002" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0003" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0004" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0005" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0006" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0007" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0008" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0009" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia left0010" x="1654" y="0" width="283" height="734" frameX="-9" frameY="0" frameWidth="295" frameHeight="767"/>
+	<SubTexture name="liz negocia right0000" x="0" y="765" width="275" height="719" frameX="0" frameY="-1" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0001" x="0" y="765" width="275" height="719" frameX="0" frameY="-1" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0002" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0003" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0004" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0005" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0006" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0007" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0008" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0009" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia right0010" x="275" y="765" width="259" height="726" frameX="-2" frameY="0" frameWidth="275" frameHeight="726"/>
+	<SubTexture name="liz negocia up0000" x="534" y="765" width="319" height="757" frameX="-4" frameY="0" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0001" x="534" y="765" width="319" height="757" frameX="-4" frameY="0" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0002" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0003" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0004" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0005" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0006" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0007" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0008" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0009" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+	<SubTexture name="liz negocia up0010" x="853" y="765" width="315" height="748" frameX="0" frameY="-9" frameWidth="323" frameHeight="757"/>
+</TextureAtlas>

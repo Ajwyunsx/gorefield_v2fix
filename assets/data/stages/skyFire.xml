@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="skyFire" folder="stages/skyFire/" opponentZoom="0.9" playerZoom="1.3">
+	<sprite name="cloudScroll2" x="800" y="-25500" sprite="gorefield_clouds_3" antialiasing="true" scale="0.7" alpha="0.9" scrollx="0.9" scrolly="0"/>
+	<sprite name="cloudScroll3" x="-300" y="-26500" sprite="gorefield_clouds_2" antialiasing="true" scale="0.6" alpha="0.8" scrollx="0.85" scrolly="0"/>
+	<sprite name="cloudScroll4" x="-300" y="-26500" sprite="gorefield_clouds_3" antialiasing="true" scale="0.4" alpha="0.5" scrollx="0.7" scrolly="0"/>
+	<sprite name="cloudScroll5" x="-100" y="-27900" sprite="gorefield_clouds_2" antialiasing="true" scale="0.3" alpha="0.3" scrollx="0.6" scrolly="0"/>
+	<sprite name="clouds" x="40" y="-3400" sprite="gorefield_clouds" antialiasing="true" scale="1.15" scrollx="1" scrolly="0.5"/>
+	<sprite name="fireSky" x="169" y="-80" sprite="fire_f4" antialiasing="true" scrollx="1" scrolly="0.6">
+		<anim name="idle" anim="FIRE" loop="true"/>
+	</sprite>
+	<sprite name="cloudScroll1" x="300" y="-22500" sprite="gorefield_clouds_2" antialiasing="true" scrollx="1" scrolly="0"/>
+	<opponent x="325" y="-470" camxoffset="5.5" camyoffset="128.734"/>
+	<player x="850" y="-200" camxoffset="-160" camyoffset="30"/>
+	<solid name="black" x="-640" y="-360" width="2560" height="1440" color="0x000000">
+		<property name="scrollFactor.x" type="float" value="0"/>
+		<property name="scrollFactor.y" type="float" value="0"/>
+	</solid>
+	<sprite name="black_overlay" x="0" y="0" sprite="black_vignette" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+		<property name="alpha" type="float" value="0.25"/>
+	</sprite>
+</stage>

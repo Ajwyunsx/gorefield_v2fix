@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MONSTER_WALTER.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MONSTER WALTER DOWN0000" x="5" y="5" width="455" height="481"/>
+	<SubTexture name="MONSTER WALTER DOWN0001" x="5" y="5" width="455" height="481"/>
+	<SubTexture name="MONSTER WALTER DOWN0002" x="465" y="5" width="455" height="481"/>
+	<SubTexture name="MONSTER WALTER DOWN0003" x="465" y="5" width="455" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0000" x="925" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0001" x="925" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0002" x="1383" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0003" x="1383" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0004" x="1841" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0005" x="1841" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0006" x="2299" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0007" x="2299" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0008" x="2757" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0009" x="2757" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0010" x="3215" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0011" x="3215" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0012" x="3215" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0013" x="3215" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0014" x="3215" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0015" x="3215" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0016" x="3673" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0017" x="3673" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0018" x="4131" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0019" x="4131" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0020" x="4589" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0021" x="4589" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0022" x="5047" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0023" x="5047" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0024" x="5505" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0025" x="5505" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0026" x="5963" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0027" x="5963" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0028" x="5963" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0029" x="5963" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0030" x="5963" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER IDLE0031" x="5963" y="5" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER LEFT0000" x="6421" y="5" width="454" height="481"/>
+	<SubTexture name="MONSTER WALTER LEFT0001" x="6421" y="5" width="454" height="481"/>
+	<SubTexture name="MONSTER WALTER LEFT0002" x="6880" y="5" width="454" height="481"/>
+	<SubTexture name="MONSTER WALTER LEFT0003" x="7339" y="5" width="454" height="481"/>
+	<SubTexture name="MONSTER WALTER RIGHT0000" x="5" y="491" width="454" height="482"/>
+	<SubTexture name="MONSTER WALTER RIGHT0001" x="5" y="491" width="454" height="482"/>
+	<SubTexture name="MONSTER WALTER RIGHT0002" x="464" y="491" width="454" height="482"/>
+	<SubTexture name="MONSTER WALTER RIGHT0003" x="923" y="491" width="454" height="482"/>
+	<SubTexture name="MONSTER WALTER UP0000" x="1382" y="491" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER UP0001" x="1382" y="491" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER UP0002" x="1840" y="491" width="453" height="481"/>
+	<SubTexture name="MONSTER WALTER UP0003" x="1840" y="491" width="453" height="481"/>
+	<SubTexture name="RUNNING0000" x="2298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0001" x="2798" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0002" x="3298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0003" x="3798" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0004" x="4298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0005" x="4798" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0006" x="5298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0007" x="5798" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0008" x="6298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0009" x="6298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0010" x="6798" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0011" x="6798" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0012" x="7298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0013" x="7298" y="491" width="495" height="523"/>
+	<SubTexture name="RUNNING0014" x="5" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0015" x="505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0016" x="1005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0017" x="1505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0018" x="2005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0019" x="2505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0020" x="3005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0021" x="3505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0022" x="4005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0023" x="4005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0024" x="4505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0025" x="4505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0026" x="5005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0027" x="5005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0028" x="5505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0029" x="5505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0030" x="6005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0031" x="6505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0032" x="7005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0033" x="7005" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0034" x="7505" y="1019" width="495" height="523"/>
+	<SubTexture name="RUNNING0035" x="5" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0036" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0037" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0038" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0039" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0040" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0041" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0042" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0043" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0044" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0045" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0046" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0047" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0048" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0049" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0050" x="505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0051" x="1005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0052" x="1505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0053" x="2005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0054" x="2005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0055" x="2505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0056" x="2505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0057" x="3005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0058" x="3005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0059" x="3505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0060" x="4005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0061" x="4505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0062" x="5005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0063" x="5005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0064" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0065" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0066" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0067" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0068" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0069" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0070" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0071" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0072" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0073" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0074" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0075" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0076" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0077" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0078" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0079" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0080" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0081" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0082" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0083" x="5505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0084" x="6005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0085" x="6505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0086" x="7005" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0087" x="7505" y="1547" width="495" height="523"/>
+	<SubTexture name="RUNNING0088" x="5" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0089" x="505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0090" x="1005" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0091" x="1505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0092" x="2005" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0093" x="2505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0094" x="3005" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0095" x="3505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0096" x="4005" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0097" x="4505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0098" x="5005" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0099" x="5505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0100" x="6005" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0101" x="6505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0102" x="7005" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0103" x="7505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0104" x="5" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0105" x="505" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0106" x="1005" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0107" x="7505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0108" x="5" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0109" x="505" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0110" x="1005" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0111" x="7505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0112" x="5" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0113" x="505" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0114" x="1005" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0115" x="7505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0116" x="5" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0117" x="505" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0118" x="1005" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0119" x="7505" y="2075" width="495" height="523"/>
+	<SubTexture name="RUNNING0120" x="5" y="2603" width="495" height="523"/>
+	<SubTexture name="RUNNING0121" x="505" y="2603" width="495" height="523"/>
+</TextureAtlas>

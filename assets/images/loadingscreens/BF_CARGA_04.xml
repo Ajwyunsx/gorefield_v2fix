@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF CARGA 04.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF CARGA 040000" x="5" y="5" width="1023" height="1222"/>
+	<SubTexture name="BF CARGA 040001" x="5" y="5" width="1023" height="1222"/>
+	<SubTexture name="BF CARGA 040002" x="1033" y="5" width="1022" height="1222" frameX="0" frameY="0" frameWidth="1023" frameHeight="1222"/>
+	<SubTexture name="BF CARGA 040003" x="1033" y="5" width="1022" height="1222" frameX="0" frameY="0" frameWidth="1023" frameHeight="1222"/>
+	<SubTexture name="BF CARGA 040004" x="2060" y="5" width="1022" height="1222" frameX="0" frameY="0" frameWidth="1023" frameHeight="1222"/>
+	<SubTexture name="BF CARGA 040005" x="2060" y="5" width="1022" height="1222" frameX="0" frameY="0" frameWidth="1023" frameHeight="1222"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agua.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="agua pu0000" x="5" y="5" width="87" height="26" frameX="-185" frameY="-26" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0001" x="5" y="5" width="87" height="26" frameX="-185" frameY="-26" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0002" x="97" y="5" width="286" height="48" frameX="-104" frameY="-12" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0003" x="97" y="5" width="286" height="48" frameX="-104" frameY="-12" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0004" x="388" y="5" width="481" height="96" frameX="-23" frameY="0" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0005" x="388" y="5" width="481" height="96" frameX="-23" frameY="0" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0006" x="5" y="106" width="511" height="96" frameX="-11" frameY="-4" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0007" x="5" y="106" width="511" height="96" frameX="-11" frameY="-4" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0008" x="5" y="207" width="526" height="85" frameX="-1" frameY="-18" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0009" x="5" y="207" width="526" height="85" frameX="-1" frameY="-18" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0010" x="5" y="297" width="528" height="77" frameX="0" frameY="-30" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0011" x="5" y="297" width="528" height="77" frameX="0" frameY="-30" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0012" x="538" y="297" width="1" height="1" frameX="-223" frameY="-39" frameWidth="528" frameHeight="107"/>
+	<SubTexture name="agua pu0013" x="538" y="297" width="1" height="1" frameX="-223" frameY="-39" frameWidth="528" frameHeight="107"/>
+</TextureAtlas>

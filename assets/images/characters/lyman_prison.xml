@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lyman prison.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lyman down0000" x="0" y="0" width="606" height="671"/>
+	<SubTexture name="lyman down0001" x="0" y="0" width="606" height="671"/>
+	<SubTexture name="lyman down0002" x="606" y="0" width="571" height="671" frameX="-17" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0003" x="606" y="0" width="571" height="671" frameX="-17" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0004" x="1177" y="0" width="585" height="671" frameX="-9" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0005" x="1177" y="0" width="585" height="671" frameX="-9" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0006" x="1762" y="0" width="589" height="671" frameX="-7" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0007" x="1762" y="0" width="589" height="671" frameX="-7" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0008" x="1762" y="0" width="589" height="671" frameX="-7" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0009" x="1762" y="0" width="589" height="671" frameX="-7" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0010" x="1762" y="0" width="589" height="671" frameX="-7" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0011" x="1762" y="0" width="589" height="671" frameX="-7" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman down0012" x="1762" y="0" width="589" height="671" frameX="-7" frameY="0" frameWidth="606" frameHeight="671"/>
+	<SubTexture name="lyman idle0000" x="2351" y="0" width="602" height="671"/>
+	<SubTexture name="lyman idle0001" x="2351" y="0" width="602" height="671"/>
+	<SubTexture name="lyman idle0002" x="2953" y="0" width="580" height="671" frameX="-11" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0003" x="2953" y="0" width="580" height="671" frameX="-11" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0004" x="0" y="671" width="583" height="671" frameX="-9" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0005" x="0" y="671" width="583" height="671" frameX="-9" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0006" x="583" y="671" width="583" height="671" frameX="-9" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0007" x="583" y="671" width="583" height="671" frameX="-9" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0008" x="1166" y="671" width="589" height="671" frameX="-6" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0009" x="1166" y="671" width="589" height="671" frameX="-6" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0010" x="1755" y="671" width="590" height="671" frameX="-6" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0011" x="1755" y="671" width="590" height="671" frameX="-6" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman idle0012" x="1755" y="671" width="590" height="671" frameX="-6" frameY="0" frameWidth="602" frameHeight="671"/>
+	<SubTexture name="lyman left0000" x="2345" y="671" width="585" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0001" x="2345" y="671" width="585" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0002" x="2930" y="671" width="590" height="671" frameX="0" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0003" x="2930" y="671" width="590" height="671" frameX="0" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0004" x="0" y="1342" width="588" height="671" frameX="-8" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0005" x="0" y="1342" width="588" height="671" frameX="-8" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0006" x="588" y="1342" width="589" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0007" x="588" y="1342" width="589" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0008" x="588" y="1342" width="589" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0009" x="588" y="1342" width="589" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0010" x="588" y="1342" width="589" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0011" x="588" y="1342" width="589" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman left0012" x="588" y="1342" width="589" height="671" frameX="-9" frameY="0" frameWidth="598" frameHeight="671"/>
+	<SubTexture name="lyman right0000" x="1177" y="1342" width="588" height="671" frameX="0" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0001" x="1177" y="1342" width="588" height="671" frameX="0" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0002" x="1765" y="1342" width="585" height="671" frameX="-15" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0003" x="1765" y="1342" width="585" height="671" frameX="-15" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0004" x="2350" y="1342" width="586" height="671" frameX="-8" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0005" x="2350" y="1342" width="586" height="671" frameX="-8" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0006" x="2936" y="1342" width="584" height="671" frameX="-6" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0007" x="2936" y="1342" width="584" height="671" frameX="-6" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0008" x="2936" y="1342" width="584" height="671" frameX="-6" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0009" x="2936" y="1342" width="584" height="671" frameX="-6" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0010" x="2936" y="1342" width="584" height="671" frameX="-6" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0011" x="2936" y="1342" width="584" height="671" frameX="-6" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman right0012" x="2936" y="1342" width="584" height="671" frameX="-6" frameY="0" frameWidth="600" frameHeight="671"/>
+	<SubTexture name="lyman up0000" x="0" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0001" x="0" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0002" x="589" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0003" x="589" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0004" x="1178" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0005" x="1178" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0006" x="1767" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0007" x="1767" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0008" x="1767" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0009" x="1767" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0010" x="1767" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0011" x="1767" y="2013" width="589" height="671"/>
+	<SubTexture name="lyman up0012" x="1767" y="2013" width="589" height="671"/>
+</TextureAtlas>

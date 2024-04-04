@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character x="-15" icon="bf-outside" camx="310" y="350" isGF="false" antialiasing="true" animatedIcon="true" iconoffsetx="14" iconoffsety="-10" camy="80" color="#5A50D3" flipX="true" isPlayer="true" gameOverChar="bf-sky" sprite="BF_fall">
+	<anim x="-5" loop="true" y="0" fps="24" anim="BF 2 IDLE" name="idle"/>
+	<anim x="-19" loop="false" y="0" fps="24" anim="BF 2 RIGHT" name="singRIGHT"/>
+	<anim x="-13" loop="false" y="1" fps="24" anim="BF 2 DOWN" name="singDOWN"/>
+	<anim x="-12" loop="false" y="1" fps="24" anim="BF 2 UP" name="singUP"/>
+	<anim x="10" loop="false" y="1" fps="24" anim="BF 2 LEFT" name="singLEFT"/>
+	<anim x="-25" loop="false" y="0" fps="24" anim="BF 2 MISS RIGHT" name="singRIGHTmiss"/>
+	<anim x="-10" loop="false" y="1" fps="24" anim="BF 2 MISS UP" name="singUPmiss"/>
+	<anim x="-14" loop="false" y="1" fps="24" anim="BF 2 MISS  DOWN" name="singDOWNmiss"/>
+	<anim x="21" loop="false" y="2" fps="24" anim="BF 2 MISS LEFT" name="singLEFTmiss"/>
+	<anim x="213" loop="false" y="131" fps="24" anim="BF DEATH0" name="firstDeath"/>
+	<anim x="164" loop="true" y="-71" fps="24" anim="BF DEATH LOOP" name="deathLoop"/>
+	<anim x="340" loop="false" y="-48" fps="24" anim="BF DEATH CONFIRM0" indices="2,3,4,5,6,7,8,9,10,11,12,13,14" name="deathConfirm"/>
+	<anim x="14" loop="false" y="3" fps="24" anim="BF FALL" indices="0,1,2,3,4,5,6,7,8,9" name="fall"/>
+</character>

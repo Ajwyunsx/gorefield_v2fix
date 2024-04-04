@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CARTOONFIELD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CARTOONFIELD DOWN0000" x="5" y="5" width="474" height="540" frameX="-21" frameY="-15" frameWidth="520" frameHeight="555"/>
+	<SubTexture name="CARTOONFIELD DOWN0001" x="5" y="5" width="474" height="540" frameX="-21" frameY="-15" frameWidth="520" frameHeight="555"/>
+	<SubTexture name="CARTOONFIELD DOWN0002" x="484" y="5" width="515" height="555" frameX="-2" frameY="0" frameWidth="520" frameHeight="555"/>
+	<SubTexture name="CARTOONFIELD DOWN0003" x="484" y="5" width="515" height="555" frameX="-2" frameY="0" frameWidth="520" frameHeight="555"/>
+	<SubTexture name="CARTOONFIELD DOWN0004" x="1004" y="5" width="520" height="553" frameX="0" frameY="-2" frameWidth="520" frameHeight="555"/>
+	<SubTexture name="CARTOONFIELD DOWN0005" x="1004" y="5" width="520" height="553" frameX="0" frameY="-2" frameWidth="520" frameHeight="555"/>
+	<SubTexture name="CARTOONFIELD IDLE0000" x="1529" y="5" width="531" height="559" frameX="-36" frameY="-2" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0001" x="1529" y="5" width="531" height="559" frameX="-36" frameY="-2" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0002" x="2065" y="5" width="539" height="539" frameX="-38" frameY="-22" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0003" x="2065" y="5" width="539" height="539" frameX="-38" frameY="-22" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0004" x="2609" y="5" width="602" height="515" frameX="-8" frameY="-46" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0005" x="2609" y="5" width="602" height="515" frameX="-8" frameY="-46" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0006" x="3216" y="5" width="606" height="512" frameX="-5" frameY="-49" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0007" x="3216" y="5" width="606" height="512" frameX="-5" frameY="-49" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0008" x="5" y="569" width="609" height="509" frameX="-3" frameY="-52" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0009" x="5" y="569" width="609" height="509" frameX="-3" frameY="-52" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0010" x="619" y="569" width="610" height="509" frameX="-2" frameY="-52" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0011" x="619" y="569" width="610" height="509" frameX="-2" frameY="-52" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0012" x="1234" y="569" width="613" height="519" frameX="0" frameY="-42" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0013" x="1234" y="569" width="613" height="519" frameX="0" frameY="-42" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0014" x="1852" y="569" width="595" height="531" frameX="-2" frameY="-30" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0015" x="1852" y="569" width="595" height="531" frameX="-2" frameY="-30" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0016" x="2452" y="569" width="547" height="548" frameX="-26" frameY="-13" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0017" x="2452" y="569" width="547" height="548" frameX="-26" frameY="-13" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0018" x="3004" y="569" width="537" height="558" frameX="-32" frameY="-3" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0019" x="3004" y="569" width="537" height="558" frameX="-32" frameY="-3" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0020" x="3546" y="569" width="533" height="561" frameX="-33" frameY="0" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0021" x="3546" y="569" width="533" height="561" frameX="-33" frameY="0" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0022" x="5" y="1135" width="530" height="561" frameX="-35" frameY="0" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD IDLE0023" x="5" y="1135" width="530" height="561" frameX="-35" frameY="0" frameWidth="613" frameHeight="561"/>
+	<SubTexture name="CARTOONFIELD LEFT0000" x="540" y="1135" width="496" height="549" frameX="0" frameY="-24" frameWidth="502" frameHeight="573"/>
+	<SubTexture name="CARTOONFIELD LEFT0001" x="540" y="1135" width="496" height="549" frameX="0" frameY="-24" frameWidth="502" frameHeight="573"/>
+	<SubTexture name="CARTOONFIELD LEFT0002" x="1041" y="1135" width="464" height="570" frameX="-37" frameY="-3" frameWidth="502" frameHeight="573"/>
+	<SubTexture name="CARTOONFIELD LEFT0003" x="1041" y="1135" width="464" height="570" frameX="-37" frameY="-3" frameWidth="502" frameHeight="573"/>
+	<SubTexture name="CARTOONFIELD LEFT0004" x="1510" y="1135" width="464" height="573" frameX="-38" frameY="0" frameWidth="502" frameHeight="573"/>
+	<SubTexture name="CARTOONFIELD LEFT0005" x="1510" y="1135" width="464" height="573" frameX="-38" frameY="0" frameWidth="502" frameHeight="573"/>
+	<SubTexture name="CARTOONFIELD RIGHT0000" x="1979" y="1135" width="649" height="571" frameX="0" frameY="-43" frameWidth="649" frameHeight="614"/>
+	<SubTexture name="CARTOONFIELD RIGHT0001" x="1979" y="1135" width="649" height="571" frameX="0" frameY="-43" frameWidth="649" frameHeight="614"/>
+	<SubTexture name="CARTOONFIELD RIGHT0002" x="2633" y="1135" width="633" height="610" frameX="-11" frameY="-4" frameWidth="649" frameHeight="614"/>
+	<SubTexture name="CARTOONFIELD RIGHT0003" x="2633" y="1135" width="633" height="610" frameX="-11" frameY="-4" frameWidth="649" frameHeight="614"/>
+	<SubTexture name="CARTOONFIELD RIGHT0004" x="3271" y="1135" width="634" height="614" frameX="-15" frameY="0" frameWidth="649" frameHeight="614"/>
+	<SubTexture name="CARTOONFIELD RIGHT0005" x="3271" y="1135" width="634" height="614" frameX="-15" frameY="0" frameWidth="649" frameHeight="614"/>
+	<SubTexture name="CARTOONFIELD UP0000" x="5" y="1754" width="529" height="761"/>
+	<SubTexture name="CARTOONFIELD UP0001" x="5" y="1754" width="529" height="761"/>
+	<SubTexture name="CARTOONFIELD UP0002" x="539" y="1754" width="498" height="692" frameX="-9" frameY="-69" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="CARTOONFIELD UP0003" x="539" y="1754" width="498" height="692" frameX="-9" frameY="-69" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="CARTOONFIELD UP0004" x="1042" y="1754" width="496" height="688" frameX="-9" frameY="-73" frameWidth="529" frameHeight="761"/>
+	<SubTexture name="CARTOONFIELD UP0005" x="1042" y="1754" width="496" height="688" frameX="-9" frameY="-73" frameWidth="529" frameHeight="761"/>
+</TextureAtlas>

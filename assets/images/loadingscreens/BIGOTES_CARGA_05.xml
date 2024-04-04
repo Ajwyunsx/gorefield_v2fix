@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BIGOTES CARGA 05.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BIGOTES CARGA 050000" x="5" y="5" width="1014" height="1207" frameX="-1" frameY="0" frameWidth="1017" frameHeight="1208"/>
+	<SubTexture name="BIGOTES CARGA 050001" x="5" y="5" width="1014" height="1207" frameX="-1" frameY="0" frameWidth="1017" frameHeight="1208"/>
+	<SubTexture name="BIGOTES CARGA 050002" x="1024" y="5" width="1016" height="1208" frameX="0" frameY="0" frameWidth="1017" frameHeight="1208"/>
+	<SubTexture name="BIGOTES CARGA 050003" x="1024" y="5" width="1016" height="1208" frameX="0" frameY="0" frameWidth="1017" frameHeight="1208"/>
+	<SubTexture name="BIGOTES CARGA 050004" x="2045" y="5" width="1016" height="1208" frameX="-1" frameY="0" frameWidth="1017" frameHeight="1208"/>
+	<SubTexture name="BIGOTES CARGA 050005" x="2045" y="5" width="1016" height="1208" frameX="-1" frameY="0" frameWidth="1017" frameHeight="1208"/>
+</TextureAtlas>

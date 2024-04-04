@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"HARD"
+	],
+	"parsedColor": -6184543,
+	"color": "#A1A1A1",
+	"name": "Take Me Jon",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Take Me Jon",
+	"beatsPerMesure": 4,
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 77
+}

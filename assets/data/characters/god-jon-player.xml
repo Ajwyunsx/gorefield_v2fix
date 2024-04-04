@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="godfield_jon" iconoffsetx="20" iconoffsety="-10" camx="200" animatedIcon="true" y="350" isGF="false" camy="630" color="#346756" isPlayer="true" flipX="true" gameOverChar="godnermaldeath" sprite="JON_GOD">
+	<anim x="-5" loop="false" y="0" fps="24" anim="JON IDLE" name="idle"/>
+	<anim x="-18" loop="false" y="-9" fps="24" anim="JON RIGHT" name="singRIGHT"/>
+	<anim x="30" loop="false" y="-81" fps="24" anim="JON DOWN" name="singDOWN"/>
+	<anim x="9" loop="false" y="55" fps="24" anim="JON UP" name="singUP"/>
+	<anim x="60" loop="false" y="-22" fps="24" anim="JON LEFT" name="singLEFT"/>
+	<anim x="45" loop="false" y="-120" fps="24" anim="JON MISS DOWN" name="singDOWNmiss"/>
+	<anim x="13" loop="false" y="-8" fps="24" anim="JON MISS UP" name="singUPmiss"/>
+	<anim x="43" loop="false" y="66" fps="24" anim="JON DEATH" name="firstDeath"/>
+	<anim x="-36" loop="true" y="19" fps="24" anim="JON RETRY LOOP" name="deathLoop"/>
+	<anim x="90" loop="false" y="37" fps="24" anim="JON RETRY CONFIRM" name="deathConfirm"/>
+	<anim x="80" loop="false" y="-60" fps="24" anim="JON MISS LEFT" name="singLEFTmiss"/>
+	<anim x="-49" loop="false" y="-58" fps="24" anim="JON MISS RIGHT" name="singRIGHTmiss"/>
+</character>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LASAGNA CAT OUTRO.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LASAGNA CAT RUN OUTRO0000" x="5" y="5" width="1824" height="1351" frameX="2857" frameY="-123" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0001" x="5" y="5" width="1824" height="1351" frameX="2857" frameY="-123" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0002" x="5" y="5" width="1824" height="1351" frameX="2235" frameY="-70" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0003" x="5" y="5" width="1824" height="1351" frameX="2235" frameY="-70" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0004" x="5" y="5" width="1824" height="1351" frameX="2163" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0005" x="5" y="5" width="1824" height="1351" frameX="2163" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0006" x="1834" y="5" width="1824" height="1500" frameX="1700" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0007" x="1834" y="5" width="1824" height="1500" frameX="1700" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0008" x="3663" y="5" width="1824" height="1500" frameX="1468" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0009" x="3663" y="5" width="1824" height="1500" frameX="1468" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0010" x="5492" y="5" width="1824" height="1351" frameX="1005" frameY="-123" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0011" x="5492" y="5" width="1824" height="1351" frameX="1005" frameY="-123" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0012" x="5" y="1510" width="1824" height="1324" frameX="774" frameY="-150" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0013" x="5" y="1510" width="1824" height="1324" frameX="774" frameY="-150" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0014" x="1834" y="1510" width="1824" height="1500" frameX="311" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0015" x="1834" y="1510" width="1824" height="1500" frameX="311" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0016" x="3663" y="1510" width="1387" height="1438" frameX="-152" frameY="0" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0017" x="3663" y="1510" width="1387" height="1438" frameX="-152" frameY="0" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0018" x="5055" y="1510" width="1155" height="1438" frameX="-384" frameY="0" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0019" x="5055" y="1510" width="1155" height="1438" frameX="-384" frameY="0" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0020" x="6215" y="1510" width="924" height="1438" frameX="-615" frameY="0" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0021" x="6215" y="1510" width="924" height="1438" frameX="-615" frameY="0" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0022" x="5" y="5" width="1824" height="1351" frameX="2857" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0023" x="5" y="5" width="1824" height="1351" frameX="2857" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0024" x="5" y="5" width="1824" height="1351" frameX="2857" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0025" x="5" y="5" width="1824" height="1351" frameX="2857" frameY="26" frameWidth="1539" frameHeight="1438"/>
+	<SubTexture name="LASAGNA CAT RUN OUTRO0026" x="5" y="5" width="1824" height="1351" frameX="2857" frameY="26" frameWidth="1539" frameHeight="1438"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-240" icon="garfield" camx="195" y="410" isGF="false" scale="1" camy="280" color="#D44D29" isPlayer="true" flipX="true" gameOverChar="jesse-dead" holdTime="2" sprite="CAR_ENDING">
+	<anim x="0" loop="false" y="0" fps="24" anim="END" name="end"/>
+</character>

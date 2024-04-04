@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="0" icon="icon-ultra-gorefield" iconoffsetx="-12" iconoffsety="-18" flipX="false" isPlayer="null" camx="-460" camy="-710" holdTime="3.1" scale="1.5" color="#CCCCCC">
+	<anim name="singLEFT" anim="ULTRA GOREFIELD  LEFT" fps="24" loop="false" x="21.333333333333332" y="146"/>
+	<anim name="singDOWN" anim="ULTRA GOREFIELD DOWN" fps="24" loop="false" x="15.333333333333334" y="128.66666666666666"/>
+	<anim name="singUP" anim="ULTRA GOREFIELD UP" fps="24" loop="false" x="-34.666666666666664" y="11.333333333333334"/>
+	<anim name="singRIGHT" anim="ULTRA GOREFIELD RIGHT" fps="24" loop="false" x="19.333333333333332" y="85.333333333333329"/>
+	<anim name="idle" anim="ULTRA GOREFIELD IDLE" fps="24" loop="true" x="0" y="0"/>
+</character>

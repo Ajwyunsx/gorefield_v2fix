@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="godfield_gore" iconoffsetx="-20" iconoffsety="-10" camx="-300" camy="400" animatedIcon="true" y="0" isGF="false" color="#88C170" isPlayer="false" holdTime="2" sprite="GOREFIELD_GOD">
+	<anim x="0" loop="true" y="0" fps="24" anim="GOREFIELD IDLE" name="idle"/>
+	<anim x="0" loop="false" y="20" fps="24" anim="GOREFIELD LEFT" name="singLEFT"/>
+	<anim x="10" loop="false" y="-60" fps="24" anim="GOREFIELD DOWN" name="singDOWN"/>
+	<anim x="-20" loop="false" y="60" fps="24" anim="GOREFIELD UP" name="singUP"/>
+	<anim x="-10" loop="false" y="0" fps="24" anim="GOREFIELD RIGHT" name="singRIGHT"/>
+</character>

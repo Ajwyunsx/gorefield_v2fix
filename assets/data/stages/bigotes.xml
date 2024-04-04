@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.65" name="bigotes" folder="stages/bigotes/" opponentZoom="0.72" playerZoom="0.65">
+	<sprite name="BIGOTESBG" x="0" y="-400" sprite="BG_0" antialiasing="true" scrollx="0.7" scrolly="0.7"/>
+		<property name="alpha" type="float" value="0.7"/>
+    <sprite name="tornado" x="1100" y="0" sprite="BG_TORNADO" antialiasing="true" scrollx="0.85" scrolly="0.85">
+		<anim name="idle" anim="BG TORNADO" loop="true"/>
+	</sprite>
+    <sprite name="BG1" x="0" y="0" sprite="BG_01" antialiasing="true" scrollx="0.8" scrolly="0.8"/>
+	<sprite name="BG2" x="200" y="1200" sprite="BG_AGUA" antialiasing="true" scrollx="1" scrolly="1"/>
+	<solid name="pixelblack" x="-640" y="-360" width="2560" height="1440" color="0x362253">
+		<property name="scrollFactor.x" type="float" value="0"/>
+		<property name="visible" type="bool" value="false"/>
+		<property name="scrollFactor.y" type="float" value="0"/>
+	</solid>
+	<sprite name="BGAGUAPixel" x="1230" y="1060" sprite="BiGote" antialiasing="false" scrollx="1" scrolly="1" scale="1.3">
+		<anim name="idle" anim="BiGote water" loop="true" fps="7"/>
+		<property name="visible" type="bool" value="false"/>
+		<property name="scale.y" type="float" value="0.5"/>
+	</sprite>
+	<opponent x="1440" y="200" camxoffset="-185" camyoffset="90"/>
+	<player x="1100" y="400" camxoffset="0" camyoffset="-95"/>
+	<sprite name="BGAGUA" x="1400" y="1230" sprite="agua" antialiasing="true" scrollx="1" scrolly="1" scale="1.1">
+		<anim name="idle" anim="agua" loop="true"/>
+	</sprite>
+	<solid name="black" x="-640" y="-360" width="2560" height="1440" color="0x000000">
+		<property name="scrollFactor.x" type="float" value="0"/>
+		<property name="scrollFactor.y" type="float" value="0"/>
+	</solid>
+</stage>

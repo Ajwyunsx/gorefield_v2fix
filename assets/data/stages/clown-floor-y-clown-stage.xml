@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.65" name="clown-floor-y-clown-stage" folder="stages/clown-floor-y-clown-stage/" healthBarColor="pixel_blue" splashSkin="gorefield_blue-pixel">
+	<countdown>
+		<three sound="pixel/3-pixel"/>
+		<two sprite="game/pixel/binky/Ready_blue" sound="pixel/2-pixel" antialiasing="false"/>
+		<one sprite="game/pixel/binky/Set_blue" sound="pixel/1-pixel" antialiasing="false"/>
+		<go sprite="game/pixel/binky/play_blue" sound="pixel/Jon-pixel" antialiasing="false"/>
+	</countdown>
+	<sprite name="floor" x="0" y="0" sprite="Clown_Stage_Floor" antialiasing="false" scrollx="1" scrolly="1" scale="6"/>
+	<sprite name="background" x="0" y="0" sprite="Clown_Stage_face_1" antialiasing="false" scrollx="1" scrolly="1" scale="6"/>
+	<opponent x="-900" y="-810" camxoffset="120" camyoffset="160" scale="0.8"/>
+	<player x="240" y="-300" camxoffset="-220" camyoffset="-50" scale="0.8"/>
+	<sprite name="light" x="0" y="120" sprite="Clown_Stage_Ligth" antialiasing="false" scrollx="1" scrolly="1" scale="7">
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+		<property name="alpha" type="float" value="0.35" />
+	</sprite>
+</stage>

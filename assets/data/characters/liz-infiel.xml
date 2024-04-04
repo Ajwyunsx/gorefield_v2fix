@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-950" icon="face" camx="-70" y="-60" isGF="false" scale="0.9" color="#D44D29" isPlayer="false" holdTime="1.5" sprite="liz_infidelidad">
+	<anim x="0" loop="true" y="0" fps="24" anim="liz infidelidad idle0" name="idle"/>
+	<anim x="39" loop="false" y="2" fps="24" anim="liz infidelidad left" name="singLEFT"/>
+	<anim x="-12" loop="false" y="2" fps="24" anim="liz infidelidad down" name="singDOWN"/>
+	<anim x="3" loop="false" y="33" fps="24" anim="liz infidelidad up" name="singUP"/>
+	<anim x="-26" loop="false" y="4" fps="24" anim="liz infidelidad right" name="singRIGHT"/>
+</character>

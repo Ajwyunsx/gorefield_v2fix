@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="0" icon="icon-lasagnaboy-pixel" flipX="false" iconoffsetx="-15" iconoffsety="-16" isPlayer="null" camx="30" camy="240" holdTime="4.1" scale="0.4" color="#346756" antialiasing="false">
+	<anim name="idle" anim="LASAGNA BOY IDLE" indices="0,1,2,3,4,5,6,7,8,9,10,11" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT" anim="LASAGNA BOY LEFT" fps="24" loop="false" x="117.5" y="-50"/>
+	<anim name="singDOWN" anim="LASAGNA BOY DOWN" fps="24" loop="false" x="-22.5" y="-282.5"/>
+	<anim name="singUP" anim="LASAGNA BOY UP" fps="24" loop="false" x="-32.5" y="10"/>
+	<anim name="singRIGHT" anim="LASAGNA BOY RIGHT" fps="24" loop="false" x="-105" y="-35"/>
+	<anim name="intro" anim="LASAGNA BOY SCARED TRANSITION" fps="24" loop="false" x="37.5" y="5"/>
+</character>

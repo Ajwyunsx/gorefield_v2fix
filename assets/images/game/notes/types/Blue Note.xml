@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BLUE ARROWS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue arrow DOWN0000" x="0" y="0" width="172" height="162"/>
+	<SubTexture name="blue arrow LEFT0000" x="172" y="0" width="162" height="172"/>
+	<SubTexture name="blue arrow RIGHT0000" x="334" y="0" width="162" height="172"/>
+	<SubTexture name="blue arrow UP0000" x="0" y="172" width="172" height="162"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-800" icon="Bf_Blue_Icon" y="-280" isGF="false" scale="0.85" color="#5A50D3" flipX="true" isPlayer="true" antialiasing="false" gameOverChar="binky_game_over" sprite="Bf_Alt">
+	<anim x="0" loop="false" y="0" fps="12" anim="Bf_Alt _End" name="end"/>
+</character>

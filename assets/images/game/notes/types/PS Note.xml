@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CLAWNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red0000" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="red0001" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="red0002" x="105" y="0" width="105" height="191"/>
+	<SubTexture name="red0003" x="105" y="0" width="105" height="191"/>
+	<SubTexture name="blue0000" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="blue0001" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="blue0002" x="105" y="0" width="105" height="191"/>
+	<SubTexture name="blue0003" x="105" y="0" width="105" height="191"/>
+	<SubTexture name="green0000" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="green0001" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="green0002" x="105" y="0" width="105" height="191"/>
+	<SubTexture name="green0003" x="105" y="0" width="105" height="191"/>
+	<SubTexture name="purple0000" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="purple0001" x="0" y="0" width="105" height="191"/>
+	<SubTexture name="purple0002" x="105" y="0" width="105" height="191"/>
+	<SubTexture name="purple0003" x="105" y="0" width="105" height="191"/>
+</TextureAtlas>

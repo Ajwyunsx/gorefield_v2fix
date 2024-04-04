@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="665" icon="icon-pololos" camx="-70" y="-195" isGF="false" scale="0.9" color="#D44D29" isPlayer="false" holdTime="1.5" sprite="jhon_negocia">
+	<anim x="0" loop="true" y="0" fps="24" anim="jhon negocia idle0" name="idle"/>
+	<anim x="62" loop="false" y="-7" fps="24" anim="jhon negocia left" name="singLEFT"/>
+	<anim x="24" loop="false" y="-14" fps="24" anim="jhon negocia down" name="singDOWN"/>
+	<anim x="2" loop="false" y="30" fps="24" anim="jhon negocia up" name="singUP"/>
+	<anim x="-1" loop="false" y="2" fps="24" anim="jhon negocia right" name="singRIGHT"/>
+</character>

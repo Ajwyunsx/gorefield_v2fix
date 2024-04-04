@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="ULTRA1" camx="-400" y="20" iconoffsety="-10" isGF="false" scale="1.8" camy="-400" animatedIcon="true" color="#D44D29" isPlayer="false" holdTime="3" sprite="ULTRA GOREFIELD 0">
+	<anim x="0" loop="false" y="0" fps="24" anim="ULTRA G IDLE" name="idle"/>
+	<anim x="11" loop="false" y="17" fps="24" anim="ULTRA G LEFT" name="singLEFT"/>
+	<anim x="5" loop="false" y="-35" fps="24" anim="ULTRA G DOWN" name="singDOWN"/>
+	<anim x="2" loop="false" y="125" fps="24" anim="ULTRA G UP" name="singUP"/>
+	<anim x="0" loop="false" y="41" fps="24" anim="ULTRA G RIGHT" name="singRIGHT"/>
+</character>

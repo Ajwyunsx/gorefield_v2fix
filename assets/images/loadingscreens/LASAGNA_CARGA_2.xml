@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LASAGNA CARGA 2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LASAGNA CARGA 20000" x="5" y="5" width="797" height="804" frameX="0" frameY="-1" frameWidth="798" frameHeight="805"/>
+	<SubTexture name="LASAGNA CARGA 20001" x="5" y="5" width="797" height="804" frameX="0" frameY="-1" frameWidth="798" frameHeight="805"/>
+	<SubTexture name="LASAGNA CARGA 20002" x="807" y="5" width="798" height="803" frameX="0" frameY="0" frameWidth="798" frameHeight="805"/>
+	<SubTexture name="LASAGNA CARGA 20003" x="807" y="5" width="798" height="803" frameX="0" frameY="0" frameWidth="798" frameHeight="805"/>
+	<SubTexture name="LASAGNA CARGA 20004" x="5" y="814" width="798" height="803" frameX="0" frameY="-1" frameWidth="798" frameHeight="805"/>
+	<SubTexture name="LASAGNA CARGA 20005" x="5" y="814" width="798" height="803" frameX="0" frameY="-1" frameWidth="798" frameHeight="805"/>
+</TextureAtlas>

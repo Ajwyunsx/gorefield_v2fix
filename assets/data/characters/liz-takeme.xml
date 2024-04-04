@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-630" icon="face" camx="-70" y="-270" isGF="false" color="#D44D29" scale="0.9" isPlayer="false" holdTime="1.5" sprite="latipa esa sombra">
+	<anim x="0" loop="true" y="0" fps="24" anim="la tipa esa sombra0" name="idle"/>
+	<anim x="55" loop="false" y="-21" fps="24" anim="la tipa esa sombra left" name="singLEFT"/>
+	<anim x="-10" loop="false" y="-65" fps="24" anim="la tipa esa sombra down" name="singDOWN"/>
+	<anim x="17" loop="false" y="35" fps="24" anim="la tipa esa sombra up" name="singUP"/>
+	<anim x="-20" loop="false" y="6" fps="24" anim="la tipa esa sombra right" name="singRIGHT"/>
+</character>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SADgotes.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SAD LYMAN DOWN0000" x="5" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN DOWN0001" x="5" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN DOWN0002" x="184" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN DOWN0003" x="184" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN DOWN0004" x="363" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN DOWN0005" x="363" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN DOWN0006" x="363" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0000" x="542" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0001" x="542" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0002" x="542" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0003" x="721" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0004" x="721" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0005" x="721" y="5" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0006" x="5" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0007" x="5" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0008" x="5" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0009" x="184" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0010" x="184" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0011" x="184" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0012" x="363" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0013" x="363" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0014" x="363" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0015" x="542" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0016" x="542" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN IDLE0017" x="542" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN LEFT0000" x="721" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN LEFT0001" x="721" y="253" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN LEFT0002" x="5" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN LEFT0003" x="5" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN LEFT0004" x="184" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN LEFT0005" x="184" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN LEFT0006" x="184" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN RIGHT0000" x="363" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN RIGHT0001" x="363" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN RIGHT0002" x="542" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN RIGHT0003" x="542" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN RIGHT0004" x="721" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN RIGHT0005" x="721" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN RIGHT0006" x="721" y="501" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN UP0000" x="5" y="749" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN UP0001" x="5" y="749" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN UP0002" x="184" y="749" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN UP0003" x="184" y="749" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN UP0004" x="363" y="749" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN UP0005" x="363" y="749" width="174" height="243"/>
+	<SubTexture name="SAD LYMAN UP0006" x="363" y="749" width="174" height="243"/>
+</TextureAtlas>

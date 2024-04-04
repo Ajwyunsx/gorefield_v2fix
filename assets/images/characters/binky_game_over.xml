@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="binky_game_over.png">
+<SubTexture name="binky_game_over binky_death0000" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0001" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0002" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0003" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0004" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0005" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0006" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0007" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0008" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0009" x="0" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0010" x="2100" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0011" x="0" y="2100" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0012" x="2100" y="2100" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0013" x="4200" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0014" x="4200" y="2100" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0015" x="0" y="4200" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0016" x="2100" y="4200" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0017" x="4200" y="4200" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0018" x="6300" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0019" x="6300" y="2100" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0020" x="6300" y="4200" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0021" x="0" y="6300" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0022" x="2100" y="6300" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0023" x="4200" y="6300" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death0024" x="6300" y="6300" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0000" x="6300" y="6300" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0001" x="8400" y="0" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0002" x="8400" y="2100" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0003" x="8400" y="4200" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0004" x="8400" y="6300" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0005" x="0" y="8400" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0006" x="2100" y="8400" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_loop0007" x="6300" y="6300" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_confirm0000" x="4200" y="8400" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_confirm0001" x="6300" y="8400" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_confirm0002" x="8400" y="8400" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+<SubTexture name="binky_game_over binky_death_confirm0003" x="4200" y="8400" width="2100" height="2100" frameX="0" frameY="0" frameWidth="2100" frameHeight="2100" />
+</TextureAtlas>

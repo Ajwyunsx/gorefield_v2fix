@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="0" icon="icon-face" flipX="false" isPlayer="null" camx="0" camy="0" holdTime="6.1" scale="0.6" color="#A1A1A1">
+	<anim name="enter" anim="ENTER" fps="24" loop="false" x="30" y="30"/>
+	<anim name="idle" anim="pizza" fps="24" loop="true" x="0" y="0"/>
+	<anim name="enterloop" anim="ENTER0024" fps="24" loop="true" x="30" y="30"/>
+</character>

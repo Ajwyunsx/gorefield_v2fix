@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jon sombra.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jon sombra0000" x="0" y="0" width="438" height="1123" frameX="0" frameY="0" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0001" x="0" y="0" width="438" height="1123" frameX="0" frameY="0" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0002" x="0" y="0" width="438" height="1123" frameX="0" frameY="0" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0003" x="438" y="0" width="365" height="1188" frameX="-1" frameY="-8" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0004" x="438" y="0" width="365" height="1188" frameX="-1" frameY="-8" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0005" x="438" y="0" width="365" height="1188" frameX="-1" frameY="-8" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0006" x="803" y="0" width="363" height="1149" frameX="-7" frameY="-7" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0007" x="803" y="0" width="363" height="1149" frameX="-7" frameY="-7" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra0008" x="803" y="0" width="363" height="1149" frameX="-7" frameY="-7" frameWidth="438" frameHeight="1196"/>
+	<SubTexture name="jon sombra down0000" x="1166" y="0" width="427" height="954" frameX="0" frameY="-21" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0001" x="1166" y="0" width="427" height="954" frameX="0" frameY="-21" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0002" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0003" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0004" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0005" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0006" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0007" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0008" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0009" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra down0010" x="1593" y="0" width="404" height="995" frameX="-16" frameY="0" frameWidth="427" frameHeight="995"/>
+	<SubTexture name="jon sombra left0000" x="1997" y="0" width="386" height="1048" frameX="0" frameY="0" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0001" x="1997" y="0" width="386" height="1048" frameX="0" frameY="0" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0002" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0003" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0004" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0005" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0006" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0007" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0008" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0009" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra left0010" x="2383" y="0" width="396" height="1164" frameX="-20" frameY="-3" frameWidth="416" frameHeight="1167"/>
+	<SubTexture name="jon sombra right0000" x="2779" y="0" width="372" height="1039" frameX="-29" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0001" x="2779" y="0" width="372" height="1039" frameX="-29" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0002" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0003" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0004" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0005" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0006" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0007" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0008" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0009" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra right0010" x="3151" y="0" width="376" height="1064" frameX="0" frameY="0" frameWidth="401" frameHeight="1064"/>
+	<SubTexture name="jon sombra up0000" x="3527" y="0" width="355" height="1150" frameX="0" frameY="0" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0001" x="3527" y="0" width="355" height="1150" frameX="0" frameY="0" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0002" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0003" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0004" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0005" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0006" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0007" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0008" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0009" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+	<SubTexture name="jon sombra up0010" x="0" y="1188" width="357" height="1080" frameX="-5" frameY="-26" frameWidth="362" frameHeight="1150"/>
+</TextureAtlas>

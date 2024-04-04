@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character color="#D3E1FF" sprite="lyman_prison" animatedIcon="true" x="0" isGF="false" y="25" camx="-230" icon="lyman_captive"  camy="100" isPlayer="false" holdTime="3.1" iconoffsetx="-30" iconoffsety="0">
+	<anim x="0" loop="false" y="0" fps="24" anim="lyman idle" name="idle"/>
+	<anim x="3" loop="false" y="0" fps="24" anim="lyman left" name="singLEFT"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="lyman down" name="singDOWN"/>
+	<anim x="-6" loop="false" y="0" fps="24" anim="lyman up" name="singUP"/>
+	<anim x="-5" loop="false" y="0" fps="24" anim="lyman right" name="singRIGHT"/>
+</character>

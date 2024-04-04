@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="120" icon="icon-face" y="150" isGF="false" scale="0.6" color="#A1A1A1" isPlayer="false" holdTime="6.1" sprite="ps">
+	<anim x="0" loop="false" y="0" fps="24" anim="LIVE 3 loose" name="4 remove"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="LIVE 4 MAIN" name="4"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="Live 3 main" name="3"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="LIVE 2 LOSE" name="3 remove"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="LIVE 2 MAIN" name="2"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="LIVE 1 LOSE" name="2 remove"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="LIVE 1 MAIN" name="1"/>
+</character>

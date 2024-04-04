@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="0" icon="garfield" iconoffsetx="-30" iconoffsety="-18" animatedIcon="true" flipX="false" isPlayer="null" camx="-70" camy="0" holdTime="3" scale="1" color="#D44D29">
+	<anim name="idle" anim="Garfield idle" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT" anim="Garfield L" fps="24" loop="false" x="35" y="4"/>
+	<anim name="singDOWN" anim="Garfield D" fps="24" loop="false" x="-10" y="-10"/>
+	<anim name="singUP" anim="Garfield Up" fps="24" loop="false" x="12" y="0"/>
+	<anim name="singRIGHT" anim="Garfield R" fps="24" loop="false" x="-20" y="6"/>
+	<anim name="transition" anim="transicion" fps="24" loop="false" x="-1" y="6"/>
+	<anim name="scary" anim="te veo" fps="24" loop="true" x="-35" y="-14"/>
+	<anim name="idle-loop" anim="Garfield idle" fps="24" loop="true" x="0" y="0" indices="[14,15,16]"/>
+</character>

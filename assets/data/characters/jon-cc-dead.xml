@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="face" y="0" isGF="false" color="#2E5E48" flipX="true" isPlayer="true" gameOverChar="jon-cc-dead" sprite="jon_dies">
+	<anim x="-366" loop="true" y="-171" fps="24" anim="loop" name="deathLoop"/>
+	<anim x="-366" loop="false" y="-160" fps="24" anim="retry" name="deathConfirm"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="intro" name="firstDeath"/>
+</character>

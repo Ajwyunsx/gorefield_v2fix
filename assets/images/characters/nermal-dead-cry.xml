@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NERMAL DEATH.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NERMAL CONFIRM0000" x="5" y="5" width="744" height="861" frameX="-49" frameY="-251" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0001" x="754" y="5" width="782" height="1031" frameX="-11" frameY="-81" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0002" x="754" y="5" width="782" height="1031" frameX="-11" frameY="-81" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0003" x="1541" y="5" width="772" height="1101" frameX="-21" frameY="-11" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0004" x="1541" y="5" width="772" height="1101" frameX="-21" frameY="-11" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0005" x="2318" y="5" width="769" height="1112" frameX="-24" frameY="0" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0006" x="3092" y="5" width="744" height="1029" frameX="-49" frameY="-83" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0007" x="3841" y="5" width="793" height="740" frameX="0" frameY="-372" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0008" x="3841" y="5" width="793" height="740" frameX="0" frameY="-372" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0009" x="4639" y="5" width="668" height="905" frameX="-125" frameY="-207" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0010" x="5312" y="5" width="610" height="916" frameX="-183" frameY="-196" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0011" x="5927" y="5" width="602" height="906" frameX="-191" frameY="-206" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0012" x="6534" y="5" width="602" height="898" frameX="-191" frameY="-214" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0013" x="7141" y="5" width="602" height="248" frameX="-191" frameY="-864" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0014" x="7141" y="5" width="602" height="248" frameX="-191" frameY="-864" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0015" x="7141" y="5" width="602" height="248" frameX="-191" frameY="-864" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL CONFIRM0016" x="7141" y="5" width="602" height="248" frameX="-191" frameY="-864" frameWidth="793" frameHeight="1112"/>
+	<SubTexture name="NERMAL DEATH0000" x="5" y="1122" width="443" height="639" frameX="-522" frameY="-73" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0001" x="453" y="1122" width="434" height="648" frameX="-517" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0002" x="453" y="1122" width="434" height="648" frameX="-517" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0003" x="892" y="1122" width="435" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0004" x="1332" y="1122" width="533" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0005" x="1870" y="1122" width="435" height="646" frameX="-513" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0006" x="2310" y="1122" width="432" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0007" x="2747" y="1122" width="467" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0008" x="3219" y="1122" width="435" height="646" frameX="-513" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0009" x="3659" y="1122" width="432" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0010" x="4096" y="1122" width="592" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0011" x="4693" y="1122" width="437" height="660" frameX="-511" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0012" x="5135" y="1122" width="528" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0013" x="5668" y="1122" width="435" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0014" x="6108" y="1122" width="435" height="646" frameX="-513" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0015" x="6548" y="1122" width="462" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0016" x="7015" y="1122" width="435" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0017" x="7455" y="1122" width="435" height="646" frameX="-513" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0018" x="5" y="1787" width="587" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0019" x="597" y="1787" width="440" height="658" frameX="-511" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0020" x="1042" y="1787" width="536" height="646" frameX="-513" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0021" x="1583" y="1787" width="432" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0022" x="2020" y="1787" width="435" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0023" x="2460" y="1787" width="470" height="646" frameX="-513" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0024" x="2935" y="1787" width="447" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0025" x="3387" y="1787" width="446" height="644" frameX="-516" frameY="-68" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0026" x="3838" y="1787" width="444" height="646" frameX="-513" frameY="-66" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0027" x="4287" y="1787" width="432" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0028" x="4724" y="1787" width="432" height="648" frameX="-521" frameY="-64" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0029" x="5161" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0030" x="5161" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0031" x="5597" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0032" x="5597" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0033" x="6033" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0034" x="6033" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0035" x="6033" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0036" x="6033" y="1787" width="431" height="647" frameX="-522" frameY="-65" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0037" x="6469" y="1787" width="450" height="599" frameX="-518" frameY="-109" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0038" x="6469" y="1787" width="450" height="599" frameX="-518" frameY="-109" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0039" x="6924" y="1787" width="501" height="429" frameX="-467" frameY="-279" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0040" x="6924" y="1787" width="501" height="429" frameX="-467" frameY="-279" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0041" x="7430" y="1787" width="589" height="255" frameX="-386" frameY="-453" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0042" x="7430" y="1787" width="589" height="255" frameX="-386" frameY="-453" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0043" x="5" y="2450" width="601" height="251" frameX="-374" frameY="-455" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0044" x="5" y="2450" width="601" height="251" frameX="-374" frameY="-455" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0045" x="611" y="2450" width="597" height="253" frameX="-378" frameY="-453" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0046" x="611" y="2450" width="597" height="253" frameX="-378" frameY="-453" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0047" x="1213" y="2450" width="601" height="247" frameX="-374" frameY="-459" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0048" x="1213" y="2450" width="601" height="247" frameX="-374" frameY="-459" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0049" x="1213" y="2450" width="601" height="247" frameX="-374" frameY="-459" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0050" x="1819" y="2450" width="975" height="616" frameX="0" frameY="-90" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0051" x="2799" y="2450" width="695" height="706" frameX="-280" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0052" x="2799" y="2450" width="695" height="706" frameX="-280" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0053" x="3499" y="2450" width="758" height="706" frameX="-217" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0054" x="3499" y="2450" width="758" height="706" frameX="-217" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0055" x="4262" y="2450" width="746" height="706" frameX="-229" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0056" x="4262" y="2450" width="746" height="706" frameX="-229" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0057" x="5013" y="2450" width="744" height="706" frameX="-231" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0058" x="5013" y="2450" width="744" height="706" frameX="-231" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMAL DEATH0059" x="5013" y="2450" width="744" height="706" frameX="-231" frameY="0" frameWidth="1108" frameHeight="726"/>
+	<SubTexture name="NERMALL LOOP0000" x="5762" y="2450" width="717" height="692" frameX="-27" frameY="-14" frameWidth="744" frameHeight="706"/>
+	<SubTexture name="NERMALL LOOP0001" x="6484" y="2450" width="742" height="705" frameX="-2" frameY="-1" frameWidth="744" frameHeight="706"/>
+	<SubTexture name="NERMALL LOOP0002" x="6484" y="2450" width="742" height="705" frameX="-2" frameY="-1" frameWidth="744" frameHeight="706"/>
+	<SubTexture name="NERMALL LOOP0003" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0004" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0005" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0006" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0007" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0008" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0009" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0010" x="7231" y="2450" width="744" height="706"/>
+	<SubTexture name="NERMALL LOOP0011" x="7231" y="2450" width="744" height="706"/>
+</TextureAtlas>

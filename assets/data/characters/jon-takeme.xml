@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="20" icon="icon-pololos" camx="-70" y="-400" isGF="false" scale="0.9" color="#D44D29" isPlayer="false" holdTime="1.5" sprite="jon sombra">
+	<anim x="0" loop="true" y="0" fps="24" anim="jon sombra0" name="idle"/>
+	<anim x="50" loop="false" y="-31" fps="24" anim="jon sombra left" name="singLEFT"/>
+	<anim x="-45" loop="false" y="-100" fps="24" anim="jon sombra down" name="singDOWN"/>
+	<anim x="7" loop="false" y="35" fps="24" anim="jon sombra up" name="singUP"/>
+	<anim x="-25" loop="false" y="-24" fps="24" anim="jon sombra right" name="singRIGHT"/>
+</character>

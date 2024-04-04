@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character color="#346756" sprite="ULTRAGODFIELD" x="-730" isGF="false" y="-520" camx="-200" icon="GODFIELD_TRUE_FORM" camy="420" scale="1.5" isPlayer="false" animatedIcon="true" iconoffsetx="10" iconoffsety="-35" noLosingIcon="true">
+	<anim x="0" loop="true" y="0" fps="24" anim="ULTRA GODFIELD IDLE" name="idle"/>
+	<anim x="-5" loop="false" y="13" fps="24" anim="ULTRA GODFIELD LEFT" name="singLEFT"/>
+	<anim x="-51" loop="false" y="21.5" fps="24" anim="ULTRA GODFIELD DOWN" name="singDOWN"/>
+	<anim x="3" loop="false" y="8" fps="24" anim="ULTRA GODFIELD UP" name="singUP"/>
+	<anim x="-106" loop="false" y="15" fps="24" anim="ULTRA GODFIELD RIGHT" name="singRIGHT"/>
+</character>

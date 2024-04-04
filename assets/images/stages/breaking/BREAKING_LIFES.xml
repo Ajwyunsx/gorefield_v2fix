@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BREAKING_LIFES.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LIFES 10000" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES 20000" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES 30000" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES 40000" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 10000" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 10001" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 10002" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES MINUS 10003" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES MINUS 10004" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 10005" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 10006" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES MINUS 10007" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES MINUS 10008" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 10009" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES MINUS 10010" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 10011" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES MINUS 10012" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 10013" x="5" y="5" width="45" height="34"/>
+	<SubTexture name="LIFES MINUS 20000" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 20001" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 20002" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 20003" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 20004" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 20005" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 20006" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 20007" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 20008" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 20009" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 20010" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 20011" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 20012" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 20013" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 20014" x="55" y="5" width="95" height="34"/>
+	<SubTexture name="LIFES MINUS 30000" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 30001" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 30002" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 30003" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 30004" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 30005" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 30006" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 30007" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 30008" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 30009" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 30010" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 30011" x="5" y="44" width="147" height="34"/>
+	<SubTexture name="LIFES MINUS 30012" x="5" y="83" width="197" height="34"/>
+	<SubTexture name="LIFES MINUS 30013" x="5" y="44" width="147" height="34"/>
+</TextureAtlas>

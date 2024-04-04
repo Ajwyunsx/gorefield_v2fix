@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="monsterfield" scale="1.2" iconoffsetx="-20" iconoffsety="-10" animatedIcon="true" camx="0" y="0" isGF="false" camy="80" color="#D3E1FF" isPlayer="false" holdTime="3.1" sprite="CRYFIELD_MONSTER">
+	<anim x="0" loop="false" y="0" fps="24" anim="CRYFIELD IDLE" name="idle"/>
+	<anim x="-33" loop="false" y="85" fps="24" anim="CRYFIELD LEFT" name="singLEFT"/>
+	<anim x="5" loop="false" y="-25" fps="24" anim="CRYFIELD DOWN" name="singDOWN"/>
+	<anim x="50" loop="false" y="199" fps="24" anim="CRYFIELD UP" name="singUP"/>
+	<anim x="-60" loop="false" y="38" fps="24" anim="CRYFIELD RIGHT" name="singRIGHT"/>
+</character>

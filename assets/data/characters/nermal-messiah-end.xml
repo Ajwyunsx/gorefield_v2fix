@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-149" icon="NERMAL_GODFIELD" animatedIcon="true" iconoffsetx="30" iconoffsety="-10" y="-870" isGF="false" color="#999999" flipX="true" isPlayer="true" gameOverChar="godnermaldeath" sprite="NERMALL_END">
+	<anim x="0" loop="false" y="0" fps="24" anim="NERMALL END" name="end"/>
+</character>

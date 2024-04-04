@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ULTRAGODFIELD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ULTRA GODFIELD DOWN0000" x="5" y="5" width="1230" height="843" frameX="0" frameY="0" frameWidth="1230" frameHeight="866"/>
+	<SubTexture name="ULTRA GODFIELD DOWN0001" x="5" y="5" width="1230" height="843" frameX="0" frameY="0" frameWidth="1230" frameHeight="866"/>
+	<SubTexture name="ULTRA GODFIELD DOWN0002" x="1240" y="5" width="1230" height="858" frameX="0" frameY="-7" frameWidth="1230" frameHeight="866"/>
+	<SubTexture name="ULTRA GODFIELD DOWN0003" x="1240" y="5" width="1230" height="858" frameX="0" frameY="-7" frameWidth="1230" frameHeight="866"/>
+	<SubTexture name="ULTRA GODFIELD DOWN0004" x="2475" y="5" width="1230" height="858" frameX="0" frameY="-8" frameWidth="1230" frameHeight="866"/>
+	<SubTexture name="ULTRA GODFIELD DOWN0005" x="2475" y="5" width="1230" height="858" frameX="0" frameY="-8" frameWidth="1230" frameHeight="866"/>
+
+	<SubTexture name="ULTRA GODFIELD IDLE0000" x="3710" y="5" width="1337" height="839" frameX="0" frameY="-1" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0001" x="3710" y="5" width="1337" height="839" frameX="0" frameY="-1" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0002" x="5052" y="5" width="1337" height="840" frameX="0" frameY="-4" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0003" x="6394" y="5" width="1337" height="887" frameX="0" frameY="-4" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0004" x="5" y="897" width="1335" height="831" frameX="-1" frameY="-14" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0005" x="1345" y="897" width="1335" height="852" frameX="-1" frameY="-14" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0006" x="2685" y="897" width="1337" height="826" frameX="0" frameY="-19" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0007" x="2685" y="897" width="1337" height="826" frameX="0" frameY="-19" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0008" x="4027" y="897" width="1337" height="824" frameX="0" frameY="-21" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0009" x="4027" y="897" width="1337" height="824" frameX="0" frameY="-21" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0010" x="5369" y="897" width="1337" height="845" frameX="0" frameY="-22" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0011" x="6711" y="897" width="1337" height="823" frameX="0" frameY="-22" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0012" x="5" y="1754" width="1337" height="822" frameX="0" frameY="-23" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0013" x="1347" y="1754" width="1337" height="822" frameX="0" frameY="-23" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0014" x="2689" y="1754" width="1337" height="822" frameX="0" frameY="-23" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0015" x="4031" y="1754" width="1337" height="853" frameX="0" frameY="-23" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0016" x="5373" y="1754" width="1337" height="822" frameX="0" frameY="-23" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0017" x="6715" y="1754" width="1337" height="823" frameX="0" frameY="-22" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0018" x="5" y="2612" width="1337" height="823" frameX="0" frameY="-22" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0019" x="1347" y="2612" width="1335" height="826" frameX="-1" frameY="-19" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0020" x="2687" y="2612" width="1335" height="872" frameX="-1" frameY="-19" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0021" x="4027" y="2612" width="1337" height="829" frameX="0" frameY="-13" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0022" x="5369" y="2612" width="1337" height="853" frameX="0" frameY="-13" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0023" x="6711" y="2612" width="1335" height="834" frameX="-1" frameY="-6" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0024" x="6711" y="2612" width="1335" height="834" frameX="-1" frameY="-6" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0025" x="5" y="3489" width="1335" height="838" frameX="-1" frameY="-2" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0026" x="1345" y="3489" width="1335" height="865" frameX="-1" frameY="-2" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0027" x="2685" y="3489" width="1335" height="839" frameX="-1" frameY="0" frameWidth="1337" frameHeight="891"/>
+	<SubTexture name="ULTRA GODFIELD IDLE0028" x="4025" y="3489" width="1335" height="839" frameX="-1" frameY="0" frameWidth="1337" frameHeight="891"/>
+			<!-- 1.1666666666666666666666666666667 -->
+
+	<SubTexture name="ULTRA GODFIELD LEFT0000" x="5365" y="3489" width="1201" height="826" frameX="-23" frameY="-3" frameWidth="1224" frameHeight="829"/>
+	<SubTexture name="ULTRA GODFIELD LEFT0001" x="5365" y="3489" width="1201" height="826" frameX="-23" frameY="-3" frameWidth="1224" frameHeight="829"/>
+	<SubTexture name="ULTRA GODFIELD LEFT0002" x="6571" y="3489" width="1223" height="821" frameX="0" frameY="0" frameWidth="1224" frameHeight="829"/>
+	<SubTexture name="ULTRA GODFIELD LEFT0003" x="6571" y="3489" width="1223" height="821" frameX="0" frameY="0" frameWidth="1224" frameHeight="829"/>
+	<SubTexture name="ULTRA GODFIELD LEFT0004" x="5" y="4359" width="1222" height="819" frameX="0" frameY="-2" frameWidth="1224" frameHeight="829"/>
+	<SubTexture name="ULTRA GODFIELD LEFT0005" x="5" y="4359" width="1222" height="819" frameX="0" frameY="-2" frameWidth="1224" frameHeight="829"/>
+	<SubTexture name="ULTRA GODFIELD RIGHT0000" x="1232" y="4359" width="1173" height="828"/>
+	<SubTexture name="ULTRA GODFIELD RIGHT0001" x="1232" y="4359" width="1173" height="828"/>
+	<SubTexture name="ULTRA GODFIELD RIGHT0002" x="2410" y="4359" width="1147" height="820" frameX="-1" frameY="-8" frameWidth="1173" frameHeight="828"/>
+	<SubTexture name="ULTRA GODFIELD RIGHT0003" x="2410" y="4359" width="1147" height="820" frameX="-1" frameY="-8" frameWidth="1173" frameHeight="828"/>
+	<SubTexture name="ULTRA GODFIELD RIGHT0004" x="3562" y="4359" width="1147" height="819" frameX="-1" frameY="-9" frameWidth="1173" frameHeight="828"/>
+	<SubTexture name="ULTRA GODFIELD RIGHT0005" x="3562" y="4359" width="1147" height="819" frameX="-1" frameY="-9" frameWidth="1173" frameHeight="828"/>
+	<SubTexture name="ULTRA GODFIELD UP0000" x="4714" y="4359" width="1344" height="797" frameX="0" frameY="-17" frameWidth="1344" frameHeight="814"/>
+	<SubTexture name="ULTRA GODFIELD UP0001" x="4714" y="4359" width="1344" height="797" frameX="0" frameY="-17" frameWidth="1344" frameHeight="814"/>
+	<SubTexture name="ULTRA GODFIELD UP0002" x="6063" y="4359" width="1344" height="810" frameX="0" frameY="-4" frameWidth="1344" frameHeight="814"/>
+	<SubTexture name="ULTRA GODFIELD UP0003" x="6063" y="4359" width="1344" height="810" frameX="0" frameY="-4" frameWidth="1344" frameHeight="814"/>
+	<SubTexture name="ULTRA GODFIELD UP0004" x="5" y="5192" width="1344" height="814"/>
+	<SubTexture name="ULTRA GODFIELD UP0005" x="5" y="5192" width="1344" height="814"/>
+</TextureAtlas>

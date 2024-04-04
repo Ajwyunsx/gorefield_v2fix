@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jhon infidelidad.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jon infidelidad down0000" x="0" y="0" width="827" height="1127" frameX="0" frameY="-7" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0001" x="0" y="0" width="827" height="1127" frameX="0" frameY="-7" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0002" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0003" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0004" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0005" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0006" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0007" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0008" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0009" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad down0010" x="827" y="0" width="832" height="1102" frameX="-7" frameY="0" frameWidth="839" frameHeight="1134"/>
+	<SubTexture name="jon infidelidad idle0000" x="1659" y="0" width="709" height="1132" frameX="0" frameY="0" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0001" x="1659" y="0" width="709" height="1132" frameX="0" frameY="0" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0002" x="1659" y="0" width="709" height="1132" frameX="0" frameY="0" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0003" x="2368" y="0" width="687" height="1165" frameX="-6" frameY="0" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0004" x="2368" y="0" width="687" height="1165" frameX="-6" frameY="0" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0005" x="2368" y="0" width="687" height="1165" frameX="-6" frameY="0" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0006" x="3055" y="0" width="683" height="1128" frameX="-7" frameY="-1" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0007" x="3055" y="0" width="683" height="1128" frameX="-7" frameY="-1" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad idle0008" x="3055" y="0" width="683" height="1128" frameX="-7" frameY="-1" frameWidth="709" frameHeight="1165"/>
+	<SubTexture name="jon infidelidad left0000" x="0" y="1165" width="745" height="1132"/>
+	<SubTexture name="jon infidelidad left0001" x="0" y="1165" width="745" height="1132"/>
+	<SubTexture name="jon infidelidad left0002" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0003" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0004" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0005" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0006" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0007" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0008" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0009" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad left0010" x="745" y="1165" width="709" height="1120" frameX="-27" frameY="-11" frameWidth="745" frameHeight="1132"/>
+	<SubTexture name="jon infidelidad right0000" x="1454" y="1165" width="669" height="1121" frameX="0" frameY="0" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0001" x="1454" y="1165" width="669" height="1121" frameX="0" frameY="0" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0002" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0003" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0004" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0005" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0006" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0007" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0008" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0009" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad right0010" x="2123" y="1165" width="640" height="1161" frameX="-10" frameY="-3" frameWidth="669" frameHeight="1164"/>
+	<SubTexture name="jon infidelidad up0000" x="2763" y="1165" width="693" height="1163" frameX="0" frameY="0" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0001" x="2763" y="1165" width="693" height="1163" frameX="0" frameY="0" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0002" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0003" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0004" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0005" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0006" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0007" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0008" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0009" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+	<SubTexture name="jon infidelidad up0010" x="0" y="2328" width="689" height="1190" frameX="-5" frameY="-8" frameWidth="694" frameHeight="1198"/>
+</TextureAtlas>

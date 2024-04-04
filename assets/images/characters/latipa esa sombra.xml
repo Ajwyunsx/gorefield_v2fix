@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="latipa esa sombra.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="la tipa esa sombra0000" x="0" y="0" width="413" height="1040" frameX="0" frameY="0" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0001" x="0" y="0" width="413" height="1040" frameX="0" frameY="0" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0002" x="0" y="0" width="413" height="1040" frameX="0" frameY="0" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0003" x="413" y="0" width="406" height="1040" frameX="-3" frameY="-2" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0004" x="413" y="0" width="406" height="1040" frameX="-3" frameY="-2" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0005" x="413" y="0" width="406" height="1040" frameX="-3" frameY="-2" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0006" x="819" y="0" width="400" height="1005" frameX="-6" frameY="0" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0007" x="819" y="0" width="400" height="1005" frameX="-6" frameY="0" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra0008" x="819" y="0" width="400" height="1005" frameX="-6" frameY="0" frameWidth="413" frameHeight="1042"/>
+	<SubTexture name="la tipa esa sombra down0000" x="1219" y="0" width="421" height="913" frameX="0" frameY="-15" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0001" x="1219" y="0" width="421" height="913" frameX="0" frameY="-15" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0002" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0003" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0004" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0005" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0006" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0007" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0008" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0009" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra down0010" x="1640" y="0" width="424" height="934" frameX="-3" frameY="0" frameWidth="427" frameHeight="934"/>
+	<SubTexture name="la tipa esa sombra left0000" x="2064" y="0" width="431" height="970" frameX="0" frameY="-13" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0001" x="2064" y="0" width="431" height="970" frameX="0" frameY="-13" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0002" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0003" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0004" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0005" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0006" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0007" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0008" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0009" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra left0010" x="2495" y="0" width="399" height="972" frameX="-25" frameY="0" frameWidth="431" frameHeight="983"/>
+	<SubTexture name="la tipa esa sombra right0000" x="2894" y="0" width="403" height="986" frameX="-35" frameY="0" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0001" x="2894" y="0" width="403" height="986" frameX="-35" frameY="0" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0002" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0003" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0004" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0005" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0006" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0007" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0008" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0009" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra right0010" x="3297" y="0" width="429" height="1006" frameX="0" frameY="-4" frameWidth="438" frameHeight="1010"/>
+	<SubTexture name="la tipa esa sombra up0000" x="0" y="1040" width="411" height="1021" frameX="-4" frameY="0" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0001" x="0" y="1040" width="411" height="1021" frameX="-4" frameY="0" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0002" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0003" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0004" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0005" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0006" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0007" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0008" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0009" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+	<SubTexture name="la tipa esa sombra up0010" x="411" y="1040" width="399" height="978" frameX="0" frameY="-26" frameWidth="415" frameHeight="1021"/>
+</TextureAtlas>

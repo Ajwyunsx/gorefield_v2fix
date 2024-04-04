@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-110" icon="NERMAL_GODFIELD" animatedIcon="true" iconoffsetx="30" iconoffsety="-10" y="-850" isGF="false" color="#999999" flipX="true" isPlayer="true" gameOverChar="godnermaldeath" sprite="nermal-messiah-player">
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ MISS DOWN" name="singDOWNmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ MISS LEFT" name="singLEFTmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ MISS RIGHT" name="singRIGHTmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ MISS UP" name="singUPmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ NERMALL DOWN" name="singDOWN"/>
+	<anim x="0" loop="true" y="0" fps="30" anim="CRUZ NERMALL IDLE" indices="21,22,23,24,25,26,27,28,29,30,31,32,33" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ NERMALL LEFT" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ NERMALL RIGHT" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="CRUZ NERMALL UP" name="singUP"/>
+</character>

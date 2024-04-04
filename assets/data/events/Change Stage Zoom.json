@@ -1,0 +1,29 @@
+{
+    "params": [
+        {
+            "name": "Change Default?",
+            "type": "Bool",
+            "defaultValue": "true"
+        },
+        {
+            "name": "Change BF?",
+            "type": "Bool",
+            "defaultValue": "true"
+        },
+        {
+            "name": "Change DAD?",
+            "type": "Bool",
+            "defaultValue": "true"
+        },
+        {
+            "name": "Change GF?",
+            "type": "Bool",
+            "defaultValue": "true"
+        },
+		{
+            "name": "Stage Zoom",
+            "type": "Float(0.1, 10, 0.01, 2)",
+            "defaultValue": "1"
+        }
+    ]
+}

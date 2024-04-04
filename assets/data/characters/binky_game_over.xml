@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="face" y="0" isGF="false" color="#2E5E48" scale="0.35" flipX="true" isPlayer="true" antialiasing="false" sprite="binky_game_over">
+	<anim x="0" loop="true" y="0" fps="11" anim="binky_game_over binky_death_loop" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="10" anim="binky_game_over binky_death_confirm" name="deathConfirm"/>
+	<anim x="0" loop="false" y="0" fps="8" anim="binky_game_over binky_death0" name="firstDeath"/>
+</character>

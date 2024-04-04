@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ARMA CARGA 0.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PISTOLA CARGA0000" x="5" y="5" width="662" height="958" frameX="0" frameY="0" frameWidth="662" frameHeight="959"/>
+	<SubTexture name="PISTOLA CARGA0001" x="5" y="5" width="662" height="958" frameX="0" frameY="0" frameWidth="662" frameHeight="959"/>
+	<SubTexture name="PISTOLA CARGA0002" x="672" y="5" width="662" height="958" frameX="0" frameY="0" frameWidth="662" frameHeight="959"/>
+	<SubTexture name="PISTOLA CARGA0003" x="672" y="5" width="662" height="958" frameX="0" frameY="0" frameWidth="662" frameHeight="959"/>
+	<SubTexture name="PISTOLA CARGA0004" x="1339" y="5" width="662" height="959"/>
+	<SubTexture name="PISTOLA CARGA0005" x="1339" y="5" width="662" height="959"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="John_icons" animatedIcon="true" camx="-160" y="350" isGF="false" camy="-120" color="#999999" flipX="true" isPlayer="true" gameOverChar="jon-cc-dead" sprite="jon-cc">
+	<anim x="-5" loop="false" y="0" fps="24" anim="idle poses" name="idle"/>
+	<anim x="33" loop="false" y="-35" fps="24" anim="left poses" name="singLEFT"/>
+	<anim x="-4" loop="false" y="-96" fps="24" anim="down poses" name="singDOWN"/>
+	<anim x="-22" loop="false" y="-10" fps="24" anim="up poses" name="singUP"/>
+	<anim x="-15" loop="false" y="-35" fps="24" anim="right pose" name="singRIGHT"/>
+	<anim x="69" loop="false" y="-34" fps="24" anim="miss1" name="singLEFTmiss"/>
+	<anim x="-3" loop="false" y="-94" fps="24" anim="miss3" name="singDOWNmiss"/>
+	<anim x="-24" loop="false" y="-9" fps="24" anim="miss2" name="singUPmiss"/>
+	<anim x="-17" loop="false" y="-31" fps="24" anim="miss4" name="singRIGHTmiss"/>
+</character>

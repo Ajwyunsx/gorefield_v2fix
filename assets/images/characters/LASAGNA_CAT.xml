@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LASAGNA_CAT.png">
+<SubTexture name="LASAGNA_CAT _RUN0000" x="0" y="0" width="1337" height="1260" frameX="-210" frameY="-126" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0001" x="0" y="0" width="1337" height="1260" frameX="-210" frameY="-126" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0002" x="0" y="1260" width="1519" height="1120" frameX="-154" frameY="-245" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0003" x="0" y="1260" width="1519" height="1120" frameX="-154" frameY="-245" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0004" x="2695" y="0" width="1547" height="1078" frameX="-147" frameY="-266" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0005" x="2695" y="0" width="1547" height="1078" frameX="-147" frameY="-266" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0006" x="1337" y="0" width="1358" height="1197" frameX="-210" frameY="-189" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0007" x="1337" y="0" width="1358" height="1197" frameX="-210" frameY="-189" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0008" x="0" y="1260" width="1519" height="1120" frameX="-154" frameY="-245" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0009" x="0" y="1260" width="1519" height="1120" frameX="-154" frameY="-245" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0010" x="2695" y="0" width="1547" height="1078" frameX="-147" frameY="-266" frameWidth="1820" frameHeight="1547" />
+<SubTexture name="LASAGNA_CAT _RUN0011" x="2695" y="0" width="1547" height="1078" frameX="-147" frameY="-266" frameWidth="1820" frameHeight="1547" />
+</TextureAtlas>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PATAS_WALTER.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WALTER PATAS IDLE0000" x="5" y="5" width="386" height="344" frameX="0" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0001" x="5" y="5" width="386" height="344" frameX="0" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0002" x="396" y="5" width="385" height="333" frameX="0" frameY="-1" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0003" x="396" y="5" width="385" height="333" frameX="0" frameY="-1" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0004" x="786" y="5" width="341" height="415" frameX="-33" frameY="-31" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0005" x="786" y="5" width="341" height="415" frameX="-33" frameY="-31" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0006" x="1132" y="5" width="269" height="327" frameX="-77" frameY="-46" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0007" x="1132" y="5" width="269" height="327" frameX="-77" frameY="-46" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0008" x="1406" y="5" width="254" height="308" frameX="-107" frameY="-46" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0009" x="1406" y="5" width="254" height="308" frameX="-107" frameY="-46" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0010" x="1665" y="5" width="299" height="269" frameX="-92" frameY="-65" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0011" x="1665" y="5" width="299" height="269" frameX="-92" frameY="-65" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0012" x="5" y="425" width="321" height="339" frameX="-104" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0013" x="5" y="425" width="321" height="339" frameX="-104" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0014" x="331" y="425" width="363" height="335" frameX="-94" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0015" x="331" y="425" width="363" height="335" frameX="-94" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0016" x="699" y="425" width="360" height="315" frameX="-97" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0017" x="699" y="425" width="360" height="315" frameX="-97" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0018" x="1064" y="425" width="334" height="415" frameX="-114" frameY="-21" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0019" x="1064" y="425" width="334" height="415" frameX="-114" frameY="-21" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0020" x="1403" y="425" width="347" height="362" frameX="-56" frameY="0" frameWidth="457" frameHeight="446"/>
+	<SubTexture name="WALTER PATAS IDLE0021" x="1403" y="425" width="347" height="362" frameX="-56" frameY="0" frameWidth="457" frameHeight="446"/>
+</TextureAtlas>

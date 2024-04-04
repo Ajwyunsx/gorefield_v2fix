@@ -1,0 +1,23 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.25" name="cryfield" folder="stages/cryfield/" splashSkin="gorefield_cry" noteSkin="gorefield_cry">
+	<countdown>
+		<three sound="cryfield/3"/>
+		<two sprite="game/ready's/cryfield/ReadyCryfield" sound="cryfield/2"/>
+		<one sprite="game/ready's/cryfield/SetCryfield" sound="cryfield/1"/>
+		<go sprite="game/ready's/cryfield/Cry" sound="cryfield/Continue"/>
+	</countdown>
+	<sprite name="BG_C" x="-276" y="-428" sprite="BG_C" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+	<opponent x="530" y="100" camxoffset="200" camyoffset="-40"/>
+	<player x="1210" y="140" camxoffset="-190" camyoffset="-40"/>
+	<sprite name="black_overlay" x="0" y="0" sprite="black_vignette" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+		<property name="alpha" type="float" value="0.75"/>
+	</sprite>
+	<sprite name="lightning_bolt" x="200" y="-170" sprite="RAYOS" antialiasing="true" scrollx="0" scrolly="0" scale="2">
+		<anim name="lightning_bolt" anim="RAYO 2" loop="false"/>
+		<property name="visible" type="bool" value="false"/>
+	</sprite>
+	<solid name="black" x="600" y="-300" width="2600" height="1480" color="0x000000">
+		<property name="visible" type="bool" value="false"/>
+	</solid>
+</stage>

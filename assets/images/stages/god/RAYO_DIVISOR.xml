@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RAYO DIVISOR.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rayo divisorio0000" x="5" y="5" width="1380" height="166" frameX="-12" frameY="0" frameWidth="1435" frameHeight="174"/>
+	<SubTexture name="rayo divisorio0001" x="5" y="176" width="1403" height="124" frameX="-15" frameY="-50" frameWidth="1435" frameHeight="174"/>
+	<SubTexture name="rayo divisorio0002" x="5" y="305" width="1359" height="116" frameX="-10" frameY="-45" frameWidth="1435" frameHeight="174"/>
+	<SubTexture name="rayo divisorio0003" x="5" y="426" width="1435" height="124" frameX="0" frameY="-41" frameWidth="1435" frameHeight="174"/>
+	<SubTexture name="rayo divisorio0004" x="5" y="555" width="1394" height="155" frameX="-7" frameY="-5" frameWidth="1435" frameHeight="174"/>
+</TextureAtlas>

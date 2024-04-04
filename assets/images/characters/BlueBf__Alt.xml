@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BlueBf__Alt.png">
+<SubTexture name="BlueBf__Alt Idle0000" x="560" y="2332" width="556" height="476" frameX="-56" frameY="-188" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Idle0001" x="0" y="2332" width="560" height="488" frameX="-80" frameY="-176" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Idle0002" x="1152" y="1796" width="540" height="532" frameX="-92" frameY="-132" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Idle0003" x="0" y="1796" width="576" height="536" frameX="-48" frameY="-128" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Idle0004" x="576" y="1796" width="576" height="536" frameX="-48" frameY="-128" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Idle0005" x="576" y="1796" width="576" height="536" frameX="-48" frameY="-128" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Idle0006" x="576" y="1796" width="576" height="536" frameX="-48" frameY="-128" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Idle0007" x="576" y="1796" width="576" height="536" frameX="-48" frameY="-128" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Left0000" x="408" y="684" width="460" height="552" frameX="-48" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Left0001" x="868" y="684" width="472" height="552" frameX="-48" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Left0002" x="1544" y="0" width="472" height="552" frameX="-56" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Left0003" x="1544" y="552" width="472" height="552" frameX="-56" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Rigth0000" x="1388" y="1244" width="444" height="548" frameX="-292" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Rigth0001" x="2016" y="0" width="460" height="548" frameX="-264" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Rigth0002" x="0" y="1244" width="464" height="552" frameX="-256" frameY="-116" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt Rigth0003" x="464" y="1244" width="464" height="552" frameX="-256" frameY="-116" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt up0000" x="748" y="0" width="396" height="572" frameX="-196" frameY="-76" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt up0001" x="1144" y="0" width="400" height="564" frameX="-200" frameY="-84" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt up0002" x="0" y="684" width="408" height="560" frameX="-188" frameY="-88" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt up0003" x="0" y="684" width="408" height="560" frameX="-188" frameY="-88" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt down0000" x="2476" y="492" width="396" height="472" frameX="-184" frameY="-200" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt down0001" x="2476" y="0" width="396" height="492" frameX="-184" frameY="-180" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt down0002" x="2016" y="1096" width="396" height="500" frameX="-184" frameY="-172" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt down0003" x="1692" y="1796" width="396" height="500" frameX="-184" frameY="-172" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt left_miss0000" x="2016" y="548" width="444" height="548" frameX="-292" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt left_miss0001" x="2016" y="548" width="444" height="548" frameX="-292" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt rigth_miss0000" x="928" y="1244" width="460" height="552" frameX="-48" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt rigth_miss0001" x="928" y="1244" width="460" height="552" frameX="-48" frameY="-120" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt up_miss0000" x="0" y="0" width="748" height="684" frameX="0" frameY="0" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt up_miss0001" x="0" y="0" width="748" height="684" frameX="0" frameY="0" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt down_miss0000" x="2476" y="964" width="396" height="472" frameX="-184" frameY="-200" frameWidth="748" frameHeight="684" />
+<SubTexture name="BlueBf__Alt down_miss0001" x="2476" y="964" width="396" height="472" frameX="-184" frameY="-200" frameWidth="748" frameHeight="684" />
+</TextureAtlas>

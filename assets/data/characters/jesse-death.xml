@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character color="#5A50D3" sprite="JESSEE_DEATH" x="-80" isGF="false" y="540" camx="230" icon="bf-house" camy="-280" isPlayer="false" flipX="true" holdTime="1.5" gameOverChar="bf-apoc" iconoffsetx="18" animatedIcon="true" iconoffsety="-10">
+	<anim x="0" loop="true" y="0" fps="24" anim="JESSEE DEATH LOOP" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="JESSEE DEATH0" name="firstDeath"/>
+	<anim x="190" loop="false" y="54" fps="24" anim="JESSEE DEATH CONFIRM" name="deathConfirm"/>
+</character>

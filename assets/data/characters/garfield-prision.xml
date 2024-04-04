@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="face" y="350" isGF="false" color="#5A50D3" flipX="true" isPlayer="true" gameOverChar="garfield-dead" sprite="garfield1">
+	<anim x="0" loop="false" y="0" fps="24" anim="g1 idle" name="idle"/>
+	<anim x="-21" loop="false" y="-5" fps="24" anim="g1 left0" name="singLEFT"/>
+	<anim x="-19" loop="false" y="-18" fps="24" anim="g1 down0" name="singDOWN"/>
+	<anim x="-1" loop="false" y="66" fps="24" anim="g1 up0" name="singUP"/>
+	<anim x="4" loop="false" y="11" fps="24" anim="g1 right0" name="singRIGHT"/>
+	<anim x="-22" loop="false" y="-6" fps="24" anim="g1 left MISS" name="singLEFTmiss"/>
+	<anim x="11" loop="false" y="-5" fps="24" anim="g1 down MISS" name="singDOWNmiss"/>
+	<anim x="-1" loop="false" y="87" fps="24" anim="g1 up MISS" name="singUPmiss"/>
+	<anim x="2" loop="false" y="11" fps="24" anim="g1 right MISS" name="singRIGHTmiss"/>
+</character>

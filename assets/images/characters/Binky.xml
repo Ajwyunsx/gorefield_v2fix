@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Binky.png">
+<SubTexture name="Binky idle0000" x="4032" y="854" width="728" height="847" frameX="-280" frameY="-448" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky idle0001" x="3304" y="0" width="728" height="889" frameX="-280" frameY="-406" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky idle0002" x="1456" y="2324" width="749" height="924" frameX="-294" frameY="-371" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky idle0003" x="721" y="2324" width="735" height="931" frameX="-294" frameY="-364" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky idle0004" x="0" y="2324" width="721" height="945" frameX="-294" frameY="-350" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky idle0005" x="2366" y="1015" width="714" height="952" frameX="-294" frameY="-343" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky idle0006" x="2366" y="1015" width="714" height="952" frameX="-294" frameY="-343" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky idle0007" x="2366" y="1015" width="714" height="952" frameX="-294" frameY="-343" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky right0000" x="1512" y="0" width="854" height="1071" frameX="0" frameY="-224" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky right0001" x="0" y="1253" width="826" height="1071" frameX="-28" frameY="-224" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky left0000" x="826" y="1253" width="945" height="1015" frameX="-329" frameY="-245" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky left0001" x="2366" y="0" width="938" height="1015" frameX="-329" frameY="-245" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky down0000" x="4032" y="0" width="742" height="854" frameX="-434" frameY="-441" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky down0001" x="2205" y="2324" width="714" height="910" frameX="-448" frameY="-385" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky up0000" x="0" y="0" width="756" height="1253" frameX="-224" frameY="0" frameWidth="1274" frameHeight="1302" />
+<SubTexture name="Binky up0001" x="756" y="0" width="756" height="1225" frameX="-203" frameY="-28" frameWidth="1274" frameHeight="1302" />
+</TextureAtlas>

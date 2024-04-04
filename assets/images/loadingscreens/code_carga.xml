@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="code_carga.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="code carga0000" x="5" y="5" width="1113" height="1019"/>
+	<SubTexture name="code carga0001" x="5" y="5" width="1113" height="1019"/>
+	<SubTexture name="code carga0002" x="1123" y="5" width="1113" height="1019"/>
+	<SubTexture name="code carga0003" x="1123" y="5" width="1113" height="1019"/>
+	<SubTexture name="code carga0004" x="2241" y="5" width="1113" height="1019"/>
+	<SubTexture name="code carga0005" x="2241" y="5" width="1113" height="1019"/>
+</TextureAtlas>

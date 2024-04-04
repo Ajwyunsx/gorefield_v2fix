@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1 FORM GODFIELD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="123" height="119" frameX="0" frameY="-2" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0001" x="0" y="0" width="123" height="119" frameX="0" frameY="-2" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0002" x="123" y="0" width="123" height="119" frameX="0" frameY="-8" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0003" x="123" y="0" width="123" height="119" frameX="0" frameY="-8" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0004" x="246" y="0" width="123" height="120" frameX="0" frameY="-4" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0005" x="246" y="0" width="123" height="120" frameX="0" frameY="-4" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0006" x="369" y="0" width="123" height="120" frameX="0" frameY="-2" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0007" x="369" y="0" width="123" height="120" frameX="0" frameY="-2" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0008" x="0" y="0" width="123" height="119" frameX="0" frameY="-1" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0009" x="0" y="0" width="123" height="119" frameX="0" frameY="-1" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0010" x="492" y="0" width="123" height="119" frameX="0" frameY="0" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0011" x="492" y="0" width="123" height="119" frameX="0" frameY="0" frameWidth="123" frameHeight="127"/>
+	<SubTexture name="idle0012" x="492" y="0" width="123" height="119" frameX="0" frameY="0" frameWidth="123" frameHeight="127"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" icon="icon-garsad" camx="-300" y="100" isGF="false" camy="280" color="#D44D29" isPlayer="true" flipX="true" gameOverChar="face" holdTime="1.5" sprite="garfield_infidelidad">
+	<anim x="0" loop="true" y="0" fps="24" anim="garfield infidelidoso idle" name="idle"/>
+	<anim x="113" loop="false" y="1" fps="24" anim="garfield infidelidoso left0" name="singLEFT"/>
+	<anim x="8" loop="false" y="-28" fps="24" anim="garfield infidelidoso down0" name="singDOWN"/>
+	<anim x="-8" loop="false" y="103" fps="24" anim="garfield infidelidoso up0" name="singUP"/>
+	<anim x="-40" loop="false" y="1" fps="24" anim="garfield infidelidoso right0" name="singRIGHT"/>
+	<anim x="115" loop="false" y="24" fps="24" anim="garfield infidelidoso left miss" name="singLEFTmiss"/>
+	<anim x="-5" loop="false" y="1" fps="24" anim="garfield infidelidoso down miss" name="singDOWNmiss"/>
+	<anim x="-18" loop="false" y="115" fps="24" anim="garfield infidelidoso up miss" name="singUPmiss"/>
+	<anim x="-34" loop="false" y="50" fps="24" anim="garfield infidelidoso right miss" name="singRIGHTmiss"/>
+</character>

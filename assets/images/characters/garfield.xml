@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GARFIELD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Garfield D0000" x="0" y="0" width="528" height="620" frameX="0" frameY="-40" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0001" x="528" y="0" width="528" height="620" frameX="0" frameY="-40" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0002" x="1056" y="0" width="528" height="624" frameX="0" frameY="-36" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0003" x="1056" y="0" width="528" height="624" frameX="0" frameY="-36" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0004" x="1584" y="0" width="527" height="623" frameX="-1" frameY="-37" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0005" x="1584" y="0" width="527" height="623" frameX="-1" frameY="-37" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0006" x="1056" y="0" width="528" height="624" frameX="0" frameY="-36" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0007" x="1056" y="0" width="528" height="624" frameX="0" frameY="-36" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0008" x="1584" y="0" width="527" height="623" frameX="-1" frameY="-37" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield D0009" x="1584" y="0" width="527" height="623" frameX="-1" frameY="-37" frameWidth="528" frameHeight="660"/>
+	<SubTexture name="Garfield L0000" x="2111" y="0" width="471" height="647" frameX="-21" frameY="-16" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0001" x="2111" y="0" width="471" height="647" frameX="-21" frameY="-16" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0002" x="2582" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0003" x="2582" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0004" x="3045" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0005" x="3045" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0006" x="2582" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0007" x="2582" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0008" x="3045" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield L0009" x="3045" y="0" width="463" height="644" frameX="-29" frameY="-19" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="Garfield R0000" x="3508" y="0" width="510" height="646" frameX="-7" frameY="-19" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0001" x="3508" y="0" width="510" height="646" frameX="-7" frameY="-19" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0002" x="0" y="647" width="507" height="645" frameX="-6" frameY="-20" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0003" x="0" y="647" width="507" height="645" frameX="-6" frameY="-20" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0004" x="507" y="647" width="507" height="643" frameX="-6" frameY="-21" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0005" x="507" y="647" width="507" height="643" frameX="-6" frameY="-21" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0006" x="0" y="647" width="507" height="645" frameX="-6" frameY="-20" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0007" x="0" y="647" width="507" height="645" frameX="-6" frameY="-20" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0008" x="507" y="647" width="507" height="643" frameX="-6" frameY="-21" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield R0009" x="507" y="647" width="507" height="643" frameX="-6" frameY="-21" frameWidth="517" frameHeight="672"/>
+	<SubTexture name="Garfield Up0000" x="1014" y="647" width="423" height="664" frameX="-60" frameY="0" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0001" x="1014" y="647" width="423" height="664" frameX="-60" frameY="0" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0002" x="1437" y="647" width="421" height="660" frameX="-61" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0003" x="1437" y="647" width="421" height="660" frameX="-61" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0004" x="1858" y="647" width="422" height="660" frameX="-60" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0005" x="1858" y="647" width="422" height="660" frameX="-60" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0006" x="1437" y="647" width="421" height="660" frameX="-61" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0007" x="1437" y="647" width="421" height="660" frameX="-61" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0008" x="1858" y="647" width="422" height="660" frameX="-60" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield Up0009" x="1858" y="647" width="422" height="660" frameX="-60" frameY="-4" frameWidth="534" frameHeight="672"/>
+	<SubTexture name="Garfield idle0000" x="2280" y="647" width="495" height="639" frameX="-35" frameY="-21" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0001" x="2280" y="647" width="495" height="639" frameX="-35" frameY="-21" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0002" x="2775" y="647" width="489" height="641" frameX="-39" frameY="-18" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0003" x="2775" y="647" width="489" height="641" frameX="-39" frameY="-18" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0004" x="3264" y="647" width="482" height="644" frameX="-40" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0005" x="3264" y="647" width="482" height="644" frameX="-40" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0006" x="0" y="1311" width="477" height="644" frameX="-43" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0007" x="0" y="1311" width="477" height="644" frameX="-43" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0008" x="477" y="1311" width="478" height="643" frameX="-42" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0009" x="477" y="1311" width="478" height="643" frameX="-42" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0010" x="955" y="1311" width="476" height="644" frameX="-43" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0011" x="955" y="1311" width="476" height="644" frameX="-43" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0012" x="1431" y="1311" width="478" height="643" frameX="-42" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0013" x="1431" y="1311" width="478" height="643" frameX="-42" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0014" x="955" y="1311" width="476" height="644" frameX="-43" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0015" x="955" y="1311" width="476" height="644" frameX="-43" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="Garfield idle0016" x="1431" y="1311" width="478" height="643" frameX="-42" frameY="-16" frameWidth="530" frameHeight="667"/>
+	<SubTexture name="te veo0000" x="1909" y="1311" width="484" height="645"/>
+	<SubTexture name="te veo0001" x="1909" y="1311" width="484" height="645"/>
+	<SubTexture name="te veo0002" x="2393" y="1311" width="484" height="644" frameX="0" frameY="-1" frameWidth="484" frameHeight="645"/>
+	<SubTexture name="te veo0003" x="2393" y="1311" width="484" height="644" frameX="0" frameY="-1" frameWidth="484" frameHeight="645"/>
+	<SubTexture name="transicion0000" x="2877" y="1311" width="468" height="643" frameX="-32" frameY="-22" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0001" x="2877" y="1311" width="468" height="643" frameX="-32" frameY="-22" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0002" x="3345" y="1311" width="465" height="645" frameX="-31" frameY="-20" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0003" x="0" y="1956" width="465" height="644" frameX="-31" frameY="-21" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0004" x="465" y="1956" width="473" height="645" frameX="-32" frameY="-20" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0005" x="938" y="1956" width="486" height="643" frameX="-35" frameY="-22" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0006" x="1424" y="1956" width="485" height="643" frameX="-35" frameY="-22" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0007" x="1909" y="1956" width="484" height="644" frameX="-34" frameY="-21" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0008" x="2393" y="1956" width="484" height="644" frameX="-34" frameY="-21" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0009" x="2393" y="1956" width="484" height="644" frameX="-34" frameY="-21" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0010" x="1909" y="1956" width="484" height="644" frameX="-34" frameY="-21" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0011" x="1909" y="1956" width="484" height="644" frameX="-34" frameY="-21" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0012" x="2393" y="1956" width="484" height="644" frameX="-34" frameY="-21" frameWidth="523" frameHeight="672"/>
+	<SubTexture name="transicion0013" x="2393" y="1956" width="484" height="644" frameX="-34" frameY="-21" frameWidth="523" frameHeight="672"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Luna_icons.png">
+<SubTexture name="idle0000" x="0" y="0" width="131" height="147" frameX="-28" frameY="-2" frameWidth="190" frameHeight="150" />
+<SubTexture name="idle0001" x="131" y="0" width="131" height="146" frameX="-28" frameY="-3" frameWidth="190" frameHeight="150" />
+<SubTexture name="losing0000" x="108" y="147" width="107" height="94" frameX="-42" frameY="-35" frameWidth="190" frameHeight="150" />
+<SubTexture name="losing0001" x="0" y="147" width="108" height="96" frameX="-41" frameY="-34" frameWidth="190" frameHeight="150" />
+</TextureAtlas>

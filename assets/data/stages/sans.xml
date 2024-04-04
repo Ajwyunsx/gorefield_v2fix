@@ -1,0 +1,25 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="sans" folder="stages/patella/" opponentZoom="0.6" playerZoom="0.65" gfZoom="1.1" noteSkin="sans" splashSkin="default" healthBarColor="gray">
+	<countdown>
+		<three sound="sansfield/3"/>
+		<two sprite="game/ready's/patella/Ready" sound="sansfield/2"/>
+		<one sprite="game/ready's/patella/Set" sound="sansfield/1"/>
+		<go sprite="game/ready's/patella/Monday" sound="sansfield/Blast"/>
+	</countdown>
+	<opponent x="440" y="-520" camxoffset="186" camyoffset="0"/>
+	<player x="830" y="-130" camxoffset="-70" camyoffset="-60"/>
+	<gf x="100" y="140" camxoffset="180" camyoffset="-100" scroll="1"/>
+	<sprite name="sansFieldHUD" x="0" y="0" sprite="marco_UNDERTALE_1" antialiasing="true" scrollx="1" scrolly="1" scale="1"/>
+	<sprite name="sansFieldBones" x="70" y="-900" sprite="bones" antialiasing="true" scrollx="1" scrolly="1">
+		<anim name="idle" anim="bones" loop="true"/>
+	</sprite>
+	<solid name="white" x="-1000" y="-1000" width="3000" height="3000" scrollx="0" scrolly="0" color="0xFFFFFF">
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+	</solid>
+	<sprite name="overlay" x="0" y="0" sprite="pure_vignette" antialiasing="true" scrollx="0" scrolly="0" scale="1">
+		<property name="zoomFactor" type="float" value="0"/>
+		<property name="active" type="bool" value="false" />
+		<property name="visible" type="bool" value="false" />
+	</sprite>
+</stage>

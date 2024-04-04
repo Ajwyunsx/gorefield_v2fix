@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jon loco.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jon down0000" x="0" y="0" width="443" height="582" frameX="0" frameY="-17" frameWidth="443" frameHeight="599"/>
+	<SubTexture name="jon down0001" x="0" y="0" width="443" height="582" frameX="0" frameY="-17" frameWidth="443" frameHeight="599"/>
+	<SubTexture name="jon down0002" x="443" y="0" width="443" height="596" frameX="0" frameY="-3" frameWidth="443" frameHeight="599"/>
+	<SubTexture name="jon down0003" x="443" y="0" width="443" height="596" frameX="0" frameY="-3" frameWidth="443" frameHeight="599"/>
+	<SubTexture name="jon down0004" x="886" y="0" width="443" height="599"/>
+	<SubTexture name="jon down0005" x="886" y="0" width="443" height="599"/>
+	<SubTexture name="jon down0006" x="886" y="0" width="443" height="599"/>
+	<SubTexture name="jon down0007" x="886" y="0" width="443" height="599"/>
+	<SubTexture name="jon down0008" x="886" y="0" width="443" height="599"/>
+	<SubTexture name="jon idle0000" x="1329" y="0" width="324" height="808" frameX="0" frameY="-7" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0001" x="1329" y="0" width="324" height="808" frameX="0" frameY="-7" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0002" x="1653" y="0" width="320" height="801" frameX="-4" frameY="-14" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0003" x="1653" y="0" width="320" height="801" frameX="-4" frameY="-14" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0004" x="1973" y="0" width="317" height="800" frameX="-7" frameY="-15" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0005" x="1973" y="0" width="317" height="800" frameX="-7" frameY="-15" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0006" x="2290" y="0" width="316" height="805" frameX="-8" frameY="-10" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0007" x="2290" y="0" width="316" height="805" frameX="-8" frameY="-10" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0008" x="2606" y="0" width="316" height="812" frameX="-8" frameY="-3" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0009" x="2606" y="0" width="316" height="812" frameX="-8" frameY="-3" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0010" x="2922" y="0" width="316" height="815" frameX="-8" frameY="0" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0011" x="2922" y="0" width="316" height="815" frameX="-8" frameY="0" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon idle0012" x="2922" y="0" width="316" height="815" frameX="-8" frameY="0" frameWidth="324" frameHeight="815"/>
+	<SubTexture name="jon left0000" x="3238" y="0" width="439" height="780" frameX="0" frameY="-9" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0001" x="3238" y="0" width="439" height="780" frameX="0" frameY="-9" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0002" x="0" y="815" width="442" height="787" frameX="0" frameY="-2" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0003" x="0" y="815" width="442" height="787" frameX="0" frameY="-2" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0004" x="442" y="815" width="443" height="789" frameX="-1" frameY="0" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0005" x="442" y="815" width="443" height="789" frameX="-1" frameY="0" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0006" x="442" y="815" width="443" height="789" frameX="-1" frameY="0" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0007" x="442" y="815" width="443" height="789" frameX="-1" frameY="0" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon left0008" x="442" y="815" width="443" height="789" frameX="-1" frameY="0" frameWidth="444" frameHeight="789"/>
+	<SubTexture name="jon right0000" x="885" y="815" width="341" height="818" frameX="-1" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0001" x="885" y="815" width="341" height="818" frameX="-1" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0002" x="1226" y="815" width="327" height="818" frameX="0" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0003" x="1226" y="815" width="327" height="818" frameX="0" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0004" x="1553" y="815" width="326" height="818" frameX="0" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0005" x="1553" y="815" width="326" height="818" frameX="0" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0006" x="1553" y="815" width="326" height="818" frameX="0" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0007" x="1553" y="815" width="326" height="818" frameX="0" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon right0008" x="1553" y="815" width="326" height="818" frameX="0" frameY="0" frameWidth="342" frameHeight="818"/>
+	<SubTexture name="jon up0000" x="1879" y="815" width="406" height="856"/>
+	<SubTexture name="jon up0001" x="1879" y="815" width="406" height="856"/>
+	<SubTexture name="jon up0002" x="2285" y="815" width="404" height="846" frameX="-2" frameY="-10" frameWidth="406" frameHeight="856"/>
+	<SubTexture name="jon up0003" x="2285" y="815" width="404" height="846" frameX="-2" frameY="-10" frameWidth="406" frameHeight="856"/>
+	<SubTexture name="jon up0004" x="2689" y="815" width="403" height="843" frameX="-3" frameY="-13" frameWidth="406" frameHeight="856"/>
+	<SubTexture name="jon up0005" x="2689" y="815" width="403" height="843" frameX="-3" frameY="-13" frameWidth="406" frameHeight="856"/>
+	<SubTexture name="jon up0006" x="2689" y="815" width="403" height="843" frameX="-3" frameY="-13" frameWidth="406" frameHeight="856"/>
+	<SubTexture name="jon up0007" x="2689" y="815" width="403" height="843" frameX="-3" frameY="-13" frameWidth="406" frameHeight="856"/>
+	<SubTexture name="jon up0008" x="2689" y="815" width="403" height="843" frameX="-3" frameY="-13" frameWidth="406" frameHeight="856"/>
+</TextureAtlas>

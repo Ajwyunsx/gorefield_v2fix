@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garfield_acepta_su_destino.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garfield acepta su destino down0000" x="0" y="0" width="560" height="722" frameX="-6" frameY="-169" frameWidth="566" frameHeight="925"/>
+	<SubTexture name="garfield acepta su destino down0001" x="0" y="0" width="560" height="722" frameX="-6" frameY="-169" frameWidth="566" frameHeight="925"/>
+	<SubTexture name="garfield acepta su destino down0002" x="560" y="0" width="566" height="877" frameX="0" frameY="-6" frameWidth="566" frameHeight="925"/>
+	<SubTexture name="garfield acepta su destino down0003" x="560" y="0" width="566" height="877" frameX="0" frameY="-6" frameWidth="566" frameHeight="925"/>
+	<SubTexture name="garfield acepta su destino down0004" x="1126" y="0" width="544" height="925" frameX="-12" frameY="0" frameWidth="566" frameHeight="925"/>
+	<SubTexture name="garfield acepta su destino down miss0000" x="1670" y="0" width="560" height="721" frameX="0" frameY="-20" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0001" x="1670" y="0" width="560" height="721" frameX="0" frameY="-20" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0002" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0003" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0004" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0005" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0006" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0007" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0008" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino down miss0009" x="1670" y="0" width="560" height="721" frameX="0" frameY="0" frameWidth="560" frameHeight="741"/>
+	<SubTexture name="garfield acepta su destino idle0000" x="2230" y="0" width="941" height="832" frameX="-4" frameY="-98" frameWidth="947" frameHeight="933"/>
+	<SubTexture name="garfield acepta su destino idle0001" x="2230" y="0" width="941" height="832" frameX="-4" frameY="-98" frameWidth="947" frameHeight="933"/>
+	<SubTexture name="garfield acepta su destino idle0002" x="3171" y="0" width="942" height="933" frameX="-3" frameY="0" frameWidth="947" frameHeight="933"/>
+	<SubTexture name="garfield acepta su destino idle0003" x="3171" y="0" width="942" height="933" frameX="-3" frameY="0" frameWidth="947" frameHeight="933"/>
+	<SubTexture name="garfield acepta su destino idle0004" x="4113" y="0" width="947" height="923" frameX="0" frameY="-3" frameWidth="947" frameHeight="933"/>
+	<SubTexture name="garfield acepta su destino idle0005" x="4113" y="0" width="947" height="923" frameX="0" frameY="-3" frameWidth="947" frameHeight="933"/>
+	<SubTexture name="garfield acepta su destino left0000" x="5060" y="0" width="918" height="926" frameX="-24" frameY="-18" frameWidth="942" frameHeight="949"/>
+	<SubTexture name="garfield acepta su destino left0001" x="5060" y="0" width="918" height="926" frameX="-24" frameY="-18" frameWidth="942" frameHeight="949"/>
+	<SubTexture name="garfield acepta su destino left0002" x="5978" y="0" width="903" height="936" frameX="-17" frameY="-13" frameWidth="942" frameHeight="949"/>
+	<SubTexture name="garfield acepta su destino left0003" x="5978" y="0" width="903" height="936" frameX="-17" frameY="-13" frameWidth="942" frameHeight="949"/>
+	<SubTexture name="garfield acepta su destino left0004" x="6881" y="0" width="899" height="915" frameX="0" frameY="0" frameWidth="942" frameHeight="949"/>
+	<SubTexture name="garfield acepta su destino left miss0000" x="0" y="936" width="918" height="925" frameX="0" frameY="-9" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0001" x="0" y="936" width="918" height="925" frameX="0" frameY="-9" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0002" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0003" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0004" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0005" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0006" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0007" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0008" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino left miss0009" x="918" y="936" width="918" height="926" frameX="-26" frameY="0" frameWidth="944" frameHeight="934"/>
+	<SubTexture name="garfield acepta su destino right0000" x="1836" y="936" width="720" height="836" frameX="-15" frameY="-58" frameWidth="735" frameHeight="912"/>
+	<SubTexture name="garfield acepta su destino right0001" x="1836" y="936" width="720" height="836" frameX="-15" frameY="-58" frameWidth="735" frameHeight="912"/>
+	<SubTexture name="garfield acepta su destino right0002" x="2556" y="936" width="706" height="898" frameX="-26" frameY="-6" frameWidth="735" frameHeight="912"/>
+	<SubTexture name="garfield acepta su destino right0003" x="2556" y="936" width="706" height="898" frameX="-26" frameY="-6" frameWidth="735" frameHeight="912"/>
+	<SubTexture name="garfield acepta su destino right0004" x="3262" y="936" width="720" height="912" frameX="0" frameY="0" frameWidth="735" frameHeight="912"/>
+	<SubTexture name="garfield acepta su destino right miss0000" x="3982" y="936" width="718" height="839" frameX="-20" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0001" x="3982" y="936" width="718" height="839" frameX="-20" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0002" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0003" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0004" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0005" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0006" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0007" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0008" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino right miss0009" x="4700" y="936" width="720" height="836" frameX="0" frameY="0" frameWidth="738" frameHeight="839"/>
+	<SubTexture name="garfield acepta su destino up0000" x="5420" y="936" width="507" height="854" frameX="-66" frameY="-45" frameWidth="639" frameHeight="899"/>
+	<SubTexture name="garfield acepta su destino up0001" x="5420" y="936" width="507" height="854" frameX="-66" frameY="-45" frameWidth="639" frameHeight="899"/>
+	<SubTexture name="garfield acepta su destino up0002" x="5927" y="936" width="549" height="881" frameX="-54" frameY="-12" frameWidth="639" frameHeight="899"/>
+	<SubTexture name="garfield acepta su destino up0003" x="5927" y="936" width="549" height="881" frameX="-54" frameY="-12" frameWidth="639" frameHeight="899"/>
+	<SubTexture name="garfield acepta su destino up0004" x="6476" y="936" width="639" height="876" frameX="0" frameY="0" frameWidth="639" frameHeight="899"/>
+	<SubTexture name="garfield acepta su destino up miss0000" x="7115" y="936" width="507" height="854" frameX="0" frameY="0" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0001" x="7115" y="936" width="507" height="854" frameX="0" frameY="0" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0002" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0003" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0004" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0005" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0006" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0007" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0008" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+	<SubTexture name="garfield acepta su destino up miss0009" x="7622" y="936" width="507" height="854" frameX="0" frameY="-27" frameWidth="507" frameHeight="881"/>
+</TextureAtlas>

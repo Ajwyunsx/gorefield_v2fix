@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ALO.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aro0000" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0001" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0002" x="1020" y="5" width="1016" height="1808" frameX="-1" frameY="-2" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0003" x="1020" y="5" width="1016" height="1808" frameX="-1" frameY="-2" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0004" x="2041" y="5" width="1066" height="1798" frameX="0" frameY="-7" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0005" x="2041" y="5" width="1066" height="1798" frameX="0" frameY="-7" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0006" x="3112" y="5" width="1246" height="1756" frameX="-34" frameY="-65" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0007" x="3112" y="5" width="1246" height="1756" frameX="-34" frameY="-65" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0008" x="4363" y="5" width="1226" height="1759" frameX="-26" frameY="-54" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0009" x="4363" y="5" width="1226" height="1759" frameX="-26" frameY="-54" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0010" x="5594" y="5" width="1225" height="1760" frameX="-25" frameY="-53" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0011" x="5594" y="5" width="1225" height="1760" frameX="-25" frameY="-53" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0012" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0013" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0014" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0015" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0016" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0017" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0018" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0019" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0020" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0021" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0022" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0023" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0024" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0025" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0026" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0027" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0028" x="6824" y="5" width="1221" height="1760" frameX="-24" frameY="-51" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0029" x="5" y="1819" width="1217" height="1760" frameX="-22" frameY="-49" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0030" x="5" y="1819" width="1217" height="1760" frameX="-22" frameY="-49" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0031" x="1227" y="1819" width="1201" height="1760" frameX="-17" frameY="-42" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0032" x="1227" y="1819" width="1201" height="1760" frameX="-17" frameY="-42" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0033" x="2433" y="1819" width="1048" height="1802" frameX="0" frameY="-5" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0034" x="2433" y="1819" width="1048" height="1802" frameX="0" frameY="-5" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0035" x="3486" y="1819" width="1021" height="1811" frameX="-1" frameY="0" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0036" x="3486" y="1819" width="1021" height="1811" frameX="-1" frameY="0" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0037" x="4512" y="1819" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0038" x="4512" y="1819" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0039" x="5527" y="1819" width="1021" height="1807" frameX="0" frameY="-2" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0040" x="5527" y="1819" width="1021" height="1807" frameX="0" frameY="-2" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0041" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0042" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0043" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0044" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0045" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0046" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0047" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0048" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0049" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0050" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0051" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0052" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0053" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0054" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0055" x="5" y="5" width="1010" height="1809" frameX="-1" frameY="-1" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0056" x="6553" y="1819" width="1016" height="1811" frameX="-1" frameY="0" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0057" x="6553" y="1819" width="1016" height="1811" frameX="-1" frameY="0" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0058" x="5" y="3635" width="1020" height="1811" frameX="-1" frameY="0" frameWidth="1280" frameHeight="1821"/>
+	<SubTexture name="aro0059" x="5" y="3635" width="1020" height="1811" frameX="-1" frameY="0" frameWidth="1280" frameHeight="1821"/>
+</TextureAtlas>

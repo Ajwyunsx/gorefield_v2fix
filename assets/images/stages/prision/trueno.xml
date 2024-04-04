@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trueno.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="truenito0000" x="0" y="0" width="440" height="1225"/>
+	<SubTexture name="truenito0001" x="0" y="0" width="440" height="1225"/>
+	<SubTexture name="truenito0002" x="440" y="0" width="402" height="1139" frameX="-11" frameY="-58" frameWidth="440" frameHeight="1225"/>
+	<SubTexture name="truenito0003" x="440" y="0" width="402" height="1139" frameX="-11" frameY="-58" frameWidth="440" frameHeight="1225"/>
+	<SubTexture name="truenito0004" x="842" y="0" width="425" height="1223" frameX="-10" frameY="0" frameWidth="440" frameHeight="1225"/>
+	<SubTexture name="truenito0005" x="842" y="0" width="425" height="1223" frameX="-10" frameY="0" frameWidth="440" frameHeight="1225"/>
+</TextureAtlas>

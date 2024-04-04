@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JIPPI.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GARFIELD JIPI0000" x="5" y="5" width="316" height="570" frameX="0" frameY="-17" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0001" x="5" y="5" width="316" height="570" frameX="0" frameY="-17" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0002" x="326" y="5" width="316" height="566" frameX="0" frameY="-26" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0003" x="326" y="5" width="316" height="566" frameX="0" frameY="-26" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0004" x="647" y="5" width="316" height="581" frameX="0" frameY="-5" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0005" x="647" y="5" width="316" height="581" frameX="0" frameY="-5" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0006" x="968" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0007" x="968" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0008" x="1289" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0009" x="1289" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0010" x="1610" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0011" x="1610" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0012" x="1610" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0013" x="1610" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0014" x="1610" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0015" x="1610" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI0016" x="1610" y="5" width="316" height="585" frameX="0" frameY="0" frameWidth="316" frameHeight="592"/>
+	<SubTexture name="GARFIELD JIPI DOWN0000" x="5" y="595" width="329" height="493" frameX="0" frameY="-13" frameWidth="329" frameHeight="512"/>
+	<SubTexture name="GARFIELD JIPI DOWN0001" x="5" y="595" width="329" height="493" frameX="0" frameY="-13" frameWidth="329" frameHeight="512"/>
+	<SubTexture name="GARFIELD JIPI DOWN0002" x="339" y="595" width="329" height="512"/>
+	<SubTexture name="GARFIELD JIPI DOWN0003" x="339" y="595" width="329" height="512"/>
+	<SubTexture name="GARFIELD JIPI LEFT0000" x="673" y="595" width="347" height="587" frameX="0" frameY="0" frameWidth="354" frameHeight="587"/>
+	<SubTexture name="GARFIELD JIPI LEFT0001" x="673" y="595" width="347" height="587" frameX="0" frameY="0" frameWidth="354" frameHeight="587"/>
+	<SubTexture name="GARFIELD JIPI LEFT0002" x="1025" y="595" width="345" height="584" frameX="-9" frameY="-3" frameWidth="354" frameHeight="587"/>
+	<SubTexture name="GARFIELD JIPI LEFT0003" x="1025" y="595" width="345" height="584" frameX="-9" frameY="-3" frameWidth="354" frameHeight="587"/>
+	<SubTexture name="GARFIELD JIPI RIGHT0000" x="1375" y="595" width="362" height="586" frameX="-39" frameY="-7" frameWidth="401" frameHeight="599"/>
+	<SubTexture name="GARFIELD JIPI RIGHT0001" x="1375" y="595" width="362" height="586" frameX="-39" frameY="-7" frameWidth="401" frameHeight="599"/>
+	<SubTexture name="GARFIELD JIPI RIGHT0002" x="5" y="1187" width="362" height="599" frameX="0" frameY="0" frameWidth="401" frameHeight="599"/>
+	<SubTexture name="GARFIELD JIPI RIGHT0003" x="5" y="1187" width="362" height="599" frameX="0" frameY="0" frameWidth="401" frameHeight="599"/>
+	<SubTexture name="GARFIELD JIPI UP0000" x="372" y="1187" width="316" height="629"/>
+	<SubTexture name="GARFIELD JIPI UP0001" x="372" y="1187" width="316" height="629"/>
+	<SubTexture name="GARFIELD JIPI UP0002" x="693" y="1187" width="316" height="617" frameX="0" frameY="-6" frameWidth="316" frameHeight="629"/>
+	<SubTexture name="GARFIELD JIPI UP0003" x="693" y="1187" width="316" height="617" frameX="0" frameY="-6" frameWidth="316" frameHeight="629"/>
+</TextureAtlas>

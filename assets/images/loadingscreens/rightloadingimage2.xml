@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rightloadingimage2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GOREFIELD0000" x="0" y="0" width="977" height="1178" frameX="0" frameY="0" frameWidth="977" frameHeight="1179"/>
+	<SubTexture name="GOREFIELD0001" x="0" y="0" width="977" height="1178" frameX="0" frameY="0" frameWidth="977" frameHeight="1179"/>
+	<SubTexture name="GOREFIELD0002" x="977" y="0" width="974" height="1177" frameX="-2" frameY="-2" frameWidth="977" frameHeight="1179"/>
+	<SubTexture name="GOREFIELD0003" x="977" y="0" width="974" height="1177" frameX="-2" frameY="-2" frameWidth="977" frameHeight="1179"/>
+	<SubTexture name="GOREFIELD0004" x="1951" y="0" width="976" height="1177" frameX="0" frameY="-1" frameWidth="977" frameHeight="1179"/>
+	<SubTexture name="GOREFIELD0005" x="1951" y="0" width="976" height="1177" frameX="0" frameY="-1" frameWidth="977" frameHeight="1179"/>
+</TextureAtlas>

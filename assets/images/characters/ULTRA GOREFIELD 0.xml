@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ULTRA GOREFIELD 0.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ULTRA G DOWN0000" x="5" y="5" width="813" height="648" frameX="-41" frameY="-257" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0001" x="5" y="5" width="813" height="648" frameX="-41" frameY="-257" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0002" x="823" y="5" width="821" height="638" frameX="-39" frameY="-267" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0003" x="823" y="5" width="821" height="638" frameX="-39" frameY="-267" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0004" x="1649" y="5" width="811" height="651" frameX="-53" frameY="-254" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0005" x="1649" y="5" width="811" height="651" frameX="-53" frameY="-254" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0006" x="2465" y="5" width="800" height="721" frameX="-53" frameY="-184" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0007" x="2465" y="5" width="800" height="721" frameX="-53" frameY="-184" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G DOWN0008" x="3270" y="5" width="856" height="908" frameX="0" frameY="0" frameWidth="864" frameHeight="908"/>
+	<SubTexture name="ULTRA G IDLE0000" x="4131" y="5" width="835" height="943" frameX="-3" frameY="-1" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0001" x="4131" y="5" width="835" height="943" frameX="-3" frameY="-1" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0002" x="4971" y="5" width="848" height="944" frameX="0" frameY="0" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0003" x="4971" y="5" width="848" height="944" frameX="0" frameY="0" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0004" x="5824" y="5" width="849" height="931" frameX="-2" frameY="-13" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0005" x="5824" y="5" width="849" height="931" frameX="-2" frameY="-13" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0006" x="6678" y="5" width="837" height="930" frameX="-2" frameY="-14" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0007" x="6678" y="5" width="837" height="930" frameX="-2" frameY="-14" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0008" x="5" y="954" width="831" height="932" frameX="-3" frameY="-12" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0009" x="5" y="954" width="831" height="932" frameX="-3" frameY="-12" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0010" x="841" y="954" width="830" height="939" frameX="-3" frameY="-6" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0011" x="841" y="954" width="830" height="939" frameX="-3" frameY="-6" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0012" x="1676" y="954" width="829" height="940" frameX="-3" frameY="-5" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0013" x="1676" y="954" width="829" height="940" frameX="-3" frameY="-5" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0014" x="1676" y="954" width="829" height="940" frameX="-3" frameY="-5" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0015" x="1676" y="954" width="829" height="940" frameX="-3" frameY="-5" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0016" x="1676" y="954" width="829" height="940" frameX="-3" frameY="-5" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0017" x="1676" y="954" width="829" height="940" frameX="-3" frameY="-5" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G IDLE0018" x="1676" y="954" width="829" height="940" frameX="-3" frameY="-5" frameWidth="851" frameHeight="945"/>
+	<SubTexture name="ULTRA G LEFT0000" x="2510" y="954" width="764" height="899" frameX="-8" frameY="-56" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0001" x="2510" y="954" width="764" height="899" frameX="-8" frameY="-56" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0002" x="3279" y="954" width="768" height="899" frameX="-1" frameY="-56" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0003" x="3279" y="954" width="768" height="899" frameX="-1" frameY="-56" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0004" x="4052" y="954" width="760" height="921" frameX="-1" frameY="-34" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0005" x="4052" y="954" width="760" height="921" frameX="-1" frameY="-34" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0006" x="4817" y="954" width="706" height="925" frameX="-95" frameY="-41" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0007" x="4817" y="954" width="706" height="925" frameX="-95" frameY="-41" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G LEFT0008" x="5528" y="954" width="835" height="965" frameX="0" frameY="0" frameWidth="835" frameHeight="966"/>
+	<SubTexture name="ULTRA G RIGHT0000" x="6368" y="954" width="809" height="925" frameX="-129" frameY="-55" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0001" x="6368" y="954" width="809" height="925" frameX="-129" frameY="-55" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0002" x="7182" y="954" width="814" height="925" frameX="-130" frameY="-55" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0003" x="7182" y="954" width="814" height="925" frameX="-130" frameY="-55" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0004" x="5" y="1924" width="807" height="932" frameX="-131" frameY="-48" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0005" x="5" y="1924" width="807" height="932" frameX="-131" frameY="-48" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0006" x="817" y="1924" width="760" height="927" frameX="-113" frameY="-53" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0007" x="817" y="1924" width="760" height="927" frameX="-113" frameY="-53" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G RIGHT0008" x="1582" y="1924" width="866" height="990" frameX="0" frameY="0" frameWidth="944" frameHeight="990"/>
+	<SubTexture name="ULTRA G UP0000" x="2453" y="1924" width="665" height="1066" frameX="-47" frameY="-10" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0001" x="2453" y="1924" width="665" height="1066" frameX="-47" frameY="-10" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0002" x="3123" y="1924" width="658" height="1076" frameX="-55" frameY="0" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0003" x="3123" y="1924" width="658" height="1076" frameX="-55" frameY="0" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0004" x="3786" y="1924" width="680" height="1072" frameX="-55" frameY="-4" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0005" x="3786" y="1924" width="680" height="1072" frameX="-55" frameY="-4" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0006" x="4471" y="1924" width="687" height="989" frameX="-35" frameY="-87" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0007" x="4471" y="1924" width="687" height="989" frameX="-35" frameY="-87" frameWidth="824" frameHeight="1076"/>
+	<SubTexture name="ULTRA G UP0008" x="5163" y="1924" width="824" height="1002" frameX="0" frameY="-68" frameWidth="824" frameHeight="1076"/>
+</TextureAtlas>

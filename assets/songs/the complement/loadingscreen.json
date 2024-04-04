@@ -1,0 +1,7 @@
+{
+    "loadingbg": "pantalla_azul_ultra_G_11",
+    "loadingimage": "pantallas_de_carga",
+    "loadinganim": "ULTRA",
+    "loadingpos": [590, 30],
+    "bgOffset": [10, -10]
+}

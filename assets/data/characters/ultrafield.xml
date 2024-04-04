@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="0" y="0" icon="icon-sansfield2" flipX="false" iconoffsetx="-8" iconoffsety="-18" isPlayer="null" camx="-130" camy="50" holdTime="4.00000000000001" scale="1" color="#D3E1FF">
+	<anim name="idle" anim="ULTRA SANSFIELD IDLE" fps="24" loop="false" x="0" y="0"/>
+	<anim name="singLEFT" anim="ULTRA SANSFIELD LEFT" fps="24" loop="false" x="2" y="16"/>
+	<anim name="singDOWN" anim="ULTRA SANSFIELD DOWN" fps="24" loop="false" x="-1" y="-58"/>
+	<anim name="singUP" anim="ULTRASANSFIELD UP" fps="24" loop="false" x="-10" y="110"/>
+	<anim name="singRIGHT" anim="ULTRA SANSFIELD RIGHT" fps="24" loop="false" x="20" y="24"/>
+</character>

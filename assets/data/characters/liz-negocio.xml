@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-745" icon="face" camx="-70" y="-125" isGF="false" scale="0.9" color="#D44D29" isPlayer="false" holdTime="1.5" sprite="liz_negocia">
+	<anim x="0" loop="true" y="0" fps="24" anim="liz negocia idle0" name="idle"/>
+	<anim x="33" loop="false" y="3" fps="24" anim="liz negocia left" name="singLEFT"/>
+	<anim x="-21" loop="false" y="-17" fps="24" anim="liz negocia down" name="singDOWN"/>
+	<anim x="9" loop="false" y="26" fps="24" anim="liz negocia up" name="singUP"/>
+	<anim x="-22" loop="false" y="-12" fps="24" anim="liz negocia right" name="singRIGHT"/>
+</character>

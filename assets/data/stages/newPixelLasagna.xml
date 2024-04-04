@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="newPixelLasagna" folder="stages/newPixelLasagna/" noteSkin="pixel_green" splashSkin="gorefield_green-pixel" healthBarColor="pixel">
+	<countdown>
+		<three sound="pixel/3-pixel"/>
+		<two sprite="game/pixel/lasagnaBoy/Ready_Green" sound="pixel/2-pixel"/>
+		<one sprite="game/pixel/lasagnaBoy/Set_Green" sound="pixel/1-pixel"/>
+		<go sprite="game/pixel/lasagnaBoy/play_green" sound="pixel/Jon-pixel"/>
+	</countdown>
+	<sprite name="floor" x="0" y="0" sprite="Lasagna_Boy_Stage_Floor" antialiasing="false" scrollx="1" scrolly="1" scale="5"/>
+	<sprite name="walls" x="0" y="0" sprite="Lasagna_Boy_Stage_Walls" antialiasing="false" scrollx="1" scrolly="1" scale="5"/>
+	<gf x="0" y="-190" camxoffset="68.5" camyoffset="-310"/>
+	<player x="170" y="-545" camxoffset="68.5" camyoffset="-310"/>
+	<opponent x="-490" y="-150" camxoffset="109.5" camyoffset="-140"/>
+    <solid name="nonblack" x="-640" y="-360" width="2560" height="1440" color="0x527F3A">
+		<property name="scrollFactor.x" type="float" value="0"/>
+		<property name="scrollFactor.y" type="float" value="0"/>
+	</solid>
+</stage>

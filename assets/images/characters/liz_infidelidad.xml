@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liz infidelidad.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="liz infidelidad down0000" x="0" y="0" width="455" height="552" frameX="-2" frameY="-14" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0001" x="0" y="0" width="455" height="552" frameX="-2" frameY="-14" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0002" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0003" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0004" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0005" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0006" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0007" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0008" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0009" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad down0010" x="455" y="0" width="447" height="559" frameX="0" frameY="0" frameWidth="457" frameHeight="566"/>
+	<SubTexture name="liz infidelidad idle0000" x="902" y="0" width="487" height="551" frameX="-3" frameY="0" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0001" x="902" y="0" width="487" height="551" frameX="-3" frameY="0" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0002" x="902" y="0" width="487" height="551" frameX="-3" frameY="0" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0003" x="1389" y="0" width="488" height="549" frameX="0" frameY="-2" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0004" x="1389" y="0" width="488" height="549" frameX="0" frameY="-2" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0005" x="1389" y="0" width="488" height="549" frameX="0" frameY="-2" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0006" x="0" y="559" width="484" height="563" frameX="-3" frameY="0" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0007" x="0" y="559" width="484" height="563" frameX="-3" frameY="0" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad idle0008" x="0" y="559" width="484" height="563" frameX="-3" frameY="0" frameWidth="490" frameHeight="563"/>
+	<SubTexture name="liz infidelidad left0000" x="484" y="559" width="562" height="564"/>
+	<SubTexture name="liz infidelidad left0001" x="484" y="559" width="562" height="564"/>
+	<SubTexture name="liz infidelidad left0002" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0003" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0004" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0005" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0006" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0007" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0008" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0009" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad left0010" x="1046" y="559" width="541" height="554" frameX="-9" frameY="-6" frameWidth="562" frameHeight="564"/>
+	<SubTexture name="liz infidelidad right0000" x="1587" y="559" width="435" height="555" frameX="-13" frameY="-5" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0001" x="1587" y="559" width="435" height="555" frameX="-13" frameY="-5" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0002" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0003" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0004" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0005" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0006" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0007" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0008" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0009" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad right0010" x="0" y="1123" width="426" height="563" frameX="0" frameY="0" frameWidth="448" frameHeight="563"/>
+	<SubTexture name="liz infidelidad up0000" x="426" y="1123" width="453" height="583" frameX="0" frameY="0" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0001" x="426" y="1123" width="453" height="583" frameX="0" frameY="0" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0002" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0003" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0004" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0005" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0006" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0007" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0008" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0009" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+	<SubTexture name="liz infidelidad up0010" x="879" y="1123" width="464" height="579" frameX="0" frameY="-12" frameWidth="464" frameHeight="591"/>
+</TextureAtlas>

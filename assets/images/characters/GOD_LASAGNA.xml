@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GOD LASAGNA.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LASAGNA GOD DOWN0000" x="5" y="5" width="405" height="295" frameX="-6" frameY="-14" frameWidth="414" frameHeight="309"/>
+	<SubTexture name="LASAGNA GOD DOWN0001" x="5" y="5" width="405" height="295" frameX="-6" frameY="-14" frameWidth="414" frameHeight="309"/>
+	<SubTexture name="LASAGNA GOD DOWN0002" x="415" y="5" width="414" height="305" frameX="0" frameY="-4" frameWidth="414" frameHeight="309"/>
+	<SubTexture name="LASAGNA GOD DOWN0003" x="415" y="5" width="414" height="305" frameX="0" frameY="-4" frameWidth="414" frameHeight="309"/>
+	<SubTexture name="LASAGNA GOD DOWN0004" x="834" y="5" width="413" height="309" frameX="0" frameY="0" frameWidth="414" frameHeight="309"/>
+	<SubTexture name="LASAGNA GOD DOWN0005" x="834" y="5" width="413" height="309" frameX="0" frameY="0" frameWidth="414" frameHeight="309"/>
+	<SubTexture name="LASAGNA GOD IDLE0000" x="1252" y="5" width="298" height="374" frameX="0" frameY="-41" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0001" x="1252" y="5" width="298" height="374" frameX="0" frameY="-41" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0002" x="1555" y="5" width="276" height="398" frameX="-8" frameY="-17" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0003" x="1555" y="5" width="276" height="398" frameX="-8" frameY="-17" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0004" x="1836" y="5" width="265" height="409" frameX="-17" frameY="-6" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0005" x="1836" y="5" width="265" height="409" frameX="-17" frameY="-6" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0006" x="2106" y="5" width="259" height="414" frameX="-22" frameY="-1" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0007" x="2106" y="5" width="259" height="414" frameX="-22" frameY="-1" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0008" x="2370" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0009" x="2370" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0010" x="2632" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0011" x="2632" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0012" x="2894" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0013" x="2894" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0014" x="2894" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD IDLE0015" x="2894" y="5" width="257" height="415" frameX="-24" frameY="0" frameWidth="298" frameHeight="415"/>
+	<SubTexture name="LASAGNA GOD LEFT0000" x="3156" y="5" width="347" height="414" frameX="0" frameY="-3" frameWidth="360" frameHeight="417"/>
+	<SubTexture name="LASAGNA GOD LEFT0001" x="3156" y="5" width="347" height="414" frameX="0" frameY="-3" frameWidth="360" frameHeight="417"/>
+	<SubTexture name="LASAGNA GOD LEFT0002" x="3508" y="5" width="337" height="416" frameX="-21" frameY="-1" frameWidth="360" frameHeight="417"/>
+	<SubTexture name="LASAGNA GOD LEFT0003" x="3508" y="5" width="337" height="416" frameX="-21" frameY="-1" frameWidth="360" frameHeight="417"/>
+	<SubTexture name="LASAGNA GOD LEFT0004" x="5" y="426" width="336" height="417" frameX="-24" frameY="0" frameWidth="360" frameHeight="417"/>
+	<SubTexture name="LASAGNA GOD LEFT0005" x="5" y="426" width="336" height="417" frameX="-24" frameY="0" frameWidth="360" frameHeight="417"/>
+	<SubTexture name="LASAGNA GOD RIGHT0000" x="346" y="426" width="259" height="441" frameX="-12" frameY="0" frameWidth="271" frameHeight="441"/>
+	<SubTexture name="LASAGNA GOD RIGHT0001" x="346" y="426" width="259" height="441" frameX="-12" frameY="0" frameWidth="271" frameHeight="441"/>
+	<SubTexture name="LASAGNA GOD RIGHT0002" x="610" y="426" width="270" height="438" frameX="-1" frameY="-3" frameWidth="271" frameHeight="441"/>
+	<SubTexture name="LASAGNA GOD RIGHT0003" x="610" y="426" width="270" height="438" frameX="-1" frameY="-3" frameWidth="271" frameHeight="441"/>
+	<SubTexture name="LASAGNA GOD RIGHT0004" x="885" y="426" width="269" height="439" frameX="0" frameY="-2" frameWidth="271" frameHeight="441"/>
+	<SubTexture name="LASAGNA GOD RIGHT0005" x="885" y="426" width="269" height="439" frameX="0" frameY="-2" frameWidth="271" frameHeight="441"/>
+	<SubTexture name="LASAGNA GOD UP0000" x="1159" y="426" width="244" height="487" frameX="-5" frameY="0" frameWidth="249" frameHeight="487"/>
+	<SubTexture name="LASAGNA GOD UP0001" x="1159" y="426" width="244" height="487" frameX="-5" frameY="0" frameWidth="249" frameHeight="487"/>
+	<SubTexture name="LASAGNA GOD UP0002" x="1408" y="426" width="242" height="476" frameX="-1" frameY="-11" frameWidth="249" frameHeight="487"/>
+	<SubTexture name="LASAGNA GOD UP0003" x="1408" y="426" width="242" height="476" frameX="-1" frameY="-11" frameWidth="249" frameHeight="487"/>
+	<SubTexture name="LASAGNA GOD UP0004" x="1655" y="426" width="241" height="475" frameX="0" frameY="-12" frameWidth="249" frameHeight="487"/>
+	<SubTexture name="LASAGNA GOD UP0005" x="1655" y="426" width="241" height="475" frameX="0" frameY="-12" frameWidth="249" frameHeight="487"/>
+	<SubTexture name="MISS DOWN0000" x="1901" y="426" width="434" height="261" frameX="0" frameY="-49" frameWidth="434" frameHeight="310"/>
+	<SubTexture name="MISS DOWN0001" x="2340" y="426" width="382" height="310" frameX="-25" frameY="0" frameWidth="434" frameHeight="310"/>
+	<SubTexture name="MISS DOWN0002" x="2340" y="426" width="382" height="310" frameX="-25" frameY="0" frameWidth="434" frameHeight="310"/>
+	<SubTexture name="MISS DOWN0003" x="2727" y="426" width="405" height="295" frameX="-14" frameY="-15" frameWidth="434" frameHeight="310"/>
+	<SubTexture name="MISS DOWN0004" x="2727" y="426" width="405" height="295" frameX="-14" frameY="-15" frameWidth="434" frameHeight="310"/>
+	<SubTexture name="MISS LEFT0000" x="3137" y="426" width="377" height="414" frameX="0" frameY="0" frameWidth="396" frameHeight="414"/>
+	<SubTexture name="MISS LEFT0001" x="3519" y="426" width="334" height="414" frameX="-62" frameY="0" frameWidth="396" frameHeight="414"/>
+	<SubTexture name="MISS LEFT0002" x="3519" y="426" width="334" height="414" frameX="-62" frameY="0" frameWidth="396" frameHeight="414"/>
+	<SubTexture name="MISS LEFT0003" x="5" y="918" width="346" height="414" frameX="-44" frameY="0" frameWidth="396" frameHeight="414"/>
+	<SubTexture name="MISS LEFT0004" x="5" y="918" width="346" height="414" frameX="-44" frameY="0" frameWidth="396" frameHeight="414"/>
+	<SubTexture name="MISS RIGHT0000" x="356" y="918" width="285" height="441" frameX="-12" frameY="0" frameWidth="297" frameHeight="441"/>
+	<SubTexture name="MISS RIGHT0001" x="646" y="918" width="255" height="441" frameX="0" frameY="0" frameWidth="297" frameHeight="441"/>
+	<SubTexture name="MISS RIGHT0002" x="646" y="918" width="255" height="441" frameX="0" frameY="0" frameWidth="297" frameHeight="441"/>
+	<SubTexture name="MISS RIGHT0003" x="906" y="918" width="260" height="441" frameX="-2" frameY="0" frameWidth="297" frameHeight="441"/>
+	<SubTexture name="MISS RIGHT0004" x="906" y="918" width="260" height="441" frameX="-2" frameY="0" frameWidth="297" frameHeight="441"/>
+	<SubTexture name="MISS UP0000" x="1171" y="918" width="217" height="514" frameX="-14" frameY="0" frameWidth="253" frameHeight="514"/>
+	<SubTexture name="MISS UP0001" x="1393" y="918" width="253" height="472" frameX="0" frameY="-42" frameWidth="253" frameHeight="514"/>
+	<SubTexture name="MISS UP0002" x="1393" y="918" width="253" height="472" frameX="0" frameY="-42" frameWidth="253" frameHeight="514"/>
+	<SubTexture name="MISS UP0003" x="1651" y="918" width="244" height="487" frameX="-5" frameY="-27" frameWidth="253" frameHeight="514"/>
+	<SubTexture name="MISS UP0004" x="1651" y="918" width="244" height="487" frameX="-5" frameY="-27" frameWidth="253" frameHeight="514"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PUNCH NOTE.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PUNCH NOTE0000" x="5" y="5" width="139" height="145"/>
+	<SubTexture name="PUNCH NOTE0001" x="5" y="5" width="139" height="145"/>
+	<SubTexture name="PUNCH NOTE0002" x="149" y="5" width="139" height="142" frameX="0" frameY="-2" frameWidth="139" frameHeight="145"/>
+	<SubTexture name="PUNCH NOTE0003" x="149" y="5" width="139" height="142" frameX="0" frameY="-2" frameWidth="139" frameHeight="145"/>
+</TextureAtlas>

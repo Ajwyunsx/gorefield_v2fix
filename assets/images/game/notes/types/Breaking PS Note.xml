@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Breaking PS Note.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="blue0001" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="blue0002" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="blue0003" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="blue0004" x="109" y="5" width="47" height="72"/>
+	<SubTexture name="blue0005" x="109" y="5" width="47" height="72"/>
+	<SubTexture name="purple0000" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="purple0001" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="purple0002" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="purple0003" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="purple0004" x="109" y="5" width="47" height="72"/>
+	<SubTexture name="purple0005" x="109" y="5" width="47" height="72"/>
+	<SubTexture name="red0000" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="red0001" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="red0002" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="red0003" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="red0004" x="109" y="5" width="47" height="72"/>
+	<SubTexture name="red0005" x="109" y="5" width="47" height="72"/>
+	<SubTexture name="green0000" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="green0001" x="5" y="5" width="47" height="72"/>
+	<SubTexture name="green0002" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="green0003" x="57" y="5" width="47" height="72"/>
+	<SubTexture name="green0004" x="109" y="5" width="47" height="72"/>
+	<SubTexture name="green0005" x="109" y="5" width="47" height="72"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GODFIELD_CARGA.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GODFIELD CARGA0000" x="5" y="5" width="1299" height="1068"/>
+	<SubTexture name="GODFIELD CARGA0001" x="1309" y="5" width="1299" height="1068"/>
+	<SubTexture name="GODFIELD CARGA0002" x="2613" y="5" width="1299" height="1068"/>
+	<SubTexture name="GODFIELD CARGA0003" x="2613" y="5" width="1299" height="1068"/>
+	<SubTexture name="GODFIELD CARGA0004" x="5" y="1078" width="1299" height="1068"/>
+	<SubTexture name="GODFIELD CARGA0005" x="5" y="1078" width="1299" height="1068"/>
+</TextureAtlas>

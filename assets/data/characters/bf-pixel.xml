@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="icon-bf-pixel" camx="-260" y="350" isGF="false" iconoffsetx="15" iconoffsety="-16" scale="0.4" camy="270" color="#346756" flipX="true" isPlayer="true" antialiasing="false" gameOverChar="bf-pixel-dead-lasagna" sprite="bf-pixel">
+	<anim x="-12.5" loop="false" y="0" fps="24" anim="BF IDLE" name="idle"/>
+	<anim x="-126" loop="false" y="-37.5" fps="24" anim="BF RIGHT" name="singRIGHT"/>
+	<anim x="-16.5" loop="false" y="-121.5" fps="24" anim="BF DOWN" name="singDOWN"/>
+	<anim x="-150" loop="false" y="35" fps="24" anim="BF UP" name="singUP"/>
+	<anim x="47" loop="false" y="-11" fps="24" anim="BF LEFT" name="singLEFT"/>
+	<anim x="-4" loop="false" y="-9" fps="24" anim="BF MISS RIGHT" name="singRIGHTmiss"/>
+	<anim x="-16" loop="false" y="-120" fps="24" anim="BF MISS DOWN" name="singDOWNmiss"/>
+	<anim x="-147.5" loop="false" y="32.5" fps="24" anim="BF MISS UP" name="singUPmiss"/>
+	<anim x="-100.5" loop="false" y="-37" fps="24" anim="BF MISS LEFT" name="singLEFTmiss"/>
+	<anim x="0" loop="false" y="187.5" fps="24" anim="BF DEATH0" name="firstDeath"/>
+	<anim x="-32.5" loop="true" y="57.5" fps="24" anim="BF DEATH LOOP" name="deathLoop"/>
+	<anim x="2.5" loop="false" y="137.5" fps="24" anim="BF RETRY CONFIRM" indices="2,3,4,5,6,7,8,9,10,11,12,13,14" name="deathConfirm"/>
+	<anim x="60" loop="false" y="203" fps="24" anim="BF ESQUIVE UP" name="singUP-alt"/>
+	<anim x="-10" loop="false" y="-70" fps="24" anim="BF ESQUIVE DOWN" name="singDOWN-alt"/>
+	<anim x="-80" loop="false" y="109" fps="24" anim="BF ESQUIVE RIGHT" name="singRIGHT-alt"/>
+	<anim x="374" loop="false" y="35" fps="24" anim="BF ESQUIVE LEFT" name="singLEFT-alt"/>
+</character>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-180" icon="NERMAL_GODFIELD" animatedIcon="true" iconoffsetx="30" iconoffsety="-10" camx="-160" y="540" isGF="false" scale="1.5" camy="240" color="#999999" flipX="true" isPlayer="true" gameOverChar="godnermaldeath" sprite="NERMALL_GOD_ASSETS">
+	<anim x="0" loop="false" y="0" fps="24" anim="NERMALL IDLE" name="idle"/>
+	<anim x="-24" loop="false" y="80" fps="24" anim="NERMALL LEFT0" name="singLEFT"/>
+	<anim x="76" loop="false" y="-41" fps="24" anim="NERMALL DOWN" name="singDOWN"/>
+	<anim x="-22" loop="false" y="176" fps="24" anim="NERMALL UP" name="singUP"/>
+	<anim x="15" loop="false" y="26" fps="24" anim="NERMALL RIGHT" name="singRIGHT"/>
+	<anim x="23" loop="false" y="102" fps="24" anim="NERMALL MISS LEFT" name="singLEFTmiss"/>
+	<anim x="135" loop="false" y="-48" fps="24" anim="NERMALL MISS DOWN" name="singDOWNmiss"/>
+	<anim x="13" loop="false" y="263" fps="24" anim="NERMALL MISS UP" name="singUPmiss"/>
+	<anim x="54" loop="false" y="74" fps="24" anim="NERMALL MISS RIGHT" name="singRIGHTmiss"/>
+</character>

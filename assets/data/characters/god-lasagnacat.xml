@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-710" icon="LB_GOREFIELD_GOD" noLosingIcon="true" iconoffsetx="-30" iconoffsety="-10" animatedIcon="true" camx="-200" y="-520" isGF="false" scale="1.5" camy="420" color="#346756" isPlayer="false" sprite="GOD_CAT">
+	<anim x="0" loop="false" y="0" fps="24" anim="GOD CAT IDLE" name="idle"/>
+	<anim x="5" loop="false" y="50" fps="24" anim="GOD CAT LEFT" name="singLEFT"/>
+	<anim x="50" loop="false" y="-117.5" fps="24" anim="GOD CAT DOWN" name="singDOWN"/>
+	<anim x="-145" loop="false" y="235" fps="24" anim="GOD CAT UP" name="singUP"/>
+	<anim x="-15" loop="false" y="8" fps="24" anim="GOD CAT RIGHT" name="singRIGHT"/>
+</character>

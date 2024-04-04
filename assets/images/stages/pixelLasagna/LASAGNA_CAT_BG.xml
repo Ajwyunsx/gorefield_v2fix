@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LASAGNA CAT BG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LASAGNA CAT RUN BG0000" x="5" y="5" width="1274" height="1049" frameX="-2498" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0001" x="5" y="5" width="1274" height="1049" frameX="-2498" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0002" x="1284" y="5" width="1274" height="926" frameX="-2186" frameY="-123" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0003" x="1284" y="5" width="1274" height="926" frameX="-2186" frameY="-123" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0004" x="2563" y="5" width="1112" height="982" frameX="-2081" frameY="-67" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0005" x="2563" y="5" width="1112" height="982" frameX="-2081" frameY="-67" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0006" x="5" y="1059" width="1275" height="1049" frameX="-1873" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0007" x="5" y="1059" width="1275" height="1049" frameX="-1873" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0008" x="5" y="1059" width="1275" height="1049" frameX="-1561" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0009" x="5" y="1059" width="1275" height="1049" frameX="-1561" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0010" x="1285" y="1059" width="1275" height="1049" frameX="-1249" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0011" x="1285" y="1059" width="1275" height="1049" frameX="-1249" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0012" x="2565" y="1059" width="1275" height="926" frameX="-937" frameY="-123" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0013" x="2565" y="1059" width="1275" height="926" frameX="-937" frameY="-123" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0014" x="5" y="2113" width="1275" height="1049" frameX="-625" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0015" x="5" y="2113" width="1275" height="1049" frameX="-625" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0016" x="1285" y="2113" width="1274" height="1049" frameX="-313" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0017" x="1285" y="2113" width="1274" height="1049" frameX="-313" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0018" x="1285" y="2113" width="1274" height="1049" frameX="0" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0019" x="1285" y="2113" width="1274" height="1049" frameX="0" frameY="0" frameWidth="3772" frameHeight="1049"/>
+	<SubTexture name="LASAGNA CAT RUN BG0020" x="2564" y="2113" width="1" height="1" frameX="-2697" frameY="-164" frameWidth="3772" frameHeight="1049"/>
+</TextureAtlas>

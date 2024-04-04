@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LASAGNA CAT INTRO.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lasagna cat intro0000" x="5" y="5" width="764" height="1288" frameX="0" frameY="-161" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0001" x="5" y="5" width="764" height="1288" frameX="0" frameY="-161" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0002" x="774" y="5" width="1015" height="1368" frameX="0" frameY="-81" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0003" x="774" y="5" width="1015" height="1368" frameX="0" frameY="-81" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0004" x="1794" y="5" width="1413" height="1449" frameX="0" frameY="0" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0005" x="1794" y="5" width="1413" height="1449" frameX="0" frameY="0" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0006" x="3212" y="5" width="1737" height="1449" frameX="0" frameY="0" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0007" x="4954" y="5" width="1823" height="1500" frameX="86" frameY="15" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0008" x="5" y="1510" width="1824" height="1351" frameX="-238" frameY="-134" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0009" x="5" y="1510" width="1824" height="1351" frameX="-238" frameY="-134" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0010" x="1834" y="1510" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0011" x="1834" y="1510" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0012" x="3558" y="1510" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0013" x="3558" y="1510" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0014" x="5282" y="1510" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0015" x="5282" y="1510" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0016" x="5282" y="1510" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0017" x="5" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0018" x="5" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0019" x="1729" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0020" x="1729" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0021" x="1729" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0022" x="3453" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0023" x="3453" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0024" x="3453" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+	<SubTexture name="lasagna cat intro0025" x="3453" y="2866" width="1719" height="1343" frameX="-254" frameY="-117" frameWidth="1808" frameHeight="1449"/>
+</TextureAtlas>

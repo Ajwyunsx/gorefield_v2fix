@@ -1,0 +1,7 @@
+{
+    "loadingbg": "pantalla_azul_CF_14",
+    "loadingimage": "CRYFIELD_CARGA_02",
+    "loadinganim": "CRYFIELD",
+    "loadingpos": [710, 0],
+    "bgOffset": [50, -10]
+}

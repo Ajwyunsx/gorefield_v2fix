@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RANDOM CARGA 02.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RANDOM CARGA 020000" x="5" y="5" width="815" height="1059"/>
+	<SubTexture name="RANDOM CARGA 020001" x="5" y="5" width="815" height="1059"/>
+	<SubTexture name="RANDOM CARGA 020002" x="825" y="5" width="812" height="1056" frameX="0" frameY="-2" frameWidth="815" frameHeight="1059"/>
+	<SubTexture name="RANDOM CARGA 020003" x="825" y="5" width="812" height="1056" frameX="0" frameY="-2" frameWidth="815" frameHeight="1059"/>
+	<SubTexture name="RANDOM CARGA 020004" x="1642" y="5" width="815" height="1059"/>
+	<SubTexture name="RANDOM CARGA 020005" x="1642" y="5" width="815" height="1059"/>
+</TextureAtlas>

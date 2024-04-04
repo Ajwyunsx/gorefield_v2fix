@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-550" icon="icon-garsad" camx="200" y="-60" isGF="false" camy="120" color="#D44D29" isPlayer="true" flipX="true" gameOverChar="face" holdTime="1.5" sprite="garfield_anime">
+	<anim x="0" loop="true" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="79" loop="false" y="-9" fps="24" anim="left garfield anime0" name="singLEFT"/>
+	<anim x="-2" loop="false" y="-18" fps="24" anim="down garfield anime0" name="singDOWN"/>
+	<anim x="-63" loop="false" y="38" fps="24" anim="up garfield anime0" name="singUP"/>
+	<anim x="-45" loop="false" y="0" fps="24" anim="right garfield anime0" name="singRIGHT"/>
+	<anim x="95" loop="false" y="19" fps="24" anim="left garfield anime miss" name="singLEFTmiss"/>
+	<anim x="15" loop="false" y="41" fps="24" anim="down garfield anime miss" name="singDOWNmiss"/>
+	<anim x="-68" loop="false" y="100" fps="24" anim="up garfield anime miss" name="singUPmiss"/>
+	<anim x="-43" loop="false" y="61" fps="24" anim="right garfield anime miss" name="singRIGHTmiss"/>
+</character>

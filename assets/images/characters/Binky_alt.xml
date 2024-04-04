@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Binky_alt_.png">
+<SubTexture name="Binky_alt_ Idle0000" x="0" y="2793" width="5663" height="1344" frameX="-21" frameY="-147" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ Idle0001" x="5621" y="1435" width="5600" height="1337" frameX="-49" frameY="-140" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ Idle0002" x="0" y="4137" width="5600" height="1337" frameX="-63" frameY="-119" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ Idle0003" x="5600" y="4137" width="5621" height="1330" frameX="-42" frameY="-112" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ Idle0004" x="0" y="5474" width="5621" height="1330" frameX="-42" frameY="-112" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ Idle0005" x="0" y="5474" width="5621" height="1330" frameX="-42" frameY="-112" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ Idle0006" x="0" y="5474" width="5621" height="1330" frameX="-42" frameY="-112" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ up0000" x="5600" y="0" width="5621" height="1414" frameX="-42" frameY="0" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ up0001" x="0" y="1435" width="5621" height="1358" frameX="-42" frameY="-28" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ up0002" x="0" y="1435" width="5621" height="1358" frameX="-42" frameY="-28" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ left0000" x="5460" y="6804" width="5460" height="1239" frameX="-105" frameY="-70" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ left0000" x="5663" y="2793" width="5460" height="1260" frameX="-77" frameY="-56" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ left0001" x="5663" y="2793" width="5460" height="1260" frameX="-77" frameY="-56" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ rigth0000" x="0" y="8064" width="5460" height="1239" frameX="-119" frameY="-84" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ rigth0001" x="0" y="6804" width="5460" height="1260" frameX="-147" frameY="-77" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ rigth0002" x="0" y="6804" width="5460" height="1260" frameX="-147" frameY="-77" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ down0000" x="0" y="0" width="5600" height="1435" frameX="-63" frameY="-196" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ down0001" x="5621" y="5474" width="5600" height="1316" frameX="-63" frameY="-245" frameWidth="5726" frameHeight="1631" />
+<SubTexture name="Binky_alt_ down0002" x="5621" y="5474" width="5600" height="1316" frameX="-63" frameY="-245" frameWidth="5726" frameHeight="1631" />
+</TextureAtlas>

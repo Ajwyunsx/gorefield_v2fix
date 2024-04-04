@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="viento.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vientitoo0000" x="5" y="5" width="1169" height="534" frameX="-34" frameY="0" frameWidth="1229" frameHeight="534"/>
+	<SubTexture name="vientitoo0001" x="5" y="544" width="1229" height="534"/>
+	<SubTexture name="vientitoo0002" x="5" y="1083" width="1156" height="534" frameX="-42" frameY="0" frameWidth="1229" frameHeight="534"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LB JON GODFIELD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="100" height="107" frameX="0" frameY="0" frameWidth="100" frameHeight="108"/>
+	<SubTexture name="idle0001" x="0" y="0" width="100" height="107" frameX="0" frameY="0" frameWidth="100" frameHeight="108"/>
+	<SubTexture name="idle0002" x="100" y="0" width="100" height="108"/>
+	<SubTexture name="idle0003" x="100" y="0" width="100" height="108"/>
+	<SubTexture name="losing0000" x="0" y="108" width="111" height="81" frameX="-1" frameY="0" frameWidth="112" frameHeight="81"/>
+	<SubTexture name="losing0001" x="0" y="108" width="111" height="81" frameX="-1" frameY="0" frameWidth="112" frameHeight="81"/>
+	<SubTexture name="losing0002" x="111" y="108" width="112" height="81"/>
+	<SubTexture name="losing0003" x="111" y="108" width="112" height="81"/>
+</TextureAtlas>

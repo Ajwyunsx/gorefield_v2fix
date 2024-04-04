@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75" name="prision" folder="stages/prision/" healthBarColor="captive">
+	<sprite name="BG1" x="0" y="0" sprite="BG1"/>
+	<sprite name="Suelo" x="0" y="0" sprite="suelo">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<sprite name="BG3" x="0" y="0" sprite="BG3">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<opponent x="300" y="100" camxoffset="200" camyoffset="-20"/>
+	<sprite name="Entrada" x="0" y="0" sprite="entrada">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<sprite name="Rayo" x="600" y="-20" sprite="trueno" antialiasing="true" scale="1.5">
+		<anim name="idle" anim="truenito" loop="true"/>
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<player x="1000" y="250" camxoffset="-150" camyoffset="-95"/>
+	<gf x="1350" y="150" camxoffset="-450" camyoffset="100"/>
+	<sprite name="Barriles" x="0" y="860" sprite="Barril" scale="1.1" scrollx="1.1">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<sprite name="RedOverlay" x="0" y="0" sprite="red_vignette">
+		<property name="visible" type="bool" value="false" />
+	</sprite>
+	<sprite name="Warning" x="0" y="0" sprite="Peligro">
+		<property name="visible" type="bool" value="false" />
+	</sprite>
+</stage>
