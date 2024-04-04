@@ -16,7 +16,7 @@ class StoryMenuState extends MusicBeatState {
 	public var characters:Map<String, MenuCharacter> = [];
 	public var weeks:Array<WeekData> = [];
 
-	public static var script:String = "data/scripts/StoryMenuScreen";
+	public static var script:String = "";
 	public var scoreText:FlxText;
 	public var tracklist:FlxText;
 	public var weekTitle:FlxText;
