@@ -17,7 +17,7 @@
 			<checkbox id="warp" name="Warp Shaders" desc="Enable/Disable Warp Shaders. (medium intensive)" />
 			<checkbox id="heatwave" name="Heat Shader" desc="Enable/Disable Heatwave Shaders. (medium intensive)" />
 			<checkbox id="wrath" name="Wrath Shader" desc="Enable/Disable Wrath Shaders. (medium intensive)" />
-			<checkbox id="static" name="Static Shaders" desc="Enable/Disable Static Shaders. (low/no intensive)" />
+			<checkbox id="static1" name="Static Shaders" desc="Enable/Disable Static Shaders. (low/no intensive)" />
 			<checkbox id="saturation" name="Saturation Shaders" desc="Enable/Disable Saturation Shaders. (low/no intensive)" />
 			<checkbox id="drunk" name="Drunk Shaders" desc="Enable/Disable Drunk Shaders. (low/no intensive)" />
 			<checkbox id="vhs" name="VHS Shader" desc="Enable/Disable VHS Shaders. (low/no intensive)" />
