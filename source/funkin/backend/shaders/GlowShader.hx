@@ -56,7 +56,7 @@ gl_FragColor = bloom;
 	}
 	public inline function setGlow(dim:Float, Size:Float)
     {
-      dim.value = [dim];
-      Size.value = [Size];
+        this.dim = dim;
+        this.Size = Size;
     }
 }
