@@ -1860,9 +1860,7 @@ class PlayState extends MusicBeatState
 	 * @param weekData Week Data
 	 * @param difficulty Week Difficulty
 	 */
-	public static function loadWeek(weekData:WeekData, difficulty:String = "normal") {
-		storyWeek = weekData;
-		storyPlaylist = [for(e in weekData.songs) e.name];
+	public static function loadWeek(difficulty:String = "normal") {
 		isStoryMode = true;
 		campaignScore = 0;
 		campaignMisses = 0;
@@ -1870,7 +1868,6 @@ class PlayState extends MusicBeatState
 		campaignAccuracyCount = 0;
 		chartingMode = false;
 		opponentMode = coopMode = false;
-		__loadSong(storyPlaylist[0], difficulty);
 	}
 
 	/**
