@@ -49,6 +49,6 @@ class HeatWaveShader extends FlxShader // BLOOM SHADER BY BBPANZU
 		strength.value = [1.0];
 	}
 	public function update(elapsed:Float) {
-		time.value[0.0] += elapsed;
+		time.value[0] += elapsed;
 	}
 }

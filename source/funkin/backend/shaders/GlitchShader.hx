@@ -69,6 +69,6 @@ class GlitchShader extends FlxShader // BLOOM SHADER BY BBPANZU
 		glitchAmount.value = [4.0];
 	}
 	public function update(elapsed:Float) {
-		time.value[0.0] += elapsed;
+		time.value[0] += elapsed;
 	}
 }
