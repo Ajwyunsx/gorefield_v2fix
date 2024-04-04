@@ -293,6 +293,7 @@ override function create() {
 		bgSprite.colorTransform.color = colowTwn.color;
 	}});
 
+	/*
 	bgShader = new CustomShader("warp");
 	bgShader.distortion = 2;
 	if (FlxG.save.data.warp) camBG.addShader(bgShader);
@@ -301,6 +302,7 @@ override function create() {
 	bloomShader.size = 18.0;// trailBloom.quality = 8.0;
     bloomShader.dim = 1;// trailBloom.directions = 16.0;
 	if (FlxG.save.data.bloom) bgSprite.shader = bloomShader;
+*/
 
 	for (i in 0...9) {
 		var sprite:FlxSprite = new FlxSprite();
