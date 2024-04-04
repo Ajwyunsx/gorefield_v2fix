@@ -49,7 +49,7 @@ function postCreate()
         camCharacters.addShader(vhs);
     }
 
-    if (FlxG.save.data.static)
+    if (FlxG.save.data.static1)
     {
         staticShader = new CustomShader("tvstatic");
         staticShader.time = 0; staticShader.strength = 0.3;
