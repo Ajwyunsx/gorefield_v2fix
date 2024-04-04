@@ -48,6 +48,7 @@ class StoryMenuState extends MusicBeatState {
 		qqqenScript = Script.create(Paths.script(script));
 		qqqenScript.setParent(this);
 		qqqenScript.load();
+		add(qqqenScript);
 
 		DiscordUtil.changePresence("In the Menus", null);
 		CoolUtil.playMenuSong();
