@@ -12,7 +12,6 @@ import funkin.backend.chart.Chart;
 import funkin.backend.chart.ChartData;
 import funkin.game.SplashHandler;
 import funkin.backend.scripting.DummyScript;
-import funkin.menus.StoryMenuState.WeekData;
 import funkin.backend.FunkinText;
 import funkin.backend.scripting.Script;
 import funkin.backend.scripting.ScriptPack;
@@ -54,7 +53,6 @@ class PlayState extends MusicBeatState
 	/**
 	 * The week data of the current week
 	 */
-	public static var storyWeek:WeekData = null;
 	/**
 	 * The remaining songs in the Story Mode playlist.
 	 */
