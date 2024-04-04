@@ -5,6 +5,7 @@ import haxe.io.Path;
 import funkin.backend.scripting.events.*;
 import flixel.util.FlxTimer;
 import flixel.math.FlxPoint;
+import flixel.sound.FlxSound;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import funkin.backend.FunkinText;
