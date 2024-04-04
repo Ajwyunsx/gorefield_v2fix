@@ -920,7 +920,7 @@ override function update(elapsed:Float) {
 		textInfoBG.y = CoolUtil.fpsLerp(textInfoBG.y, codesOpened ? FlxG.height : FlxG.height - textInfoBG.height, 0.25);
 		scoreText.y = CoolUtil.fpsLerp(scoreText.y, codesOpened ? FlxG.height : FlxG.height - scoreText.height - 22, 0.25);
 	}
-	Mouse.cursor = cursor ?? "arrow";
+	Mouse.cursor = cursor;
 
 	if (!updateFreePlay) return;
 	freeplayMenuText.alpha = lerp(freeplayMenuText.alpha, inFreeplayMenu ? (.6 + (.4*FlxMath.fastSin(__totalTime*1.5))) : 0, 0.15);
