@@ -8,6 +8,8 @@ import flixel.addons.display.FlxBackdrop;
 import funkin.backend.system.framerate.Framerate;
 import funkin.backend.utils.FlxInterpolateColor;
 import Xml;
+import flixel.math.FlxPoint;
+import flixel.util.FlxColor;
 import StringTools;
 import openfl.ui.Mouse;
 import openfl.geom.Rectangle;
