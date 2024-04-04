@@ -321,7 +321,8 @@ override function create() {
 		sprite.y = (sprite.height + 35) * i;
 
 		sprite.ID = i;
-		menuOptions.push(add(sprite));
+		menuOptions.push(sprite);
+		add(sprite);
 
 		lerpColors[i * 2 + 0] = new FlxInterpolateColor(((i == 8) ? !codeWeekUnlocked : weeksUnlocked[i] == false) ? 0 : -1);
 
@@ -329,7 +330,8 @@ override function create() {
 		lock.scale.set(.7,.7);
 		lock.color = 0xFF92A2FF;
 		lock.updateHitbox();
-		menuLocks.push(add(lock));
+		menuLocks.push(lock);
+		add(lock);
 
 		lerpColors[i * 2 + 1] = new FlxInterpolateColor(((i == 8) ? !codeWeekUnlocked : weeksUnlocked[i] == false) ? 0 : -1);
 	}
@@ -1571,7 +1573,7 @@ var END = 0x4000004D;
 var V = 0x76;
 var LEFT_CTRL = 0x0040;
 var RIGHT_CTRL = 0x0080;
-function onKeyDown(keyCode:Int, modifier:Int) {
+function onKeyDown(keyCode:Float, modifier:Float) {
 	if (!codesFocused || !canMove) return;
 
 	switch(keyCode) {
