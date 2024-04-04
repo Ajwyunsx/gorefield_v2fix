@@ -11,6 +11,7 @@ import funkin.backend.utils.FlxInterpolateColor;
 import Xml;
 import StringTools;
 import openfl.ui.Mouse;
+import funkin.menus.StoryMenuState;
 import openfl.geom.Rectangle;
 import funkin.backend.utils.DiscordUtil;
 import openfl.desktop.Clipboard;
@@ -242,7 +243,8 @@ var gottenCodeText:FlxTypedGroup<FunkinText> = [];
 var codeListOpenHitbox:FlxObject;
 var tabSprite:FlxSprite;
 
-function postCreate() {
+function create() {
+	StoryMenuState.script = 'data/scripts/StoryMenuScreen';
 	FlxG.mouse.visible = FlxG.mouse.useSystemCursor = true;
 	FlxG.cameras.remove(FlxG.camera, false);
 	DiscordUtil.changePresence('Scrolling Through Menus...', "Story Menu");
