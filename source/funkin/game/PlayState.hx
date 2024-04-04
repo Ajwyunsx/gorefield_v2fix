@@ -54,6 +54,7 @@ class PlayState extends MusicBeatState
 	/**
 	 * The week data of the current week
 	 */
+	public static var storyWeek:WeekData = null;
 	/**
 	public static var storyWeek:WeekData = null;
          * The remaining songs in the Story Mode playlist.
