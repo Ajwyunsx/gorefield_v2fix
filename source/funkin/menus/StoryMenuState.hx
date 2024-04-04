@@ -1565,15 +1565,15 @@ function fullscreenVideo(enabled:Bool) {
 	}
 }
 
-var RIGHT = 0x4000004F;
-var LEFT = 0x40000050;
-var BACKSPACE = 0x08;
-var HOME = 0x4000004A;
-var END = 0x4000004D;
-var V = 0x76;
-var LEFT_CTRL = 0x0040;
-var RIGHT_CTRL = 0x0080;
-function onKeyDown(keyCode:Float, modifier:Float) {
+var right = 0x4000004F;
+var left = 0x40000050;
+var backspace = 0x08;
+var home = 0x4000004A;
+var emd = 0x4000004D;
+var v = 0x76;
+var left_ctrl = 0x0040;
+var right_ctrl = 0x0080;
+function onKeyDown(keyCode:Int, modifier:Int) {
 	if (!codesFocused || !canMove) return;
 
 	switch(keyCode) {
@@ -1592,7 +1592,7 @@ function onKeyDown(keyCode:Float, modifier:Float) {
 			codesPosition = codesText.text.length;
 		case v:
 			// paste
-			if (modifier == LEFT_CTRL || modifier == RIGHT_CTRL) // Esto a mi no me funciona :sob: -EstoyAburridow
+			if (modifier == left_ctrl || modifier == right_ctrl) // Esto a mi no me funciona :sob: -EstoyAburridow
 			{
 				var data:String = Clipboard.generalClipboard.getData(2.0/**TEXTFORMAT**/);
 				if (data != null) onTextInput(data);
