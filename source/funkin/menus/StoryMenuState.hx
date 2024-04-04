@@ -118,7 +118,7 @@ var weekDescsSPANISH:Array<String> = [
 ];
 
 var lerpColors = [];
-var colowTwn:FlxTween;
+public static var colowTwn:FlxTween;
 
 // SUB MENU
 var subMenuOpen:Bool = false;
