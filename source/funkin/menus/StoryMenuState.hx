@@ -53,7 +53,6 @@ var camText:FlxCamera = null;
 var weekText:FlxText;
 var flavourText:FlxText;
 var textBG:FlxSprite;
-var vigentte:FlxSprite;
 
 var scoreText:FlxText;
 var textInfoBG:FlxSprite;
@@ -443,7 +442,7 @@ override function create() {
 	black = new FlxSprite().makeSolid(FlxG.width, FlxG.height, 0xFF000000);
     add(black); black.alpha = 0;
 
-	vigentte = new FlxSprite().loadGraphic(Paths.image("menus/black_vignette"));
+	var vigentte:FunkinSprite = new FunkinSprite().loadGraphic(Paths.image("menus/black_vignette"));
 	vigentte.scrollFactor.set();
 	vigentte.zoomFactor = 0;
 
@@ -459,7 +458,7 @@ override function create() {
 	blackBackground.visible = false;
 	add(blackBackground);
 
-	prevAutoPause = FlxG.autoPause;
+	var prevAutoPause = FlxG.autoPause;
 	FlxG.autoPause = false; // Así evitamos que se añada el "resume" al momento de volver al juego y lo añadimos nosotros mismos con una condición -EstoyAburridow
 	for (path in ["Odivision_Channel", "Fat_Cat_TV", "Purrfect_Show", "Funny_Clown", "The_Unknow_World"]) {
 		video = new FlxVideoSprite(555, 186);
