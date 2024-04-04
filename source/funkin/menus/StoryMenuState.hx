@@ -21,6 +21,8 @@ import funkin.savedata.HighscoreEntry;
 import Type;
 import Date;
 
+using StringTools;
+
 class StoryMenuState extends MusicBeatState {
 
 var canMove:Bool = true;
