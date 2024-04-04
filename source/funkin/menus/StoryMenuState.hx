@@ -8,6 +8,8 @@ import flixel.addons.display.FlxBackdrop;
 import funkin.backend.system.framerate.Framerate;
 import funkin.backend.utils.FlxInterpolateColor;
 import Xml;
+import flixel.sound.FlxSound;
+import flixel.tweens.FlxEase;
 import flixel.math.FlxPoint;
 import flixel.util.FlxColor;
 import StringTools;
@@ -20,6 +22,7 @@ import hxvlc.flixel.FlxVideoSprite;
 import funkin.backend.MusicBeatState;
 import funkin.backend.scripting.GlobalScript;
 import Type;
+import flixel.text.FlxText;
 import Date;
 
 using StringTools;
@@ -266,6 +269,7 @@ override function create() {
 	CoolUtil.playMenuSong();
 	camBG.bgColor = FlxColor.fromRGB(17,5,33);
 
+	/*
 	warpShader = new CustomShader("warp");
 	warpShader.distortion = 0;
 	if (FlxG.save.data.warp) FlxG.camera.addShader(warpShader);
@@ -277,13 +281,14 @@ override function create() {
 	chromatic2 = new CustomShader("chromaticWarp");
     chromatic2.distortion = 0; 
     if (FlxG.save.data.warp && (weeksUnlocked[5] && !weeksFinished[5])) {FlxG.camera.addShader(chromatic2); camBG.addShader(chromatic2);}
+      */
 
-	bgSprite = new FlxBackdrop(Paths.image("menus/WEA_ATRAS"), 0x11, 0, 0);
+	bgSprite = new FlxBackdrop(Paths.image("menus/WEA_ATRAS"), X);
 	bgSprite.cameras = [camBG]; bgSprite.colorTransform.color = 0xFFFFFFFF;
 	bgSprite.velocity.set(100, 100);
 	add(bgSprite);
 
-	colowTwn = FlxTween.color(null, 5.4, 0xFF90D141, 0xFFF09431, {ease: FlxEase.qaudInOut, type: 4 /*PINGPONG*/, onUpdate: function () {
+	colowTwn = FlxTween.color(null, 5.4, 0xFF90D141, 0xFFF09431, {ease: FlxEase.quadInOut, type: 4 /*PINGPONG*/, onUpdate: function () {
 		bgSprite.colorTransform.color = colowTwn.color;
 	}});
 
