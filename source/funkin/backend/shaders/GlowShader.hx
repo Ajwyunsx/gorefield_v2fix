@@ -52,8 +52,8 @@ class GlowShader extends FlxShader
 		super();
 		Quality.value = [8.0];
 		Directions.value = [16.0];
-		dim = [1.0];
-        Size = [8.0];
+		dim.value = [1.0];
+        Size.value = [8.0];
 		//setGlow(_glow)
 	}
 	
