@@ -32,7 +32,6 @@ class SaveWarning {
 					color: 0x969533,
 					onClick: function(_) {
 						if (!closingWindow) {
-							if (selectionClass != null) FlxG.switchState(Type.createInstance(SaveWarning.selectionClass, []));
 							if (closingWindow) WindowUtils.resetClosing();
 						} else {
 							WindowUtils.preventClosing = false; WindowUtils.resetClosing();
@@ -46,7 +45,6 @@ class SaveWarning {
 					onClick: function(_) {
 						if (saveFunc != null) saveFunc();
 						if (!closingWindow) {
-							if (selectionClass != null) FlxG.switchState(Type.createInstance(SaveWarning.selectionClass, []));
 							if (closingWindow) WindowUtils.resetClosing();
 						} else {
 							WindowUtils.preventClosing = false; WindowUtils.resetClosing();
@@ -60,7 +58,6 @@ class SaveWarning {
 
 	public static inline function reset() {
 		SaveWarning.showWarning = false;
-		SaveWarning.selectionClass = null;
 		SaveWarning.saveFunc = null;
 		SaveWarning.warningFunc = null;
 	}
