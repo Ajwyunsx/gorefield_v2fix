@@ -25,7 +25,6 @@ import hxvlc.flixel.FlxVideo;
 import hxvlc.flixel.FlxVideoSprite;
 import funkin.backend.MusicBeatState;
 import funkin.backend.scripting.GlobalScript;
-import funkin.savedata.HighscoreEntry;
 import Type;
 import Date;
 import flixel.text.FlxText;
