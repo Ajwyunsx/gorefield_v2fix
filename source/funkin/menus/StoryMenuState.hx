@@ -6,7 +6,6 @@ import funkin.backend.scripting.events.*;
 import flixel.util.FlxTimer;
 import flixel.math.FlxPoint;
 import flixel.sound.FlxSound;
-import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import funkin.backend.FunkinText;
 import haxe.xml.Access;
@@ -989,9 +988,9 @@ function handleMenu() {
 	}
 }
 
-var pitchTween:Tween;
-var chromaticDistortion1:Tween;
-var chromaticDistortion2:Tween;
+var pitchTween:FlxTween;
+var chromaticDistortion1:FlxTween;
+var chromaticDistortion2:FlxTween;
 function changeWeek(change:Int) {
 	if(selectingWeek) return;
 
