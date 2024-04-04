@@ -44,7 +44,7 @@ class StoryMenuState extends MusicBeatState {
 
 	public override function create() {
 		super.create();
-		ScriptPack.importScript("data/scripts/StoryMenuScreen");
+		ScriptPack.importScript1("data/scripts/StoryMenuScreen");
 		qqqenScript = Script.create(Paths.script(script));
 		qqqenScript.setParent(this);
 		qqqenScript.load();
