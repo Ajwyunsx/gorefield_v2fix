@@ -42,7 +42,7 @@ var selector:FlxSprite;
 var curWeek:Int = curStoryMenuSelected;
 
 var camBG:FlxCamera = null;
-var bgSprite:FlxBackdrop;
+static var bgSprite:FlxBackdrop;
 var camText:FlxCamera = null;
 
 //var bloomShader:CustomShader = null;
@@ -293,8 +293,8 @@ override function create() {
 	bgSprite.velocity.set(100, 100);
 	add(bgSprite);
 
-	colowTwn = FlxTween.color(null, 5.4, 0xFF90D141, 0xFFF09431, {ease: FlxEase.quadInOut, type: 4 /*PINGPONG*/, onUpdate: function (tween:FlxTween) {
-		bgSprite.colorTransform.color = tween.color;
+	colowTwn = FlxTween.color(null, 5.4, 0xFF90D141, 0xFFF09431, {ease: FlxEase.quadInOut, type: 4 /*PINGPONG*/, onUpdate: function () {
+		bgSprite.colorTransform.color = colowTwn.color;
 	}});
 
 	/*
