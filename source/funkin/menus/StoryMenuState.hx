@@ -109,7 +109,7 @@ var weekDescsSPANISH:Array<String> = [
 ];
 
 var lerpColors = [];
-var colowTwn:FlxTween;
+static var colowTwn:FlxTween;
 
 // SUB MENU
 var subMenuOpen:Bool = false;
@@ -272,7 +272,7 @@ var tabSprite:FlxSprite;
 	bgSprite.velocity.set(100, 100);
 	add(bgSprite);
 
-	colowTwn = FlxTween.color(null, 5.4, 0xFF90D141, 0xFFF09431, {ease: FlxEase.qaudInOut, type: 4 /*PINGPONG*/, onUpdate: function () {
+	colowTwn = FlxTween.color(null, 5.4, 0xFF90D141, 0xFFF09431, {ease: FlxEase.quadInOut, type: 4 /*PINGPONG*/, onUpdate: function () {
 		bgSprite.colorTransform.color = colowTwn.color;
 	}});
 
