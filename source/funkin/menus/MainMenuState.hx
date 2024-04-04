@@ -220,10 +220,6 @@ var onYes:Bool = true;
 
 public function importScript(path:String):Script {
 		var script = Script.create(Paths.script(path));
-		if (script is DummyScript) {
-			throw 'Script at ${path} does not exist.';
-			return null;
-		}
 		add(script);
 		script.load();
 		return script;
