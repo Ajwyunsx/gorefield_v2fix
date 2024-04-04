@@ -14,6 +14,7 @@ import flixel.util.FlxTimer;
 import funkin.backend.FunkinText;
 import flixel.sound.FlxSound;
 import flixel.tweens.FlxEase;
+import funkin.backend.FunkinSprite;
 import flixel.math.FlxPoint;
 import flixel.util.FlxColor;
 import StringTools;
