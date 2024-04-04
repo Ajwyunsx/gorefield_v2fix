@@ -8,6 +8,7 @@ import flixel.addons.display.FlxBackdrop;
 import funkin.backend.system.framerate.Framerate;
 import funkin.backend.utils.FlxInterpolateColor;
 import Xml;
+import funkin.backend.FunkinText;
 import flixel.sound.FlxSound;
 import flixel.tweens.FlxEase;
 import flixel.math.FlxPoint;
