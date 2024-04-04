@@ -221,7 +221,7 @@ var lastFrameRateMode:Int = 1;
 var codesTextHitbox:FlxObject;
 var codesButton:FlxSprite;
 // TEXT
-var codesPosition:Int = 0;
+var codesPosition:Float = 0;
 var codesText:FunkinText;
 var caretSpr:FlxSprite;
 var codesFocused:Bool = false;
